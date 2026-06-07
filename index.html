@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Фарм-Тренажёр · Подготовка к аккредитации</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <span class="brand-mark">℞</span>
+      <div>
+        <div class="brand-title">Фарм-Тренажёр</div>
+        <div class="brand-sub">Подготовка к аккредитации · тесты по блокам и контрольный экзамен</div>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-view="blocks">Блоки</button>
+      <button class="tab" data-view="infinite">Бесконечный</button>
+      <button class="tab" data-view="exam">Экзамен</button>
+      <button class="tab" data-view="stats">Статистика</button>
+      <button class="tab" data-view="settings">Вид</button>
+      <button class="tab" data-view="manage">Импорт</button>
+    </nav>
+  </header>
+
+  <main class="app-main">
+    <!-- ===== Тесты по блокам ===== -->
+    <section class="view" id="view-blocks">
+      <div class="toolbar">
+        <label class="field">
+          Блок:
+          <select id="block-topic"></select>
+        </label>
+        <label class="field check">
+          <input type="checkbox" id="block-hard" />
+          Только сложные
+        </label>
+        <label class="field">
+          Вопросов в тесте:
+          <select id="block-count">
+            <option value="10">10</option>
+            <option value="20" selected>20</option>
+            <option value="40">40</option>
+            <option value="60">60</option>
+            <option value="100">100</option>
+            <option value="all">Весь блок</option>
+          </select>
+        </label>
+        <button class="btn btn-primary" id="block-start">Начать тест</button>
+        <span class="badge badge-due" id="block-total">В выбранном блоке: 0</span>
+      </div>
+      <div class="quiz-stage" id="block-stage">
+        <div class="empty-hint">Выберите тему и нажмите «Начать тест».</div>
+      </div>
+    </section>
+
+    <!-- ===== Бесконечный режим ===== -->
+    <section class="view hidden" id="view-infinite">
+      <div class="toolbar">
+        <label class="field">
+          Блок:
+          <select id="infinite-topic"></select>
+        </label>
+        <label class="field check">
+          <input type="checkbox" id="infinite-hard" />
+          Только сложные
+        </label>
+        <button class="btn btn-primary" id="infinite-start">Начать бесконечный режим</button>
+        <span class="badge badge-due" id="infinite-pool">Пул: 0/50</span>
+        <span class="badge badge-new" id="infinite-mastered">Освоено: 0</span>
+      </div>
+      <div class="quiz-stage" id="infinite-stage">
+        <div class="empty-hint">Вопросы идут случайно, но с весами: ошибки повышают вероятность, 3 правильных подряд убирают вопрос из показа.</div>
+      </div>
+    </section>
+
+    <!-- ===== Контрольный экзамен ===== -->
+    <section class="view hidden" id="view-exam">
+      <div class="toolbar">
+        <button class="btn btn-primary" id="exam-start">Начать контрольный экзамен</button>
+        <span class="badge badge-due">80 вопросов</span>
+        <span class="badge badge-new">60 минут</span>
+      </div>
+      <div class="quiz-stage" id="exam-stage">
+        <div class="empty-hint">Контрольный экзамен: 80 случайных вопросов, ответы и пояснения после завершения.</div>
+      </div>
+    </section>
+
+    <!-- ===== Статистика ===== -->
+    <section class="view hidden" id="view-stats">
+      <div class="stats-grid" id="stats-cards"></div>
+      <h3 class="section-title">История экзаменов</h3>
+      <div class="exam-history" id="exam-history"></div>
+      <h3 class="section-title">Прогресс по темам</h3>
+      <div class="topic-table" id="topic-table"></div>
+    </section>
+
+    <!-- ===== Настройки интерфейса ===== -->
+    <section class="view hidden" id="view-settings">
+      <div class="manage-card">
+        <h3>Внешний вид</h3>
+        <p class="muted">Настройки сохраняются в браузере и применяются сразу.</p>
+        <div class="settings-grid">
+          <label class="field stack">
+            Тема
+            <select id="ui-theme">
+              <option value="dark">Тёмная</option>
+              <option value="light">Светлая</option>
+              <option value="sepia">Сепия</option>
+              <option value="contrast">Контрастная</option>
+            </select>
+          </label>
+          <label class="field stack">
+            Шрифт
+            <select id="ui-font">
+              <option value="system">Системный</option>
+              <option value="serif">С засечками</option>
+              <option value="dyslexic">Дружелюбный</option>
+              <option value="mono">Моноширинный</option>
+            </select>
+          </label>
+          <label class="field stack">
+            Размер текста: <span id="ui-font-size-value">16</span> px
+            <input type="range" id="ui-font-size" min="14" max="22" step="1" />
+          </label>
+          <label class="field check">
+            <input type="checkbox" id="ui-compact" />
+            Компактный режим
+          </label>
+        </div>
+        <div class="row settings-actions">
+          <button class="btn" id="ui-reset">Сбросить внешний вид</button>
+        </div>
+      </div>
+
+      <div class="manage-card">
+        <h3>Управление с клавиатуры</h3>
+        <div class="shortcut-grid">
+          <div><kbd>1</kbd>–<kbd>6</kbd></div><div>выбрать вариант ответа</div>
+          <div><kbd>A</kbd>–<kbd>F</kbd> / <kbd>А</kbd>–<kbd>Е</kbd></div><div>выбрать вариант по букве</div>
+          <div><kbd>Enter</kbd> / <kbd>Space</kbd> / <kbd>N</kbd></div><div>следующий вопрос после ответа</div>
+          <div><kbd>Esc</kbd></div><div>снять фокус с поля ввода</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Управление данными ===== -->
+    <section class="view hidden" id="view-manage">
+      <div class="manage-card">
+        <h3>Импорт банка вопросов (JSON)</h3>
+        <p class="muted">
+          Загрузите полный открытый банк ФМЗА в формате JSON. Это массив вопросов
+          (см. формат в <code>README.md</code>). Импорт заменяет текущий банк, статистика по
+          совпадающим <code>id</code> сохраняется.
+        </p>
+        <div class="row">
+          <input type="file" id="import-file" accept=".json,application/json" />
+          <button class="btn" id="import-merge">Добавить к текущему</button>
+        </div>
+        <div id="import-status" class="status"></div>
+      </div>
+
+      <div class="manage-card">
+        <h3>Экспорт / резервная копия</h3>
+        <p class="muted">Сохраните банк и статистику тестов в файл.</p>
+        <div class="row">
+          <button class="btn" id="export-bank">Экспорт банка</button>
+          <button class="btn" id="export-progress">Экспорт прогресса</button>
+        </div>
+      </div>
+
+      <div class="manage-card danger-zone">
+        <h3>Сброс</h3>
+        <p class="muted">Удаляет статистику тестов (банк остаётся).</p>
+        <button class="btn btn-danger" id="reset-progress">Сбросить статистику</button>
+        <button class="btn btn-danger" id="reset-bank">Вернуть банк-пример</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    Учебный тренажёр для самоподготовки. Все ответы основаны на открытом банке заданий.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
