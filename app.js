@@ -79,8 +79,9 @@
     document.body.dataset.theme = uiSettings.theme;
     document.body.dataset.font = uiSettings.font;
     document.body.classList.toggle("compact", !!uiSettings.compact);
-    document.documentElement.style.setProperty("--font-size-base", uiSettings.fontSize + "px");
-    document.documentElement.style.setProperty("--quiz-font-size", Math.round(uiSettings.fontSize * 1.12) + "px");
+    document.documentElement.style.fontSize = uiSettings.fontSize + "px";
+    document.documentElement.style.setProperty("--font-size-base", "1rem");
+    document.documentElement.style.setProperty("--quiz-font-size", "1.12rem");
   }
 
   applyUiSettings();
@@ -274,8 +275,67 @@
       .replace(/\^([0-9A-Za-z+\-−°])/g, "<sup>$1</sup>")
       .replace(/_([0-9A-Za-z+\-−])/g, "<sub>$1</sub>");
 
+    out = autoFormatChemicalFormulas(out);
     if (withLineBreaks) out = out.replace(/\n/g, "<br>");
     return out;
+  }
+
+  function autoFormatChemicalFormulas(html) {
+    return html.replace(/(^|[^A-Za-zА-Яа-я0-9_>])([A-Za-zА-Яа-я]{1,3}(?:[0-9]+|[A-Za-zА-Яа-я][0-9]*){1,5})(?=$|[^A-Za-zА-Яа-я0-9_<])/g, (m, prefix, token) => {
+      const formatted = formatChemicalFormulaToken(token);
+      return formatted ? prefix + formatted : m;
+    });
+  }
+
+  function formatChemicalFormulaToken(token) {
+    const normalized = token
+      .replace(/[Сс]/g, "C")
+      .replace(/[Нн]/g, "H")
+      .replace(/[Оо]/g, "O")
+      .replace(/[Рр]/g, "P")
+      .replace(/[Кк]/g, "K")
+      .replace(/[Аа]/g, "A")
+      .replace(/[Вв]/g, "B")
+      .replace(/[Ее]/g, "E")
+      .replace(/[Мм]/g, "M")
+      .replace(/[Тт]/g, "T")
+      .replace(/[Хх]/g, "X");
+    if (!/[0-9]/.test(normalized) && !/^(zno|cuo|cao|bao|mgo|hcl|hbr|hi|hf|no|co)$/i.test(normalized)) return "";
+
+    const elements = new Set([
+      "H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne", "Na", "Mg", "Al", "Si", "P", "S", "Cl", "Ar",
+      "K", "Ca", "Cr", "Mn", "Fe", "Co", "Ni", "Cu", "Zn", "Br", "I", "Ba", "Hg", "Pb", "Ag", "Au", "Bi"
+    ]);
+    let i = 0;
+    let result = "";
+    let elementCount = 0;
+    while (i < normalized.length) {
+      const ch = normalized[i];
+      if (/[0-9]/.test(ch)) {
+        let j = i + 1;
+        while (j < normalized.length && /[0-9]/.test(normalized[j])) j++;
+        result += `<sub>${normalized.slice(i, j)}</sub>`;
+        i = j;
+        continue;
+      }
+      if (!/[A-Za-z]/.test(ch)) return "";
+      const two = normalized.slice(i, i + 2);
+      const one = normalized.slice(i, i + 1);
+      const twoCanon = two.charAt(0).toUpperCase() + two.charAt(1).toLowerCase();
+      const oneCanon = one.toUpperCase();
+      if (two.length === 2 && elements.has(twoCanon)) {
+        result += twoCanon;
+        i += 2;
+        elementCount++;
+      } else if (elements.has(oneCanon)) {
+        result += oneCanon;
+        i += 1;
+        elementCount++;
+      } else {
+        return "";
+      }
+    }
+    return elementCount >= 2 || /<sub>/.test(result) ? `<span class="chem-formula">${result}</span>` : "";
   }
 
   function escExpl(s) {
@@ -599,7 +659,8 @@
       items: shuffle(pool).slice(0, n).map(shuffleQuestionOptions),
       idx: 0,
       correctCount: 0,
-      answers: [],
+      answers: Array(n).fill(null),
+      flags: Array(n).fill(false),
       stage: examStage,
       startedAt: Date.now(),
       timeLimitMs: EXAM_MINUTES * 60 * 1000,
@@ -634,11 +695,120 @@
     if (remainingExamMs() <= 0) finishQuiz(true);
   }
 
+  function examAnsweredCount(quiz) {
+    return quiz.answers.filter(Boolean).length;
+  }
+
+  function renderExamNavigator(quiz) {
+    const cells = quiz.items.map((_, i) => {
+      const answered = !!quiz.answers[i];
+      const flagged = !!quiz.flags[i];
+      const classes = [
+        "exam-nav-cell",
+        i === quiz.idx ? "current" : "",
+        answered ? "answered" : "unanswered",
+        flagged ? "flagged" : "",
+      ].filter(Boolean).join(" ");
+      const title = `${i + 1}: ${answered ? "есть ответ" : "нет ответа"}${flagged ? ", флажок" : ""}`;
+      return `<button class="${classes}" data-goto="${i}" title="${title}">${i + 1}${flagged ? '<span class="flag-dot">⚑</span>' : ""}</button>`;
+    }).join("");
+    const answered = examAnsweredCount(quiz);
+    const flagged = quiz.flags.filter(Boolean).length;
+    return (
+      '<aside class="exam-nav-panel">' +
+        '<div class="exam-nav-head">' +
+          '<b>Вопросы</b>' +
+          `<span>${answered}/${quiz.items.length} отвечено · ${flagged} с флажком</span>` +
+        "</div>" +
+        `<div class="exam-nav-grid">${cells}</div>` +
+        '<div class="exam-nav-legend">' +
+          '<span><i class="legend-dot answered"></i>есть ответ</span>' +
+          '<span><i class="legend-dot unanswered"></i>нет ответа</span>' +
+          '<span><i class="legend-dot flagged"></i>флажок</span>' +
+        "</div>" +
+      "</aside>"
+    );
+  }
+
+  function drawExamQuestion() {
+    const quiz = activeQuiz;
+    const q = quiz.items[quiz.idx];
+    const pct = Math.round((examAnsweredCount(quiz) / quiz.items.length) * 100);
+    const selected = quiz.answers[quiz.idx]?.choiceIdx;
+    const letters = ["А", "Б", "В", "Г", "Д", "Е"];
+    const optsHtml = q.options.map((opt, i) => {
+      const isSelected = selected === i;
+      return `<button class="opt ${isSelected ? "selected" : ""}" data-i="${i}">` +
+        `<span class="marker">${letters[i] || i + 1}</span><span>${renderRichText(opt, false)}</span>` +
+      "</button>";
+    }).join("");
+    const canPrev = quiz.idx > 0;
+    const canNext = quiz.idx < quiz.items.length - 1;
+    const flagText = quiz.flags[quiz.idx] ? "Снять флажок" : "Отметить флажком";
+
+    quiz.stage.innerHTML =
+      `<div class="quiz-progress"><span>Вопрос ${quiz.idx + 1} из ${quiz.items.length}</span>` +
+        `<span class="bar"><span style="width:${pct}%"></span></span>` +
+        `<span class="timer">Осталось: <b id="exam-timer">${formatTime(remainingExamMs())}</b></span></div>` +
+      '<div class="exam-workspace">' +
+        '<div class="qcard exam-question-card">' +
+          `<div class="fc-head"><span class="fc-topic">${escapeHtml(q.topic)}</span>${hardBadge(q)}</div>` +
+          `<div class="q-text">${renderRichText(q.q, false)}</div>` +
+          `<div class="options">${optsHtml}</div>` +
+          '<div class="exam-actions">' +
+            `<button class="btn" id="exam-prev" ${canPrev ? "" : "disabled"}>Назад</button>` +
+            `<button class="btn" id="exam-flag">${flagText}</button>` +
+            `<button class="btn" id="exam-next" ${canNext ? "" : "disabled"}>Вперёд</button>` +
+            '<button class="btn btn-primary" id="exam-finish">Завершить экзамен</button>' +
+          "</div>" +
+          '<div class="kbd-hint">Клавиши: 1–6 или A–F — ответ, Enter/Space — вперёд. Ответ можно изменить до завершения.</div>' +
+        "</div>" +
+        renderExamNavigator(quiz) +
+      "</div>";
+
+    quiz.stage.querySelectorAll(".opt").forEach((b) => {
+      b.addEventListener("click", () => answerExamQuestion(parseInt(b.dataset.i, 10)));
+    });
+    quiz.stage.querySelectorAll("[data-goto]").forEach((b) => {
+      b.addEventListener("click", () => goExamQuestion(parseInt(b.dataset.goto, 10)));
+    });
+    document.getElementById("exam-prev").addEventListener("click", () => goExamQuestion(quiz.idx - 1));
+    document.getElementById("exam-next").addEventListener("click", () => goExamQuestion(quiz.idx + 1));
+    document.getElementById("exam-flag").addEventListener("click", toggleExamFlag);
+    document.getElementById("exam-finish").addEventListener("click", () => finishQuiz(false));
+    updateExamTimer();
+  }
+
+  function answerExamQuestion(choiceIdx) {
+    const quiz = activeQuiz;
+    const q = quiz.items[quiz.idx];
+    quiz.answers[quiz.idx] = { q, choiceIdx, isCorrect: q.correct.includes(choiceIdx) };
+    if (quiz.idx < quiz.items.length - 1) {
+      quiz.idx++;
+    }
+    drawExamQuestion();
+  }
+
+  function goExamQuestion(idx) {
+    const quiz = activeQuiz;
+    if (!quiz || quiz.mode !== "exam") return;
+    quiz.idx = Math.max(0, Math.min(quiz.items.length - 1, idx));
+    drawExamQuestion();
+  }
+
+  function toggleExamFlag() {
+    const quiz = activeQuiz;
+    if (!quiz || quiz.mode !== "exam") return;
+    quiz.flags[quiz.idx] = !quiz.flags[quiz.idx];
+    drawExamQuestion();
+  }
+
   // ====================================================================
   // Общая логика вопроса
   // ====================================================================
   function drawQuestion() {
     const quiz = activeQuiz;
+    if (quiz.mode === "exam") return drawExamQuestion();
     const q = quiz.items[quiz.idx];
     const pct = Math.round((quiz.idx / quiz.items.length) * 100);
     const letters = ["А", "Б", "В", "Г", "Д", "Е"];
@@ -668,6 +838,7 @@
 
   function answerQuestion(choiceIdx) {
     const quiz = activeQuiz;
+    if (quiz.mode === "exam") return answerExamQuestion(choiceIdx);
     const q = quiz.items[quiz.idx];
     const isCorrect = q.correct.includes(choiceIdx);
     if (isCorrect) quiz.correctCount++;
@@ -707,13 +878,23 @@
     if (!quiz) return;
     clearExamTimer();
     const total = quiz.items.length;
-    const correct = quiz.correctCount;
+    const finalAnswers = quiz.mode === "exam"
+      ? quiz.items.map((q, idx) => quiz.answers[idx] || { q, choiceIdx: null, isCorrect: false })
+      : quiz.answers;
+    const correct = quiz.mode === "exam"
+      ? finalAnswers.filter((a) => a.isCorrect).length
+      : quiz.correctCount;
     const ratio = correct / total;
     const passed = ratio >= PASS_THRESHOLD;
+    if (quiz.mode === "exam") {
+      finalAnswers.forEach(({ q, isCorrect, choiceIdx }) => {
+        if (choiceIdx !== null) recordAttempt(q, isCorrect, quiz.mode);
+      });
+    }
     const durationMs = quiz.mode === "exam"
       ? recordExamAttempt(quiz, timeout, correct, total, ratio, passed)
       : 0;
-    const mistakes = quiz.answers.filter((a) => !a.isCorrect);
+    const mistakes = finalAnswers.filter((a) => !a.isCorrect);
     const restartLabel = quiz.mode === "exam" ? "Начать новый экзамен" : "Пройти блок ещё раз";
     const restartId = quiz.mode === "exam" ? "exam-restart" : "block-restart";
     const restartFn = quiz.mode === "exam" ? startExam : startBlockQuiz;
@@ -942,7 +1123,7 @@
   function clickNextButton() {
     const stage = visibleStage();
     if (!stage) return false;
-    const btn = stage.querySelector("#q-next, #infinite-next, #block-restart, #exam-restart");
+    const btn = stage.querySelector("#exam-next:not(:disabled), #q-next, #infinite-next, #block-restart, #exam-restart");
     if (!btn) return false;
     btn.click();
     return true;
