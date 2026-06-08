@@ -89,6 +89,7 @@
   function normalizeProgress(raw) {
     const out = {};
     for (const [id, st] of Object.entries(raw || {})) {
+      if (!st || typeof st !== "object") continue;
       if (typeof st.attempts === "number") {
         out[id] = ensureProgressState(st);
       } else if (typeof st.seen === "number") {
@@ -358,6 +359,29 @@
     return '<div class="kbd-hint">Клавиши: 1–6 или A–F — ответ, Enter/Space — дальше</div>';
   }
 
+  function mobileActionBarHtml(actions) {
+    return '<div class="mobile-action-bar" aria-label="Мобильное управление">' +
+      '<div class="mobile-action-inner">' + actions.map((action) => {
+        const cls = action.primary ? "btn btn-primary" : "btn";
+        const disabled = action.disabled ? " disabled" : "";
+        return `<button class="${cls}" data-mobile-action="${action.action}"${disabled}>${action.label}</button>`;
+      }).join("") + "</div></div>";
+  }
+
+  function bindMobileActions(scope) {
+    scope.querySelectorAll("[data-mobile-action]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const action = btn.dataset.mobileAction;
+        if (action === "block-next") return goNextOrFinish();
+        if (action === "infinite-next") return drawInfiniteQuestion();
+        if (action === "exam-prev") return goExamQuestion(activeQuiz.idx - 1);
+        if (action === "exam-next") return goExamQuestion(activeQuiz.idx + 1);
+        if (action === "exam-flag") return toggleExamFlag();
+        if (action === "exam-finish") return finishQuiz(false);
+      });
+    });
+  }
+
   function explanationHtml(q, compact) {
     if (q.explanation) {
       return `<div class="q-expl"><span class="lbl">Пояснение:</span>${escExpl(q.explanation)}</div>`;
@@ -623,8 +647,10 @@
     document.getElementById("infinite-feedback").innerHTML =
       explanationHtml(q, false) +
       `<div class="quiz-foot"><span class="muted">Ответов: ${infiniteSession.answered} · Верно: ${infiniteSession.correct} · Подряд по этому вопросу: ${st.correctStreak}/3</span>` +
-      '<button class="btn btn-primary" id="infinite-next">Следующий вопрос</button></div>';
+      '<button class="btn btn-primary" id="infinite-next">Следующий вопрос</button></div>' +
+      mobileActionBarHtml([{ action: "infinite-next", label: "Следующий вопрос", primary: true }]);
     document.getElementById("infinite-next").addEventListener("click", drawInfiniteQuestion);
+    bindMobileActions(infiniteStage);
     updateInfiniteBadges();
   }
 
@@ -764,7 +790,13 @@
           '<div class="kbd-hint">Клавиши: 1–6 или A–F — ответ, Enter/Space — вперёд. Ответ можно изменить до завершения.</div>' +
         "</div>" +
         renderExamNavigator(quiz) +
-      "</div>";
+      "</div>" +
+      mobileActionBarHtml([
+        { action: "exam-prev", label: "Назад", disabled: !canPrev },
+        { action: "exam-flag", label: quiz.flags[quiz.idx] ? "Снять флажок" : "Флажок" },
+        { action: "exam-next", label: "Вперёд", disabled: !canNext },
+        { action: "exam-finish", label: "Завершить", primary: true },
+      ]);
 
     quiz.stage.querySelectorAll(".opt").forEach((b) => {
       b.addEventListener("click", () => answerExamQuestion(parseInt(b.dataset.i, 10)));
@@ -776,6 +808,7 @@
     document.getElementById("exam-next").addEventListener("click", () => goExamQuestion(quiz.idx + 1));
     document.getElementById("exam-flag").addEventListener("click", toggleExamFlag);
     document.getElementById("exam-finish").addEventListener("click", () => finishQuiz(false));
+    bindMobileActions(quiz.stage);
     updateExamTimer();
   }
 
@@ -862,8 +895,10 @@
     fb.innerHTML =
       explanationHtml(q, false) +
       '<div class="quiz-foot"><button class="btn btn-primary" id="q-next">' +
-      (last ? "Завершить" : "Дальше") + "</button></div>";
+      (last ? "Завершить" : "Дальше") + "</button></div>" +
+      mobileActionBarHtml([{ action: "block-next", label: last ? "Завершить" : "Дальше", primary: true }]);
     document.getElementById("q-next").addEventListener("click", goNextOrFinish);
+    bindMobileActions(quiz.stage);
   }
 
   function goNextOrFinish() {
@@ -1159,6 +1194,8 @@
   // ====================================================================
   const importFile = document.getElementById("import-file");
   const importStatus = document.getElementById("import-status");
+  const progressFile = document.getElementById("progress-file");
+  const progressStatus = document.getElementById("progress-status") || importStatus;
   let importMerge = false;
 
   document.getElementById("import-merge").addEventListener("click", () => {
@@ -1211,7 +1248,61 @@
   }
 
   document.getElementById("export-bank").addEventListener("click", () => download("farm-bank.json", bank));
-  document.getElementById("export-progress").addEventListener("click", () => download("farm-progress.json", progress));
+  document.getElementById("export-progress").addEventListener("click", () => {
+    download("farm-progress.json", {
+      version: 2,
+      exportedAt: new Date().toISOString(),
+      progress,
+      examHistory,
+    });
+  });
+
+  document.getElementById("import-progress").addEventListener("click", () => progressFile.click());
+
+  progressFile.addEventListener("change", (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const data = JSON.parse(reader.result);
+        const importedProgress = data && data.progress ? data.progress : data;
+        const importedHistory = data && Array.isArray(data.examHistory) ? data.examHistory : null;
+        const nextProgress = normalizeProgress(importedProgress || {});
+        const nextHistory = importedHistory ? normalizeExamHistory(importedHistory) : [];
+        const progressCount = Object.keys(nextProgress).length;
+        const historyCount = nextHistory.length;
+        if (!progressCount && !historyCount) throw new Error("В файле нет данных прогресса");
+        const replace = confirm(
+          `Импортировать прогресс из файла?\n\nЗаписей прогресса: ${progressCount}\nЭкзаменов: ${historyCount}\n\nОК — заменить текущий прогресс. Отмена — добавить/объединить с текущим.`
+        );
+        progress = replace ? nextProgress : { ...progress, ...nextProgress };
+        examHistory = replace ? nextHistory : mergeExamHistories(examHistory, nextHistory);
+        saveProgress();
+        saveExamHistory();
+        renderStats();
+        setStatus(progressStatus, "ok", `Прогресс импортирован: ${Object.keys(nextProgress).length} записей, экзаменов: ${nextHistory.length}.`);
+      } catch (err) {
+        setStatus(progressStatus, "err", "Ошибка импорта прогресса: " + err.message);
+      } finally {
+        progressFile.value = "";
+      }
+    };
+    reader.readAsText(file);
+  });
+
+  function mergeExamHistories(current, imported) {
+    const seen = new Set();
+    return [...current, ...imported]
+      .filter((item) => {
+        const key = item.id || `${item.date}-${item.correct}-${item.total}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
+      .sort((a, b) => a.date - b.date)
+      .slice(-200);
+  }
 
   document.getElementById("reset-progress").addEventListener("click", () => {
     if (!confirm("Удалить всю статистику тестов и историю экзаменов? Банк вопросов останется.")) return;

@@ -412,6 +412,8 @@ select {
 .legend-dot.unanswered { background: transparent; }
 .legend-dot.flagged { background: var(--warn); border-color: var(--warn); }
 
+.mobile-action-bar { display: none; }
+
 .result-card { text-align: center; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 40px 28px; box-shadow: var(--shadow); }
 .result-score { font-size: clamp(2.5rem, 8vw, 3.25rem); font-weight: 800; }
 .result-score.pass { color: var(--easy); }
@@ -576,6 +578,41 @@ body.compact .q-expl { margin-top: 12px; padding: 11px 13px; }
 
 .q-text,
 .fc-question { font-size: var(--quiz-font-size); }
+
+@media (max-width: 900px) {
+  .app-main { padding-bottom: calc(112px + env(safe-area-inset-bottom)); }
+  .exam-workspace { grid-template-columns: 1fr; }
+  .exam-question-card { order: 1; }
+  .exam-nav-panel {
+    position: static;
+    order: 2;
+  }
+  .exam-actions { display: none; }
+  .kbd-hint { display: none; }
+  .mobile-action-bar {
+    display: block;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 30;
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    border-top: 1px solid var(--border);
+    backdrop-filter: blur(12px);
+  }
+  .mobile-action-inner {
+    width: min(100%, 880px);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(96px, 1fr));
+    gap: 8px;
+  }
+  .mobile-action-inner .btn {
+    min-height: 46px;
+    padding: .625rem .75rem;
+  }
+}
 
 @media (max-width: 560px) {
   body { background: var(--bg); }

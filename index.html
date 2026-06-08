@@ -164,11 +164,14 @@
 
       <div class="manage-card">
         <h3>Экспорт / резервная копия</h3>
-        <p class="muted">Сохраните банк и статистику тестов в файл.</p>
+        <p class="muted">Сохраните банк и статистику тестов в файл или восстановите прогресс из резервной копии.</p>
         <div class="row">
           <button class="btn" id="export-bank">Экспорт банка</button>
           <button class="btn" id="export-progress">Экспорт прогресса</button>
+          <button class="btn" id="import-progress">Импорт прогресса</button>
+          <input type="file" id="progress-file" accept=".json,application/json" hidden />
         </div>
+        <div id="progress-status" class="status"></div>
       </div>
 
       <div class="manage-card danger-zone">
