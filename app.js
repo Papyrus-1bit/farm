@@ -122,23 +122,26 @@
     localStorage.setItem(LS_PROGRESS, JSON.stringify(progress));
   }
 
+  function normalizeExamHistory(raw) {
+    if (!Array.isArray(raw)) return [];
+    return raw
+      .filter((item) => item && typeof item.date === "number")
+      .map((item) => ({
+        id: item.id || "exam-" + item.date,
+        date: item.date,
+        durationMs: Math.max(0, item.durationMs || 0),
+        correct: item.correct || 0,
+        total: item.total || EXAM_COUNT,
+        score: item.score || 0,
+        passed: !!item.passed,
+        timeout: !!item.timeout,
+      }))
+      .sort((a, b) => a.date - b.date);
+  }
+
   function loadExamHistory() {
     try {
-      const raw = JSON.parse(localStorage.getItem(LS_EXAM_HISTORY) || "[]");
-      if (!Array.isArray(raw)) return [];
-      return raw
-        .filter((item) => item && typeof item.date === "number")
-        .map((item) => ({
-          id: item.id || "exam-" + item.date,
-          date: item.date,
-          durationMs: Math.max(0, item.durationMs || 0),
-          correct: item.correct || 0,
-          total: item.total || EXAM_COUNT,
-          score: item.score || 0,
-          passed: !!item.passed,
-          timeout: !!item.timeout,
-        }))
-        .sort((a, b) => a.date - b.date);
+      return normalizeExamHistory(JSON.parse(localStorage.getItem(LS_EXAM_HISTORY) || "[]"));
     } catch (e) {
       return [];
     }
