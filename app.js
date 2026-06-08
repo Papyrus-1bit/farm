@@ -8,6 +8,7 @@
   const LS_PROGRESS = "farm.progress.v2";
   const LS_EXAM_HISTORY = "farm.examHistory.v1";
   const LS_UI = "farm.ui.v1";
+  const LS_ACTIVE_SESSION = "farm.activeSession.v1";
   const PASS_THRESHOLD = 0.7;
   const EXAM_COUNT = 80;
   const EXAM_MINUTES = 60;
@@ -433,22 +434,112 @@
     return out;
   }
 
+  function serializeQuizItem(q) {
+    return q ? { id: q.id, options: q.options, correct: q.correct } : null;
+  }
+
+  function hydrateQuizItem(saved) {
+    if (!saved || !saved.id) return null;
+    const base = bank.find((q) => q.id === saved.id);
+    if (!base) return null;
+    return {
+      ...base,
+      options: Array.isArray(saved.options) ? saved.options.map(String) : base.options,
+      correct: Array.isArray(saved.correct) ? saved.correct.map((n) => parseInt(n, 10)).filter((n) => !isNaN(n)) : base.correct,
+    };
+  }
+
+  function serializeAnswer(a) {
+    if (!a || typeof a.choiceIdx !== "number") return null;
+    return {
+      qId: a.q && a.q.id,
+      choiceIdx: a.choiceIdx,
+      isCorrect: !!a.isCorrect,
+    };
+  }
+
+  function hydrateAnswers(items, answers, examMode) {
+    const list = Array.isArray(answers) ? answers : [];
+    if (examMode) {
+      const out = Array(items.length).fill(null);
+      list.forEach((a, i) => {
+        if (!a || typeof a.choiceIdx !== "number") return;
+        const q = items[i];
+        if (!q || (a.qId && a.qId !== q.id)) return;
+        out[i] = { q, choiceIdx: a.choiceIdx, isCorrect: !!a.isCorrect };
+      });
+      return out;
+    }
+    return list
+      .map((a, i) => {
+        if (!a || typeof a.choiceIdx !== "number") return null;
+        const q = items.find((item) => item.id === a.qId) || items[i];
+        return q ? { q, choiceIdx: a.choiceIdx, isCorrect: !!a.isCorrect } : null;
+      })
+      .filter(Boolean);
+  }
+
+  function clearSavedSession() {
+    localStorage.removeItem(LS_ACTIVE_SESSION);
+  }
+
+  function saveActiveSession() {
+    try {
+      if (activeQuiz) {
+        localStorage.setItem(LS_ACTIVE_SESSION, JSON.stringify({
+          type: "quiz",
+          mode: activeQuiz.mode,
+          items: activeQuiz.items.map(serializeQuizItem),
+          idx: activeQuiz.idx,
+          correctCount: activeQuiz.correctCount || 0,
+          answers: activeQuiz.answers.map(serializeAnswer),
+          flags: activeQuiz.flags || [],
+          startedAt: activeQuiz.startedAt || 0,
+          timeLimitMs: activeQuiz.timeLimitMs || 0,
+          awaitingNext: !!activeQuiz.awaitingNext,
+        }));
+      } else if (infiniteSession) {
+        localStorage.setItem(LS_ACTIVE_SESSION, JSON.stringify({
+          type: "infinite",
+          topic: infiniteSession.topic || infiniteTopic.value || "__all__",
+          hard: !!infiniteSession.hard,
+          poolIds: infiniteSession.poolIds || [],
+          current: serializeQuizItem(infiniteSession.current),
+          answered: infiniteSession.answered || 0,
+          correct: infiniteSession.correct || 0,
+          awaitingNext: !!infiniteSession.awaitingNext,
+          lastAnswer: infiniteSession.lastAnswer || null,
+        }));
+      } else {
+        clearSavedSession();
+      }
+    } catch (e) {
+      // Если браузер переполнил localStorage, лучше потерять сессию, чем сломать тест.
+      clearSavedSession();
+    }
+  }
+
   // ====================================================================
   // Навигация
   // ====================================================================
   const tabsEl = document.getElementById("tabs");
-  tabsEl.addEventListener("click", (e) => {
-    const btn = e.target.closest(".tab");
-    if (!btn) return;
+  function setActiveView(view, render = true) {
     document.querySelectorAll(".tab").forEach((t) => t.classList.remove("active"));
-    btn.classList.add("active");
-    const view = btn.dataset.view;
+    const btn = tabsEl.querySelector(`[data-view="${view}"]`);
+    if (btn) btn.classList.add("active");
     document.querySelectorAll(".view").forEach((v) => v.classList.add("hidden"));
     document.getElementById("view-" + view).classList.remove("hidden");
+    if (!render) return;
     if (view === "blocks") renderBlockIntro();
     if (view === "infinite") renderInfiniteIntro();
     if (view === "exam") renderExamIntro();
     if (view === "stats") renderStats();
+  }
+
+  tabsEl.addEventListener("click", (e) => {
+    const btn = e.target.closest(".tab");
+    if (!btn) return;
+    setActiveView(btn.dataset.view);
   });
 
   // ====================================================================
@@ -474,6 +565,7 @@
   function startBlockQuiz() {
     clearExamTimer();
     infiniteSession = null;
+    clearSavedSession();
     const pool = byTopic(blockTopic.value || "__all__", blockHard.checked);
     if (!pool.length) {
       blockStage.innerHTML = '<div class="empty-hint">Нет вопросов под выбранные условия.</div>';
@@ -488,6 +580,7 @@
       correctCount: 0,
       answers: [],
       stage: blockStage,
+      awaitingNext: false,
     };
     drawQuestion();
   }
@@ -520,7 +613,9 @@
   }
 
   function infiniteSourcePool() {
-    return byTopic(infiniteTopic.value || "__all__", infiniteHard.checked);
+    const topic = infiniteSession ? (infiniteSession.topic || "__all__") : (infiniteTopic.value || "__all__");
+    const hard = infiniteSession ? !!infiniteSession.hard : infiniteHard.checked;
+    return byTopic(topic, hard);
   }
 
   function eligibleInfiniteQuestions() {
@@ -543,16 +638,21 @@
   function startInfinite() {
     clearExamTimer();
     activeQuiz = null;
+    clearSavedSession();
     const eligible = eligibleInfiniteQuestions();
     if (!eligible.length) {
       infiniteStage.innerHTML = '<div class="empty-hint">Нет доступных вопросов: выбранный блок полностью освоен или пуст.</div>';
       return;
     }
     infiniteSession = {
+      topic: infiniteTopic.value || "__all__",
+      hard: infiniteHard.checked,
       poolIds: [],
       current: null,
       answered: 0,
       correct: 0,
+      awaitingNext: false,
+      lastAnswer: null,
     };
     refillInfinitePool();
     drawInfiniteQuestion();
@@ -606,9 +706,17 @@
       return;
     }
     infiniteSession.current = shuffleQuestionOptions(q);
+    infiniteSession.awaitingNext = false;
+    infiniteSession.lastAnswer = null;
+    renderInfiniteCurrentQuestion();
+  }
+
+  function renderInfiniteCurrentQuestion() {
+    const q = infiniteSession.current;
+    if (!q) return;
     const st = ensureProgressState(progress[q.id] || {});
     const letters = ["А", "Б", "В", "Г", "Д", "Е"];
-    const optsHtml = infiniteSession.current.options.map((opt, i) =>
+    const optsHtml = q.options.map((opt, i) =>
       `<button class="opt" data-i="${i}"><span class="marker">${letters[i] || i + 1}</span><span>${renderRichText(opt, false)}</span></button>`
     ).join("");
     infiniteStage.innerHTML =
@@ -616,8 +724,8 @@
         `<span class="bar"><span style="width:${Math.min(100, (st.correctStreak / 3) * 100)}%"></span></span>` +
         `<span>Вес: ${infiniteWeight(q).toFixed(1)} · подряд: ${st.correctStreak}/3</span></div>` +
       '<div class="qcard">' +
-        `<div class="fc-head"><span class="fc-topic">${escapeHtml(infiniteSession.current.topic)}</span>${hardBadge(infiniteSession.current)}</div>` +
-        `<div class="q-text">${renderRichText(infiniteSession.current.q, false)}</div>` +
+        `<div class="fc-head"><span class="fc-topic">${escapeHtml(q.topic)}</span>${hardBadge(q)}</div>` +
+        `<div class="q-text">${renderRichText(q.q, false)}</div>` +
         `<div class="options">${optsHtml}</div>` +
         keyboardHintHtml() +
         '<div id="infinite-feedback"></div>' +
@@ -625,7 +733,11 @@
     infiniteStage.querySelectorAll(".opt").forEach((b) => {
       b.addEventListener("click", () => answerInfinite(parseInt(b.dataset.i, 10)));
     });
+    if (infiniteSession.awaitingNext && infiniteSession.lastAnswer) {
+      renderInfiniteAnsweredFeedback();
+    }
     updateInfiniteBadges();
+    saveActiveSession();
   }
 
   function answerInfinite(choiceIdx) {
@@ -646,6 +758,23 @@
       infiniteSession.poolIds = infiniteSession.poolIds.filter((id) => id !== q.id);
     }
     refillInfinitePool();
+    infiniteSession.awaitingNext = true;
+    infiniteSession.lastAnswer = { choiceIdx, isCorrect };
+    renderInfiniteAnsweredFeedback();
+    updateInfiniteBadges();
+    saveActiveSession();
+  }
+
+  function renderInfiniteAnsweredFeedback() {
+    const q = infiniteSession.current;
+    const answer = infiniteSession.lastAnswer;
+    if (!q || !answer) return;
+    const opts = infiniteStage.querySelectorAll(".opt");
+    opts.forEach((b, i) => {
+      b.disabled = true;
+      if (q.correct.includes(i)) b.classList.add("correct");
+      if (i === answer.choiceIdx && !answer.isCorrect) b.classList.add("wrong");
+    });
     const st = ensureProgressState(progress[q.id] || {});
     document.getElementById("infinite-feedback").innerHTML =
       explanationHtml(q, false) +
@@ -654,7 +783,6 @@
       mobileActionBarHtml([{ action: "infinite-next", label: "Следующий вопрос", primary: true }]);
     document.getElementById("infinite-next").addEventListener("click", drawInfiniteQuestion);
     bindMobileActions(infiniteStage);
-    updateInfiniteBadges();
   }
 
   // ====================================================================
@@ -677,6 +805,7 @@
   function startExam() {
     clearExamTimer();
     infiniteSession = null;
+    clearSavedSession();
     const pool = bank.slice();
     if (!pool.length) {
       examStage.innerHTML = '<div class="empty-hint">Банк вопросов пуст.</div>';
@@ -813,6 +942,7 @@
     document.getElementById("exam-finish").addEventListener("click", () => finishQuiz(false));
     bindMobileActions(quiz.stage);
     updateExamTimer();
+    saveActiveSession();
   }
 
   function answerExamQuestion(choiceIdx) {
@@ -869,7 +999,11 @@
     quiz.stage.querySelectorAll(".opt").forEach((b) => {
       b.addEventListener("click", () => answerQuestion(parseInt(b.dataset.i, 10)));
     });
+    if (quiz.awaitingNext) {
+      renderBlockAnsweredFeedback();
+    }
     updateExamTimer();
+    saveActiveSession();
   }
 
   function answerQuestion(choiceIdx) {
@@ -880,17 +1014,23 @@
     if (isCorrect) quiz.correctCount++;
     quiz.answers.push({ q, choiceIdx, isCorrect });
     recordAttempt(q, isCorrect, quiz.mode);
+    quiz.awaitingNext = true;
 
-    if (quiz.mode === "exam") {
-      goNextOrFinish();
-      return;
-    }
+    renderBlockAnsweredFeedback();
+    saveActiveSession();
+  }
 
+  function renderBlockAnsweredFeedback() {
+    const quiz = activeQuiz;
+    if (!quiz || quiz.mode !== "block") return;
+    const q = quiz.items[quiz.idx];
+    const answer = quiz.answers[quiz.idx];
+    if (!q || !answer) return;
     const opts = quiz.stage.querySelectorAll(".opt");
     opts.forEach((b, i) => {
       b.disabled = true;
       if (q.correct.includes(i)) b.classList.add("correct");
-      if (i === choiceIdx && !isCorrect) b.classList.add("wrong");
+      if (i === answer.choiceIdx && !answer.isCorrect) b.classList.add("wrong");
     });
 
     const fb = document.getElementById("q-feedback");
@@ -907,6 +1047,7 @@
   function goNextOrFinish() {
     const quiz = activeQuiz;
     if (quiz.idx >= quiz.items.length - 1) return finishQuiz(false);
+    quiz.awaitingNext = false;
     quiz.idx++;
     drawQuestion();
   }
@@ -962,6 +1103,7 @@
       mistakesHtml;
     document.getElementById(restartId).addEventListener("click", restartFn);
     activeQuiz = null;
+    clearSavedSession();
   }
 
   // ====================================================================
@@ -1192,6 +1334,8 @@
     }
   });
 
+  window.addEventListener("beforeunload", saveActiveSession);
+
   // ====================================================================
   // Импорт / экспорт / сброс
   // ====================================================================
@@ -1232,6 +1376,10 @@
         }
         applyExplanations();
         saveBank();
+        activeQuiz = null;
+        infiniteSession = null;
+        clearExamTimer();
+        clearSavedSession();
         refreshTopicSelects();
         renderBlockIntro();
         renderInfiniteIntro();
@@ -1322,6 +1470,10 @@
     bank = SEED_BANK.slice();
     applyExplanations();
     saveBank();
+    activeQuiz = null;
+    infiniteSession = null;
+    clearExamTimer();
+    clearSavedSession();
     refreshTopicSelects();
     renderBlockIntro();
     renderInfiniteIntro();
@@ -1340,6 +1492,81 @@
     if (!document.getElementById("view-stats").classList.contains("hidden")) renderStats();
   }
 
+  function restoreSavedSession() {
+    let saved = null;
+    try {
+      saved = JSON.parse(localStorage.getItem(LS_ACTIVE_SESSION) || "null");
+    } catch (e) {
+      clearSavedSession();
+      return false;
+    }
+    if (!saved || typeof saved !== "object") return false;
+
+    if (saved.type === "quiz" && ["block", "exam"].includes(saved.mode)) {
+      const items = (Array.isArray(saved.items) ? saved.items : []).map(hydrateQuizItem).filter(Boolean);
+      if (!items.length) {
+        clearSavedSession();
+        return false;
+      }
+      const examMode = saved.mode === "exam";
+      activeQuiz = {
+        mode: saved.mode,
+        items,
+        idx: Math.max(0, Math.min(items.length - 1, parseInt(saved.idx, 10) || 0)),
+        correctCount: Math.max(0, parseInt(saved.correctCount, 10) || 0),
+        answers: hydrateAnswers(items, saved.answers, examMode),
+        flags: examMode ? Array(items.length).fill(false).map((_, i) => !!(saved.flags || [])[i]) : [],
+        stage: examMode ? examStage : blockStage,
+        startedAt: saved.startedAt || Date.now(),
+        timeLimitMs: saved.timeLimitMs || 0,
+        awaitingNext: !!saved.awaitingNext,
+      };
+      infiniteSession = null;
+      setActiveView(examMode ? "exam" : "blocks", false);
+      if (examMode) {
+        if (remainingExamMs() <= 0) {
+          finishQuiz(true);
+        } else {
+          examTimer = setInterval(updateExamTimer, 1000);
+          drawExamQuestion();
+        }
+      } else {
+        drawQuestion();
+      }
+      return true;
+    }
+
+    if (saved.type === "infinite") {
+      const current = hydrateQuizItem(saved.current);
+      infiniteSession = {
+        topic: saved.topic || "__all__",
+        hard: !!saved.hard,
+        poolIds: Array.isArray(saved.poolIds) ? saved.poolIds.map(String) : [],
+        current,
+        answered: Math.max(0, parseInt(saved.answered, 10) || 0),
+        correct: Math.max(0, parseInt(saved.correct, 10) || 0),
+        awaitingNext: !!saved.awaitingNext,
+        lastAnswer: saved.lastAnswer || null,
+      };
+      activeQuiz = null;
+      if ([...infiniteTopic.options].some((o) => o.value === infiniteSession.topic)) {
+        infiniteTopic.value = infiniteSession.topic;
+      }
+      infiniteHard.checked = !!infiniteSession.hard;
+      setActiveView("infinite", false);
+      refillInfinitePool();
+      if (current) {
+        renderInfiniteCurrentQuestion();
+      } else {
+        drawInfiniteQuestion();
+      }
+      return true;
+    }
+
+    clearSavedSession();
+    return false;
+  }
+
   // ====================================================================
   // Инициализация
   // ====================================================================
@@ -1347,6 +1574,7 @@
   renderBlockIntro();
   renderInfiniteIntro();
   renderExamIntro();
+  restoreSavedSession();
 
   if (typeof fetch === "function") {
     fetch("explanations.json", { cache: "no-store" })
