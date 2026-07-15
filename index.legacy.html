@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ПДД-тренажёр</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <span class="brand-mark">◉</span>
+        <div>
+          <div class="brand-title">ПДД-тренажёр</div>
+          <div class="brand-sub">Билеты · экзамен</div>
+        </div>
+      </div>
+
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <button class="nav-item active" data-view="tickets" data-title="Билеты">📋 Билеты</button>
+        <button class="nav-item" data-view="topics" data-title="Темы">📚 Темы</button>
+        <button class="nav-item" data-view="exam" data-title="Экзамен">🎯 Экзамен</button>
+        <button class="nav-item" data-view="stats" data-title="Статистика">📊 Статистика</button>
+        <button class="nav-item" data-view="settings" data-title="Настройки">⚙️ Настройки</button>
+      </nav>
+
+      <div class="sidebar-foot">
+        <label class="field compact stack">
+          Страна
+          <select id="region-country">
+            <option value="ru">Россия</option>
+            <option value="by">Беларусь</option>
+          </select>
+        </label>
+        <label class="field compact stack" id="region-category-wrap">
+          Категория
+          <select id="region-category">
+            <option value="ab">A/B</option>
+            <option value="cd">C/D</option>
+          </select>
+        </label>
+      </div>
+    </aside>
+
+    <div class="app-body">
+      <header class="topbar">
+        <button type="button" class="icon-btn sidebar-toggle" id="sidebar-toggle" aria-label="Меню">☰</button>
+        <h1 class="view-title" id="view-title">Билеты</h1>
+        <span class="badge badge-due" id="bank-status">Загрузка…</span>
+      </header>
+
+      <main class="app-main">
+        <section class="view" id="view-tickets">
+          <div class="toolbar">
+            <label class="field" id="ticket-select-wrap">
+              Билет
+              <select id="ticket-number"></select>
+            </label>
+            <button class="btn btn-primary" id="ticket-start">Начать</button>
+            <span class="badge badge-new" id="ticket-info">20 вопросов</span>
+          </div>
+          <div class="quiz-stage" id="ticket-stage">
+            <div class="empty-hint">Выберите билет и пройдите 20 вопросов подряд.</div>
+          </div>
+        </section>
+
+        <section class="view hidden" id="view-topics">
+          <div class="toolbar">
+            <label class="field">
+              Тема
+              <select id="topic-select"></select>
+            </label>
+            <label class="field">
+              Вопросов
+              <select id="topic-count">
+                <option value="10">10</option>
+                <option value="20" selected>20</option>
+                <option value="40">40</option>
+                <option value="all">Все</option>
+              </select>
+            </label>
+            <button class="btn btn-primary" id="topic-start">Начать</button>
+            <span class="badge badge-due" id="topic-total">0</span>
+          </div>
+          <div class="quiz-stage" id="topic-stage">
+            <div class="empty-hint">Тренировка по разделам ПДД.</div>
+          </div>
+        </section>
+
+        <section class="view hidden" id="view-exam">
+          <div class="toolbar">
+            <button class="btn btn-primary" id="exam-start">Начать экзамен</button>
+            <span class="badge badge-due" id="exam-rules">20</span>
+            <span class="badge badge-new" id="exam-time">20 мин</span>
+            <span class="badge" id="exam-errors">ошибки</span>
+          </div>
+          <div class="quiz-stage" id="exam-stage">
+            <div class="empty-hint" id="exam-intro-text">Режим экзамена.</div>
+          </div>
+        </section>
+
+        <section class="view hidden" id="view-stats">
+          <div class="stats-panel">
+            <div class="stats-grid" id="stats-cards"></div>
+            <div class="stats-columns">
+              <div class="stats-col">
+                <h3 class="section-title">История экзаменов</h3>
+                <div class="stats-scroll">
+                  <div class="stats-table-head stats-history-head">
+                    <span>Дата</span><span>Результат</span><span>Статус</span>
+                  </div>
+                  <div id="exam-history"></div>
+                </div>
+              </div>
+              <div class="stats-col">
+                <h3 class="section-title">Прогресс по темам</h3>
+                <div class="stats-scroll">
+                  <div class="stats-table-head stats-topic-head">
+                    <span>Тема</span><span>Счёт</span><span></span>
+                  </div>
+                  <div id="topic-table"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="view hidden" id="view-settings">
+          <div class="settings-stack">
+            <div class="manage-card">
+              <h3>Внешний вид</h3>
+              <div class="settings-grid">
+                <label class="field stack">
+                  Тема
+                  <select id="ui-theme">
+                    <option value="dark">Тёмная</option>
+                    <option value="light">Светлая</option>
+                    <option value="sepia">Сепия</option>
+                    <option value="contrast">Контрастная</option>
+                  </select>
+                </label>
+                <label class="field stack">
+                  Шрифт
+                  <select id="ui-font">
+                    <option value="system">Системный</option>
+                    <option value="serif">С засечками</option>
+                    <option value="dyslexic">Дружелюбный</option>
+                    <option value="mono">Моноширинный</option>
+                  </select>
+                </label>
+                <label class="field stack">
+                  Размер: <span id="ui-font-size-value">14</span> px
+                  <input type="range" id="ui-font-size" min="12" max="18" step="1" />
+                </label>
+                <label class="field check">
+                  <input type="checkbox" id="ui-compact" checked />
+                  Компактный режим
+                </label>
+              </div>
+              <button class="btn" id="ui-reset">Сбросить</button>
+            </div>
+            <div class="manage-card">
+              <h3>Импорт банка</h3>
+              <input type="file" id="import-file" accept=".json,application/json" />
+              <div id="import-status" class="status"></div>
+            </div>
+            <div class="manage-card">
+              <h3>Прогресс</h3>
+              <div class="row">
+                <button class="btn" id="export-progress">Экспорт</button>
+                <button class="btn" id="import-progress">Импорт</button>
+                <input type="file" id="progress-file" accept=".json,application/json" hidden />
+              </div>
+              <div id="progress-status" class="status"></div>
+            </div>
+            <div class="manage-card danger-zone">
+              <button class="btn btn-danger" id="reset-progress">Сбросить статистику</button>
+              <button class="btn btn-danger" id="reset-bank">Вернуть банк</button>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <nav class="bottom-nav" id="bottom-nav" aria-label="Навигация">
+    <button class="bn-item active" data-view="tickets" data-title="Билеты">📋</button>
+    <button class="bn-item" data-view="topics" data-title="Темы">📚</button>
+    <button class="bn-item" data-view="exam" data-title="Экзамен">🎯</button>
+    <button class="bn-item" data-view="stats" data-title="Статистика">📊</button>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+  "id": "pedestrian-001",
+  "title": "Пешеход на переходе",
+  "topic": "pedestrians",
+  "difficulty": 1,
+  "duration": 10,
+  "camera": "driver",
+  "environment": { "weather": "sunny", "time": "day" },
+  "brief": "Перед вами нерегулируемый пешеходный переход. Пешеход уже вступил на проезжую часть.",
+  "map": { "type": "crosswalk", "playerLane": "east" },
+  "objects": [
+    { "id": "player", "type": "car", "x": 2, "y": 8, "heading": 0, "color": "#3b82f6", "role": "player" },
+    { "id": "ped", "type": "pedestrian", "x": 8, "y": 7.5, "heading": 0, "color": "#22c55e", "role": "traffic" }
+  ],
+  "decisions": [
+    { "id": "stop", "label": "Остановиться", "icon": "stop" },
+    { "id": "slow", "label": "Снизить скорость", "icon": "slow" },
+    { "id": "go", "label": "Проехать", "icon": "go" }
+  ],
+  "correctDecision": "stop",
+  "outcomes": {
+    "stop": {
+      "success": true,
+      "title": "Верно",
+      "detail": "Вы пропустили пешехода на переходе.",
+      "events": [{ "type": "move", "id": "ped", "to": { "x": 12, "y": 7.5 } }]
+    },
+    "slow": {
+      "success": false,
+      "title": "Нарушение",
+      "detail": "Пешеход уже на переходе — необходима остановка.",
+      "events": [{ "type": "near_miss", "id": "ped" }]
+    },
+    "go": {
+      "success": false,
+      "title": "Опасно",
+      "detail": "Создана аварийная ситуация с пешеходом.",
+      "events": [{ "type": "crash", "ids": ["player", "ped"] }]
+    }
+  },
+  "explanation": "Водитель обязан уступить дорогу пешеходам, переходящим проезжую часть по нерегулируемому пешеходному переходу.",
+  "rule": "14.1"
+}

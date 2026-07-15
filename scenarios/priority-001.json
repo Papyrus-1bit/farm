@@ -1,0 +1,28 @@
+{
+  "id": "priority-001",
+  "title": "«Уступи дорогу»",
+  "topic": "priority",
+  "difficulty": 2,
+  "duration": 11,
+  "camera": "driver",
+  "environment": { "weather": "sunny", "time": "day" },
+  "brief": "Вы движетесь по второстепенной дороге и видите знак «Уступи дорогу» перед перекрёстком.",
+  "map": { "type": "intersection", "signs": ["yield"], "playerLane": "east" },
+  "objects": [
+    { "id": "player", "type": "car", "x": 2, "y": 8, "heading": 0, "color": "#3b82f6", "role": "player" },
+    { "id": "main", "type": "car", "x": 8, "y": 4, "heading": 1.57, "color": "#6366f1", "role": "traffic" }
+  ],
+  "decisions": [
+    { "id": "yield", "label": "Уступить", "icon": "yield" },
+    { "id": "go", "label": "Проехать без остановки", "icon": "go" },
+    { "id": "stop", "label": "Остановиться", "icon": "stop" }
+  ],
+  "correctDecision": "yield",
+  "outcomes": {
+    "yield": { "success": true, "title": "Верно", "detail": "Вы пропустили транспорт на главной.", "events": [] },
+    "stop": { "success": true, "title": "Верно", "detail": "Остановка перед перекрёстком — безопасное решение.", "events": [] },
+    "go": { "success": false, "title": "Нарушение", "detail": "Вы не выполнили требование знака 2.4.", "events": [{ "type": "near_miss", "id": "player" }] }
+  },
+  "explanation": "Знак «Уступи дорогу» обязывает уступить дорогу транспортным средствам, движущимся по пересекаемой дороге.",
+  "rule": "2.4"
+}

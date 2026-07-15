@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="3.24 60.svg">
+  <title
+     id="title3002">3.24 Ограничение максимальной скорости </title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="338.14028"
+     inkscape:cy="319.98577"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>3.24 Ограничение максимальной скорости </dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5334"
+       sodipodi:cx="-87.720657"
+       sodipodi:cy="432.25998"
+       sodipodi:rx="22.107042"
+       sodipodi:ry="29.465372"
+       d="m -65.613615,432.25998 c 0,16.27327 -9.89766,29.46537 -22.107042,29.46537 -12.209383,0 -22.107043,-13.1921 -22.107043,-29.46537 0,-16.27328 9.89766,-29.46537 22.107043,-29.46537 12.209382,0 22.107042,13.19209 22.107042,29.46537 z"
+       transform="matrix(13.570336,0,0,10.181443,1490.3988,-3648.6681)" />
+    <path
+       transform="matrix(13.525102,0,0,10.147505,1486.4308,-3633.998)"
+       d="m -65.613615,432.25998 c 0,16.27327 -9.89766,29.46537 -22.107042,29.46537 -12.209383,0 -22.107043,-13.1921 -22.107043,-29.46537 0,-16.27328 9.89766,-29.46537 22.107043,-29.46537 12.209382,0 22.107042,13.19209 22.107042,29.46537 z"
+       sodipodi:ry="29.465372"
+       sodipodi:rx="22.107042"
+       sodipodi:cy="432.25998"
+       sodipodi:cx="-87.720657"
+       id="path3003"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.17071831000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       sodipodi:type="arc" />
+    <path
+       style="opacity:1;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 300 10 C 139.83742 10 10 139.83742 10 300 C 10 460.16258 139.83742 590 300 590 C 460.16258 590 590 460.16258 590 300 C 590 139.83742 460.16258 10 300 10 z M 300 59.03125 C 433.0828 59.03125 540.96875 166.91719 540.96875 300 C 540.96875 433.08281 433.0828 540.96875 300 540.96875 C 166.9172 540.96875 59.03125 433.08281 59.03125 300 C 59.03125 166.91719 166.9172 59.03125 300 59.03125 z "
+       transform="translate(0,452.36218)"
+       id="path4775-9" />
+    <g
+       style="font-size:380.18783569px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-21.29032135px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="text9499">
+      <path
+         d="m 222.80979,642.48951 c -27.7772,1.14077 -48.06944,13.02147 -60.8768,35.64215 -12.80744,22.62104 -19.12798,49.13877 -18.96162,79.55328 0.27719,33.4324 7.04127,59.0472 20.29226,76.84447 13.2509,17.79732 31.32541,26.77914 54.2236,26.94547 17.90807,-0.55443 33.32131,-8.09472 46.23974,-22.62089 12.91814,-14.52613 19.68222,-32.71153 20.29227,-54.55625 -0.39443,-16.69276 -4.04137,-29.60488 -10.94082,-38.73642 -6.89977,-9.13131 -14.68648,-15.4536 -23.36014,-18.9669 -8.67393,-3.51304 -15.86923,-5.18866 -21.58593,-5.02686 -9.43339,0.28527 -18.51025,2.75645 -27.23061,7.41356 -8.72052,4.65736 -16.37169,9.78983 -22.95354,15.39741 -0.26759,-0.88697 0.52093,-7.09662 2.36558,-18.62896 1.84452,-11.53207 6.35039,-23.06428 13.51761,-34.59665 7.16707,-11.53203 18.60071,-17.74168 34.30096,-18.62896 12.36374,0.45957 22.89797,2.29711 31.60271,5.51264 8.70445,3.2159 13.2508,5.05345 13.63906,5.51266 l -5.32256,-32.31555 c -0.55458,-0.36413 -5.43359,-1.8215 -14.63705,-4.37211 -9.20373,-2.55018 -19.40529,-4.00754 -30.60472,-4.37209 z m 0,109.87287 c 5.76599,10e-5 11.53209,2.66138 17.29832,7.98384 5.76598,5.32265 8.8708,13.30649 9.31449,23.95152 -0.0635,9.92442 -3.26338,19.34978 -9.59963,28.2761 -6.3365,8.92642 -15.4292,13.69454 -27.27812,14.30439 -8.0778,-0.59136 -14.60661,-4.73113 -19.58646,-12.41932 -4.98001,-7.68809 -8.60817,-15.37623 -10.8845,-23.06443 -2.27647,-7.68807 -3.39824,-11.82783 -3.36532,-12.4193 0.67318,-1.10878 5.69476,-5.54424 15.06476,-13.3064 9.36984,-7.76198 19.04865,-12.19744 29.03646,-13.3064 z"
+         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
+         id="path12011" />
+      <path
+         d="m 385.42358,643.24987 c -21.62298,0.55465 -38.92129,10.75621 -51.89498,30.60472 -12.97377,19.84888 -19.62697,46.01812 -19.9596,78.50779 0.33263,32.48987 6.98583,58.6591 19.9596,78.50777 12.97369,19.84872 30.272,30.05029 51.89498,30.60473 21.62278,-0.55443 38.92109,-10.756 51.89496,-30.60473 12.97359,-19.84868 19.62678,-46.01791 19.95961,-78.50777 -0.33283,-30.9927 -6.98602,-56.73423 -19.95961,-77.22467 -12.97387,-20.49007 -30.27218,-31.11934 -51.89496,-31.88784 z m 0,33.07592 c 10.42324,-0.15823 18.75557,5.86133 24.99703,18.05868 6.24121,12.19768 9.44108,31.52363 9.59962,57.97791 -0.15855,26.45447 -3.35842,45.78042 -9.59963,57.97789 -6.24145,12.19756 -14.57378,18.21712 -24.99702,18.05869 -10.42344,0.15844 -18.75578,-5.86112 -24.99704,-18.05869 -6.24139,-12.19748 -9.44126,-31.52342 -9.59961,-57.97789 0.15835,-26.45427 3.35822,-45.78022 9.59962,-57.97791 6.24126,-12.19736 14.5736,-18.21692 24.99703,-18.05868 z"
+         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
+         id="path12013" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<title>6.4 Парковка (парковочное место)</title>
+<rect width="600" height="600" rx="45" ry="45" style="fill: #fff;"/>
+<rect x="1" y="1" width="598" height="598" rx="44" ry="44" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 2px;"/>
+<rect x="20" y="20" width="560" height="560" rx="25" ry="25" style="fill: #0d69e1;"/>
+<path d="M340,80h-160v440h60v-160h100c77.4,0,140-62.6,140-140s-62.6-140-140-140ZM340,300.2l-100-.2v-160h100c44.4-.2,80.2,35.6,80.2,80s-35.8,80.2-80.2,80.2Z" style="fill: #fff; fill-rule: evenodd;"/>
+</svg>
