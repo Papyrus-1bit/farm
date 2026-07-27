@@ -1,32 +1,11 @@
 {
-  "name": "pdd-trainer",
+  "name": "med-names-trainer",
   "private": true,
-  "version": "0.3.0",
-  "description": "ПДД-тренажёр — билеты, темы, экзамен (RU/BY)",
+  "version": "0.1.0",
+  "description": "Тренажёр названий лекарств и аптечных товаров (RU/BY) — категории, фото упаковок, разные типы заданий",
   "type": "module",
   "scripts": {
     "start": "python3 -m http.server 8000 --bind 127.0.0.1",
-    "dev": "vite --config vite.config.ts",
-    "dev:vite": "vite --config vite.config.ts",
-    "build": "vite build && node scripts/copy-static.mjs",
-    "preview": "vite preview",
-    "legacy": "npm run start",
-    "legacy:open": "npm run start",
-    "fetch-assets": "node scripts/fetch-assets.mjs",
-    "scrape-ref": "node scripts/scrape-pdd-ref.mjs",
-    "scrape-rules": "node scripts/scrape-pdd-rules.mjs",
-    "scrape-all": "node scripts/scrape-pdd-ref.mjs && node scripts/scrape-pdd-rules.mjs"
-  },
-  "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1",
-    "@vitejs/plugin-react": "4.3.4",
-    "sirv": "^2.0.4",
-    "typescript": "^5.6.3",
-    "vite": "^8.1.4"
+    "scrape": "node scripts/scrape-apteka.mjs"
   }
 }

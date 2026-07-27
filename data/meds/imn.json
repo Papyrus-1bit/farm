@@ -1,0 +1,825 @@
+{
+  "id": "imn",
+  "title": "ИМН от А до Я",
+  "items": [
+    {
+      "id": "imn-shprits-insulinovyi-trojector-u100-1-ml-s-igloi-29g-1-sht-troge-medical-b36ed8a0",
+      "name": "Шприц инсулиновый Trojector-U100 1 мл с иглой 29G 1 шт Troge Medical",
+      "manufacturer": "Troge Medical GmbH, Германия",
+      "image": "img/imn/shprits-insulinovyi-trojector-u100-1-ml-s-igloi-29g-1-sht-troge-medical-b36ed8a0.webp",
+      "sourceUrl": "https://apteka.by/goods/shprits-insulinovyi-trojector-u100-1-ml-s-igloi-29g-1-sht-troge-medical-b36ed8a0"
+    },
+    {
+      "id": "imn-plastyr-povyazka-posleoperatsionnyi-s-absorbiruyushchei-podushechkoi-sterilnyi-gipoallergennyi-khirurgicheskii-na-netkanoi-osnove-9kh20-sm-1-sht-galteyafarm-e4d8163c",
+      "name": "Пластырь-повязка послеоперационный с абсорбирующей подушечкой стерильный гипоаллергенный (хирургический) на нетканой основе 9х20 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/plastyr-povyazka-posleoperatsionnyi-s-absorbiruyushchei-podushechkoi-sterilnyi-gipoallergennyi-khirurgicheskii-na-netkanoi-osnove-9kh20-sm-1-sht-galteyafarm-e4d8163c.webp",
+      "sourceUrl": "https://apteka.by/goods/plastyr-povyazka-posleoperatsionnyi-s-absorbiruyushchei-podushechkoi-sterilnyi-gipoallergennyi-khirurgicheskii-na-netkanoi-osnove-9kh20-sm-1-sht-galteyafarm-e4d8163c"
+    },
+    {
+      "id": "imn-bimed-classic-plastyr-vlagostoikii-poristyi-tsveta-kozhi-6kh10-sm-1-sht-8e03849e",
+      "name": "Бимед Classic пластырь влагостойкий пористый цвета кожи 6х10 см 1 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-classic-plastyr-vlagostoikii-poristyi-tsveta-kozhi-6kh10-sm-1-sht-8e03849e.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-classic-plastyr-vlagostoikii-poristyi-tsveta-kozhi-6kh10-sm-1-sht-8e03849e"
+    },
+    {
+      "id": "imn-bimed-pain-therapy-plastyr-obezbolivayushchii-9kh14-sm-1-sht-94c4dd41",
+      "name": "Бимед Pain Therapy пластырь обезболивающий 9х14 см 1 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-pain-therapy-plastyr-obezbolivayushchii-9kh14-sm-1-sht-94c4dd41.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-pain-therapy-plastyr-obezbolivayushchii-9kh14-sm-1-sht-94c4dd41"
+    },
+    {
+      "id": "imn-salfetki-marlevyye-meditsinskiye-dvukhsloinyye-sterilnyye-16kh14-sm-10-sht-farma-market-6524341b",
+      "name": "Салфетки марлевые медицинские двухслойные стерильные 16х14 см 10 шт Фарма-Маркет",
+      "manufacturer": "Фарма-Маркет ООО, Беларусь",
+      "image": "img/imn/salfetki-marlevyye-meditsinskiye-dvukhsloinyye-sterilnyye-16kh14-sm-10-sht-farma-market-6524341b.webp",
+      "sourceUrl": "https://apteka.by/goods/salfetki-marlevyye-meditsinskiye-dvukhsloinyye-sterilnyye-16kh14-sm-10-sht-farma-market-6524341b"
+    },
+    {
+      "id": "imn-bint-meditsinskii-neelastichnyi-fiksiruyushchii-vyazannyi-nesterilnyi-10kh500-sm-1-sht-medvatfarm-118bd558",
+      "name": "Бинт медицинский неэластичный фиксирующий вязанный нестерильный 10х500 см 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/bint-meditsinskii-neelastichnyi-fiksiruyushchii-vyazannyi-nesterilnyi-10kh500-sm-1-sht-medvatfarm-118bd558.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-meditsinskii-neelastichnyi-fiksiruyushchii-vyazannyi-nesterilnyi-10kh500-sm-1-sht-medvatfarm-118bd558"
+    },
+    {
+      "id": "imn-salfetki-marlevyye-meditsinskiye-dvukhsloinyye-sterilnyye-45kh29-sm-5-sht-farma-market-0224cd59",
+      "name": "Салфетки марлевые медицинские двухслойные стерильные 45х29 см 5 шт Фарма-Маркет",
+      "manufacturer": "Фарма-Маркет ООО, Беларусь",
+      "image": "img/imn/salfetki-marlevyye-meditsinskiye-dvukhsloinyye-sterilnyye-45kh29-sm-5-sht-farma-market-0224cd59.webp",
+      "sourceUrl": "https://apteka.by/goods/salfetki-marlevyye-meditsinskiye-dvukhsloinyye-sterilnyye-45kh29-sm-5-sht-farma-market-0224cd59"
+    },
+    {
+      "id": "imn-vata-meditsinskaya-gigroskopicheskaya-glaznaya-nesterilnaya-50-g-lenta-zig-zag-1-sht-medvatfarm-c95fd528",
+      "name": "Вата медицинская гигроскопическая глазная нестерильная 50 г лента зиг-заг 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/vata-meditsinskaya-gigroskopicheskaya-glaznaya-nesterilnaya-50-g-lenta-zig-zag-1-sht-medvatfarm-c95fd528.webp",
+      "sourceUrl": "https://apteka.by/goods/vata-meditsinskaya-gigroskopicheskaya-glaznaya-nesterilnaya-50-g-lenta-zig-zag-1-sht-medvatfarm-c95fd528"
+    },
+    {
+      "id": "imn-plastyr-dlya-udaleniya-borodavok-assorti-2-razmera-10-sht-bimed-8a1276c2",
+      "name": "Пластырь для удаления бородавок ассорти (2 размера) 10 шт Бимед",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/plastyr-dlya-udaleniya-borodavok-assorti-2-razmera-10-sht-bimed-8a1276c2.webp",
+      "sourceUrl": "https://apteka.by/goods/plastyr-dlya-udaleniya-borodavok-assorti-2-razmera-10-sht-bimed-8a1276c2"
+    },
+    {
+      "id": "imn-pic-solution-classic-plastyr-universalnyi-s-antibakterialnoi-podushechkoi-2-5kh7-2-sm-10-sht-070c425f",
+      "name": "Pic Solution Classic пластырь универсальный с антибактериальной подушечкой 2,5х7,2 см 10 шт",
+      "manufacturer": "Pikdare S.p.A., Италия",
+      "image": "img/imn/pic-solution-classic-plastyr-universalnyi-s-antibakterialnoi-podushechkoi-2-5kh7-2-sm-10-sht-070c425f.webp",
+      "sourceUrl": "https://apteka.by/goods/pic-solution-classic-plastyr-universalnyi-s-antibakterialnoi-podushechkoi-2-5kh7-2-sm-10-sht-070c425f"
+    },
+    {
+      "id": "imn-bint-meditsinskii-neelastichnyi-fiksiruyushchii-rezanyi-iz-meditsinskoi-marli-nesterilnyi-14kh700-sm-1-sht-farma-market-6600e06f",
+      "name": "Бинт медицинский неэластичный фиксирующий резаный из медицинской марли нестерильный 14х700 см 1 шт Фарма-Маркет",
+      "manufacturer": "Фарма-Маркет ООО, Беларусь",
+      "image": "img/imn/bint-meditsinskii-neelastichnyi-fiksiruyushchii-rezanyi-iz-meditsinskoi-marli-nesterilnyi-14kh700-sm-1-sht-farma-market-6600e06f.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-meditsinskii-neelastichnyi-fiksiruyushchii-rezanyi-iz-meditsinskoi-marli-nesterilnyi-14kh700-sm-1-sht-farma-market-6600e06f"
+    },
+    {
+      "id": "imn-masculan-sensitive-prezervativy-iz-naturalnogo-lateksa-nezhnyye-21-sht-ad185a32",
+      "name": "Masculan Sensitive презервативы из натурального латекса нежные 21 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-sensitive-prezervativy-iz-naturalnogo-lateksa-nezhnyye-21-sht-ad185a32.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-sensitive-prezervativy-iz-naturalnogo-lateksa-nezhnyye-21-sht-ad185a32"
+    },
+    {
+      "id": "imn-bimed-glaznoi-plastyr-nesterilnyi-na-netkanoi-osnove-gipoallergennyi-9-5kh6-5-sm-1-sht-21780a68",
+      "name": "Бимед глазной пластырь нестерильный на нетканой основе гипоаллергенный 9,5х6,5 см 1 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-glaznoi-plastyr-nesterilnyi-na-netkanoi-osnove-gipoallergennyi-9-5kh6-5-sm-1-sht-21780a68.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-glaznoi-plastyr-nesterilnyi-na-netkanoi-osnove-gipoallergennyi-9-5kh6-5-sm-1-sht-21780a68"
+    },
+    {
+      "id": "imn-masculan-xxl-prezervativy-iz-naturalnogo-lateksa-uvelichennogo-razmera-3-sht-35b50410",
+      "name": "Masculan XXL презервативы из натурального латекса увеличенного размера 3 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-xxl-prezervativy-iz-naturalnogo-lateksa-uvelichennogo-razmera-3-sht-35b50410.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-xxl-prezervativy-iz-naturalnogo-lateksa-uvelichennogo-razmera-3-sht-35b50410"
+    },
+    {
+      "id": "imn-leikoplastyr-obezbolivayushchii-s-mentolom-na-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-161882dd",
+      "name": "Лейкопластырь обезболивающий с ментолом на тканевой основе 10х15 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/leikoplastyr-obezbolivayushchii-s-mentolom-na-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-161882dd.webp",
+      "sourceUrl": "https://apteka.by/goods/leikoplastyr-obezbolivayushchii-s-mentolom-na-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-161882dd"
+    },
+    {
+      "id": "imn-leikoplastyr-obezbolivayushchii-s-vitaminom-ye-na-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-a957aa96",
+      "name": "Лейкопластырь обезболивающий с витамином Е на тканевой основе 10х15 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/leikoplastyr-obezbolivayushchii-s-vitaminom-ye-na-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-a957aa96.webp",
+      "sourceUrl": "https://apteka.by/goods/leikoplastyr-obezbolivayushchii-s-vitaminom-ye-na-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-a957aa96"
+    },
+    {
+      "id": "imn-cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-35kh10-sm-1-sht-hartmann-972cda1e",
+      "name": "Cosmopor Е steril повязка пластырного типа стерильная 35х10 см 1 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-35kh10-sm-1-sht-hartmann-972cda1e.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-35kh10-sm-1-sht-hartmann-972cda1e"
+    },
+    {
+      "id": "imn-ekspress-test-na-vich-1-i-2-tipa-v-krovi-1-sht-labu-f0bbf5fb",
+      "name": "Экспресс-тест на ВИЧ 1 и 2 типа в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/imn/ekspress-test-na-vich-1-i-2-tipa-v-krovi-1-sht-labu-f0bbf5fb.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-vich-1-i-2-tipa-v-krovi-1-sht-labu-f0bbf5fb"
+    },
+    {
+      "id": "imn-nabor-ginekologicheskii-yunona-no-4m-1-sht-simurg-87475f2c",
+      "name": "Набор гинекологический Юнона № 4M 1 шт Симург",
+      "manufacturer": "Медицинское предприятие Симург ЗАО, Беларусь",
+      "image": "img/imn/nabor-ginekologicheskii-yunona-no-4m-1-sht-simurg-87475f2c.webp",
+      "sourceUrl": "https://apteka.by/goods/nabor-ginekologicheskii-yunona-no-4m-1-sht-simurg-87475f2c"
+    },
+    {
+      "id": "imn-shprits-insulinovyi-sfm-u-100-1-ml-s-igloi-26g-1-sht-29263a8c",
+      "name": "Шприц инсулиновый SFM U-100 1 мл с иглой 26G 1 шт",
+      "manufacturer": "SFM Hospital Products GmbH, Германия",
+      "image": "img/imn/shprits-insulinovyi-sfm-u-100-1-ml-s-igloi-26g-1-sht-29263a8c.webp",
+      "sourceUrl": "https://apteka.by/goods/shprits-insulinovyi-sfm-u-100-1-ml-s-igloi-26g-1-sht-29263a8c"
+    },
+    {
+      "id": "imn-pic-solution-aquabloc-plastyr-vodonepronitsayemyi-s-antibakterialnoi-podushechkoi-2-5kh7-2-sm-10-sht-26cd8eca",
+      "name": "Pic Solution Aquabloc пластырь водонепроницаемый с антибактериальной подушечкой 2,5х7,2 см 10 шт",
+      "manufacturer": "Pikdare S.p.A., Италия",
+      "image": "img/imn/pic-solution-aquabloc-plastyr-vodonepronitsayemyi-s-antibakterialnoi-podushechkoi-2-5kh7-2-sm-10-sht-26cd8eca.webp",
+      "sourceUrl": "https://apteka.by/goods/pic-solution-aquabloc-plastyr-vodonepronitsayemyi-s-antibakterialnoi-podushechkoi-2-5kh7-2-sm-10-sht-26cd8eca"
+    },
+    {
+      "id": "imn-yeska-utonchennyye-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-9-sht-d4bad256",
+      "name": "Ёska утонченные презервативы из натурального латекса ультратонкие 9 шт",
+      "manufacturer": "Richter Rubber Technology Sdn.Bhd., Малайзия",
+      "image": "img/imn/yeska-utonchennyye-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-9-sht-d4bad256.webp",
+      "sourceUrl": "https://apteka.by/goods/yeska-utonchennyye-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-9-sht-d4bad256"
+    },
+    {
+      "id": "imn-pic-solution-classic-plastyr-universalnyi-s-antibakterialnoi-podushechkoi-assorti-5-razmerov-40-sht-74765339",
+      "name": "Pic Solution Classic пластырь универсальный с антибактериальной подушечкой ассорти (5 размеров) 40 шт",
+      "manufacturer": "Pikdare S.p.A., Италия",
+      "image": "img/imn/pic-solution-classic-plastyr-universalnyi-s-antibakterialnoi-podushechkoi-assorti-5-razmerov-40-sht-74765339.webp",
+      "sourceUrl": "https://apteka.by/goods/pic-solution-classic-plastyr-universalnyi-s-antibakterialnoi-podushechkoi-assorti-5-razmerov-40-sht-74765339"
+    },
+    {
+      "id": "imn-masculan-ultra-fine-prezervativy-iz-naturalnogo-lateksa-osobo-tonkiye-21-sht-d5c82d99",
+      "name": "Masculan Ultra Fine презервативы из натурального латекса особо тонкие 21 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-ultra-fine-prezervativy-iz-naturalnogo-lateksa-osobo-tonkiye-21-sht-d5c82d99.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-ultra-fine-prezervativy-iz-naturalnogo-lateksa-osobo-tonkiye-21-sht-d5c82d99"
+    },
+    {
+      "id": "imn-vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-sterilnaya-25-g-rulon-1-sht-medvatfarm-ae3f58a1",
+      "name": "Вата медицинская гигроскопическая хирургическая стерильная 25 г рулон 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-sterilnaya-25-g-rulon-1-sht-medvatfarm-ae3f58a1.webp",
+      "sourceUrl": "https://apteka.by/goods/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-sterilnaya-25-g-rulon-1-sht-medvatfarm-ae3f58a1"
+    },
+    {
+      "id": "imn-plastyr-povyazka-rulonnyi-fiksiruyushchii-meditsinskii-gipoallergennyi-nesterilnyi-lipkii-bint-10kh200-sm-1-sht-galteyafarm-d4df7b62",
+      "name": "Пластырь-повязка рулонный фиксирующий медицинский гипоаллергенный нестерильный (липкий бинт) 10х200 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/plastyr-povyazka-rulonnyi-fiksiruyushchii-meditsinskii-gipoallergennyi-nesterilnyi-lipkii-bint-10kh200-sm-1-sht-galteyafarm-d4df7b62.webp",
+      "sourceUrl": "https://apteka.by/goods/plastyr-povyazka-rulonnyi-fiksiruyushchii-meditsinskii-gipoallergennyi-nesterilnyi-lipkii-bint-10kh200-sm-1-sht-galteyafarm-d4df7b62"
+    },
+    {
+      "id": "imn-masculan-gold-prezervativy-iz-naturalnogo-lateksa-zolotogo-tsveta-s-aromatom-vanili-10-sht-af4f00ca",
+      "name": "Masculan Gold презервативы из натурального латекса золотого цвета с ароматом ванили 10 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-gold-prezervativy-iz-naturalnogo-lateksa-zolotogo-tsveta-s-aromatom-vanili-10-sht-af4f00ca.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-gold-prezervativy-iz-naturalnogo-lateksa-zolotogo-tsveta-s-aromatom-vanili-10-sht-af4f00ca"
+    },
+    {
+      "id": "imn-omnipor-plastyr-na-osnove-iz-netkanogo-materiala-na-katushke-nesterilnyi-2-5kh500-sm-1-sht-hartmann-76383b34",
+      "name": "Omnipor пластырь на основе из нетканого материала на катушке нестерильный 2,5х500 см 1 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/omnipor-plastyr-na-osnove-iz-netkanogo-materiala-na-katushke-nesterilnyi-2-5kh500-sm-1-sht-hartmann-76383b34.webp",
+      "sourceUrl": "https://apteka.by/goods/omnipor-plastyr-na-osnove-iz-netkanogo-materiala-na-katushke-nesterilnyi-2-5kh500-sm-1-sht-hartmann-76383b34"
+    },
+    {
+      "id": "imn-omniplast-plastyr-na-tkanevoi-osnove-na-katushke-nesterilnyi-2-5kh500-sm-1-sht-hartmann-0db2e204",
+      "name": "Omniplast пластырь на тканевой основе на катушке нестерильный 2,5х500 см 1 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/omniplast-plastyr-na-tkanevoi-osnove-na-katushke-nesterilnyi-2-5kh500-sm-1-sht-hartmann-0db2e204.webp",
+      "sourceUrl": "https://apteka.by/goods/omniplast-plastyr-na-tkanevoi-osnove-na-katushke-nesterilnyi-2-5kh500-sm-1-sht-hartmann-0db2e204"
+    },
+    {
+      "id": "imn-shprits-trekhkomponentnyi-trojector-3-20-ml-s-igloi-20g-1-sht-troge-medical-daad9822",
+      "name": "Шприц трехкомпонентный Trojector-3 20 мл с иглой 20G 1 шт Troge Medical",
+      "manufacturer": "Troge Medical GmbH, Германия",
+      "image": "img/imn/shprits-trekhkomponentnyi-trojector-3-20-ml-s-igloi-20g-1-sht-troge-medical-daad9822.webp",
+      "sourceUrl": "https://apteka.by/goods/shprits-trekhkomponentnyi-trojector-3-20-ml-s-igloi-20g-1-sht-troge-medical-daad9822"
+    },
+    {
+      "id": "imn-plastyr-zhidkii-s-pantenolom-i-kolloidnym-serebrom-50-ml-sprei-1-sht-03201ae3",
+      "name": "Пластырь жидкий с пантенолом и коллоидным серебром 50 мл спрей 1 шт",
+      "manufacturer": "Медикалфорт ООО, Беларусь",
+      "image": "img/imn/plastyr-zhidkii-s-pantenolom-i-kolloidnym-serebrom-50-ml-sprei-1-sht-03201ae3.webp",
+      "sourceUrl": "https://apteka.by/goods/plastyr-zhidkii-s-pantenolom-i-kolloidnym-serebrom-50-ml-sprei-1-sht-03201ae3"
+    },
+    {
+      "id": "imn-vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-nesterilnaya-100-g-rulon-1-sht-medvatfarm-9379c23a",
+      "name": "Вата медицинская гигроскопическая хирургическая нестерильная 100 г рулон 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-nesterilnaya-100-g-rulon-1-sht-medvatfarm-9379c23a.webp",
+      "sourceUrl": "https://apteka.by/goods/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-nesterilnaya-100-g-rulon-1-sht-medvatfarm-9379c23a"
+    },
+    {
+      "id": "imn-mama-test-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-1-sht-16bda725",
+      "name": "Mama Test тест для определения беременности 10 мМЕ/мл тест-полоска 1 шт",
+      "manufacturer": "Beromed GmbH Hospital Products, Германия",
+      "image": "img/imn/mama-test-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-1-sht-16bda725.webp",
+      "sourceUrl": "https://apteka.by/goods/mama-test-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-1-sht-16bda725"
+    },
+    {
+      "id": "imn-tro-venocath-plus-kanyulya-vnutrivennaya-24g-s-krylyami-1-sht-troge-medical-f3067d68",
+      "name": "TRO-Venocath plus канюля внутривенная 24G с крыльями 1 шт Troge Medical",
+      "manufacturer": "Troge Medical GmbH, Германия",
+      "image": "img/imn/tro-venocath-plus-kanyulya-vnutrivennaya-24g-s-krylyami-1-sht-troge-medical-f3067d68.webp",
+      "sourceUrl": "https://apteka.by/goods/tro-venocath-plus-kanyulya-vnutrivennaya-24g-s-krylyami-1-sht-troge-medical-f3067d68"
+    },
+    {
+      "id": "imn-luxplast-leikoplastyr-ot-sukhikh-mozolei-na-polimernoi-osnove-1-5kh7-sm-6-sht-3f00f874",
+      "name": "Luxplast лейкопластырь от сухих мозолей на полимерной основе 1,5х7 см 6 шт",
+      "manufacturer": "Young Chemical Co. Ltd., Корея",
+      "image": "img/imn/luxplast-leikoplastyr-ot-sukhikh-mozolei-na-polimernoi-osnove-1-5kh7-sm-6-sht-3f00f874.webp",
+      "sourceUrl": "https://apteka.by/goods/luxplast-leikoplastyr-ot-sukhikh-mozolei-na-polimernoi-osnove-1-5kh7-sm-6-sht-3f00f874"
+    },
+    {
+      "id": "imn-konteiner-dlya-biologicheskogo-materiala-s-kryshkoi-sterilnyi-125-ml-1-sht-litoplast-859bf141",
+      "name": "Контейнер для биологического материала с крышкой стерильный 125 мл 1 шт Литопласт",
+      "manufacturer": "Литопласт-Мед УП, Беларусь",
+      "image": "img/imn/konteiner-dlya-biologicheskogo-materiala-s-kryshkoi-sterilnyi-125-ml-1-sht-litoplast-859bf141.webp",
+      "sourceUrl": "https://apteka.by/goods/konteiner-dlya-biologicheskogo-materiala-s-kryshkoi-sterilnyi-125-ml-1-sht-litoplast-859bf141"
+    },
+    {
+      "id": "imn-masculan-extra-long-pleasure-prezervativy-iz-naturalnogo-lateksa-prodlevayushchiye-10-sht-fa246d02",
+      "name": "Masculan Extra Long Pleasure презервативы из натурального латекса продлевающие 10 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-extra-long-pleasure-prezervativy-iz-naturalnogo-lateksa-prodlevayushchiye-10-sht-fa246d02.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-extra-long-pleasure-prezervativy-iz-naturalnogo-lateksa-prodlevayushchiye-10-sht-fa246d02"
+    },
+    {
+      "id": "imn-ekspress-test-na-skrytuyu-krov-v-kale-fob-1-sht-labu-ee88c0f8",
+      "name": "Экспресс-тест на скрытую кровь в кале (FOB) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/imn/ekspress-test-na-skrytuyu-krov-v-kale-fob-1-sht-labu-ee88c0f8.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-skrytuyu-krov-v-kale-fob-1-sht-labu-ee88c0f8"
+    },
+    {
+      "id": "imn-otrez-marlevyi-meditsinskii-nesterilnyi-300kh90-cm-1-sht-farma-market-53448872",
+      "name": "Отрез марлевый медицинский нестерильный 300х90 cм 1 шт Фарма-Маркет",
+      "manufacturer": "Фарма-Маркет ООО, Беларусь",
+      "image": "img/imn/otrez-marlevyi-meditsinskii-nesterilnyi-300kh90-cm-1-sht-farma-market-53448872.webp",
+      "sourceUrl": "https://apteka.by/goods/otrez-marlevyi-meditsinskii-nesterilnyi-300kh90-cm-1-sht-farma-market-53448872"
+    },
+    {
+      "id": "imn-clearblue-plus-test-dlya-opredeleniya-beremennosti-25-mme-ml-struinyi-test-1-sht-86b3e165",
+      "name": "Clearblue Plus тест для определения беременности 25 мМЕ/мл струйный тест 1 шт",
+      "manufacturer": "SPD Swiss Precision Diagnostics GmbH, Швейцария",
+      "image": "img/imn/clearblue-plus-test-dlya-opredeleniya-beremennosti-25-mme-ml-struinyi-test-1-sht-86b3e165.webp",
+      "sourceUrl": "https://apteka.by/goods/clearblue-plus-test-dlya-opredeleniya-beremennosti-25-mme-ml-struinyi-test-1-sht-86b3e165"
+    },
+    {
+      "id": "imn-cosmos-sensitive-plastyr-nesterilnyi-1-9kh7-2-sm-20-sht-hartmann-5317b679",
+      "name": "Cosmos Sensitive пластырь нестерильный 1,9х7,2 см 20 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmos-sensitive-plastyr-nesterilnyi-1-9kh7-2-sm-20-sht-hartmann-5317b679.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmos-sensitive-plastyr-nesterilnyi-1-9kh7-2-sm-20-sht-hartmann-5317b679"
+    },
+    {
+      "id": "imn-gilart-forte-natriya-gialuronat-khondroitina-sulfat-60-mg-90-mg-3-ml-rastvor-dlya-vnutrisustavnogo-vvedeniya-sterilnyi-3-ml-shprits-1-sht-rompharm-9800aa6d",
+      "name": "Гиларт Форте (натрия гиалуронат + хондроитина сульфат) 60 мг+90 мг/3 мл раствор для внутрисуставного введения стерильный 3 мл шприц 1 шт Rompharm",
+      "manufacturer": "К.О. Ромфарм Компани С.р.л., Румыния",
+      "image": "img/imn/gilart-forte-natriya-gialuronat-khondroitina-sulfat-60-mg-90-mg-3-ml-rastvor-dlya-vnutrisustavnogo-vvedeniya-sterilnyi-3-ml-shprits-1-sht-rompharm-9800aa6d.webp",
+      "sourceUrl": "https://apteka.by/goods/gilart-forte-natriya-gialuronat-khondroitina-sulfat-60-mg-90-mg-3-ml-rastvor-dlya-vnutrisustavnogo-vvedeniya-sterilnyi-3-ml-shprits-1-sht-rompharm-9800aa6d"
+    },
+    {
+      "id": "imn-pic-solution-delicate-plastyr-s-antibakterialnoi-podushechkoi-dlya-chuvstvitelnoi-kozhi-2-5kh7-2-sm-10-sht-adb0e2c4",
+      "name": "Pic Solution Delicate пластырь с антибактериальной подушечкой для чувствительной кожи 2,5х7,2 см 10 шт",
+      "manufacturer": "Pikdare S.p.A., Италия",
+      "image": "img/imn/pic-solution-delicate-plastyr-s-antibakterialnoi-podushechkoi-dlya-chuvstvitelnoi-kozhi-2-5kh7-2-sm-10-sht-adb0e2c4.webp",
+      "sourceUrl": "https://apteka.by/goods/pic-solution-delicate-plastyr-s-antibakterialnoi-podushechkoi-dlya-chuvstvitelnoi-kozhi-2-5kh7-2-sm-10-sht-adb0e2c4"
+    },
+    {
+      "id": "imn-bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-5kh450-sm-1-sht-galteyafarm-9e1bf344",
+      "name": "Бинт эластичный компрессионный когезивный нетканый бежевый 5х450 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-5kh450-sm-1-sht-galteyafarm-9e1bf344.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-5kh450-sm-1-sht-galteyafarm-9e1bf344"
+    },
+    {
+      "id": "imn-bimed-pain-therapy-plastyr-obezbolivayushchii-dlya-zony-shei-plech-i-zapyastya-belyi-8kh21-5-sm-1-sht-21a8e1f4",
+      "name": "Бимед Pain Therapy пластырь обезболивающий для зоны шеи, плеч и запястья белый 8х21,5 см 1 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-pain-therapy-plastyr-obezbolivayushchii-dlya-zony-shei-plech-i-zapyastya-belyi-8kh21-5-sm-1-sht-21a8e1f4.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-pain-therapy-plastyr-obezbolivayushchii-dlya-zony-shei-plech-i-zapyastya-belyi-8kh21-5-sm-1-sht-21a8e1f4"
+    },
+    {
+      "id": "imn-cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-20kh10-sm-25-sht-hartmann-71dd9b48",
+      "name": "Cosmopor Е steril повязка пластырного типа стерильная 20х10 см 25 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-20kh10-sm-25-sht-hartmann-71dd9b48.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-20kh10-sm-25-sht-hartmann-71dd9b48"
+    },
+    {
+      "id": "imn-masculan-silk-intimnyi-gel-smazka-na-vodnoi-osnove-75-ml-flakon-1-sht-8383f931",
+      "name": "Masculan Silk интимный гель-смазка на водной основе 75 мл флакон 1 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-silk-intimnyi-gel-smazka-na-vodnoi-osnove-75-ml-flakon-1-sht-8383f931.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-silk-intimnyi-gel-smazka-na-vodnoi-osnove-75-ml-flakon-1-sht-8383f931"
+    },
+    {
+      "id": "imn-pic-solution-aquabloc-nabor-vodonepronitsayemykh-plastyrei-s-antibakterialnoi-podushechkoi-assorti-4-razmera-20-sht-503e7dbb",
+      "name": "Pic Solution Aquabloc набор водонепроницаемых пластырей с антибактериальной подушечкой ассорти (4 размера) 20 шт",
+      "manufacturer": "Pikdare S.p.A., Италия",
+      "image": "img/imn/pic-solution-aquabloc-nabor-vodonepronitsayemykh-plastyrei-s-antibakterialnoi-podushechkoi-assorti-4-razmera-20-sht-503e7dbb.webp",
+      "sourceUrl": "https://apteka.by/goods/pic-solution-aquabloc-nabor-vodonepronitsayemykh-plastyrei-s-antibakterialnoi-podushechkoi-assorti-4-razmera-20-sht-503e7dbb"
+    },
+    {
+      "id": "imn-frautest-express-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-1-sht-6e88ec14",
+      "name": "Frautest Express тест для определения беременности 10 мМЕ/мл тест-полоска 1 шт",
+      "manufacturer": "Atlas Link (Beijing) Technology Co. Ltd., Китай",
+      "image": "img/imn/frautest-express-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-1-sht-6e88ec14.webp",
+      "sourceUrl": "https://apteka.by/goods/frautest-express-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-1-sht-6e88ec14"
+    },
+    {
+      "id": "imn-mama-test-test-dlya-opredeleniya-beremennosti-10-mme-ml-struinyi-test-1-sht-9c449771",
+      "name": "Mama Test тест для определения беременности 10 мМЕ/мл струйный тест 1 шт",
+      "manufacturer": "Beromed GmbH Hospital Products, Германия",
+      "image": "img/imn/mama-test-test-dlya-opredeleniya-beremennosti-10-mme-ml-struinyi-test-1-sht-9c449771.webp",
+      "sourceUrl": "https://apteka.by/goods/mama-test-test-dlya-opredeleniya-beremennosti-10-mme-ml-struinyi-test-1-sht-9c449771"
+    },
+    {
+      "id": "imn-bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-7-5kh450-sm-1-sht-galteyafarm-ec6826e9",
+      "name": "Бинт эластичный компрессионный когезивный нетканый бежевый 7,5х450 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-7-5kh450-sm-1-sht-galteyafarm-ec6826e9.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-7-5kh450-sm-1-sht-galteyafarm-ec6826e9"
+    },
+    {
+      "id": "imn-bint-meditsinskii-neelastichnyi-fiksiruyushchii-vyazannyi-nesterilnyi-14kh700-sm-1-sht-medvatfarm-22f7e834",
+      "name": "Бинт медицинский неэластичный фиксирующий вязанный нестерильный 14х700 см 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/bint-meditsinskii-neelastichnyi-fiksiruyushchii-vyazannyi-nesterilnyi-14kh700-sm-1-sht-medvatfarm-22f7e834.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-meditsinskii-neelastichnyi-fiksiruyushchii-vyazannyi-nesterilnyi-14kh700-sm-1-sht-medvatfarm-22f7e834"
+    },
+    {
+      "id": "imn-sprintsovka-s-myagkim-nakonechnikom-tip-a7-70-ml-1-sht-alpina-plast-50982fb2",
+      "name": "Спринцовка с мягким наконечником тип А7 70 мл 1 шт Альпина Пласт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/imn/sprintsovka-s-myagkim-nakonechnikom-tip-a7-70-ml-1-sht-alpina-plast-50982fb2.webp",
+      "sourceUrl": "https://apteka.by/goods/sprintsovka-s-myagkim-nakonechnikom-tip-a7-70-ml-1-sht-alpina-plast-50982fb2"
+    },
+    {
+      "id": "imn-masculan-pur-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-s-dopolnitelnoi-smazkoi-10-sht-0cddb7c0",
+      "name": "Masculan Pur презервативы из натурального латекса ультратонкие с дополнительной смазкой 10 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-pur-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-s-dopolnitelnoi-smazkoi-10-sht-0cddb7c0.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-pur-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-s-dopolnitelnoi-smazkoi-10-sht-0cddb7c0"
+    },
+    {
+      "id": "imn-masculan-intimnyi-gel-smazka-uvlazhnyayushchii-na-vodnoi-osnove-50-ml-tuba-1-sht-da87cbc1",
+      "name": "Masculan Интимный гель-смазка увлажняющий на водной основе 50 мл туба 1 шт",
+      "manufacturer": "ООО ХБО Фирма ВИТА, Россия",
+      "image": "img/imn/masculan-intimnyi-gel-smazka-uvlazhnyayushchii-na-vodnoi-osnove-50-ml-tuba-1-sht-da87cbc1.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-intimnyi-gel-smazka-uvlazhnyayushchii-na-vodnoi-osnove-50-ml-tuba-1-sht-da87cbc1"
+    },
+    {
+      "id": "imn-plastyr-pertsovo-kamfornyi-na-perforirovannoi-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-fc5dda17",
+      "name": "Пластырь перцово-камфорный на перфорированной тканевой основе 10х15 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/plastyr-pertsovo-kamfornyi-na-perforirovannoi-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-fc5dda17.webp",
+      "sourceUrl": "https://apteka.by/goods/plastyr-pertsovo-kamfornyi-na-perforirovannoi-tkanevoi-osnove-10kh15-sm-1-sht-galteyafarm-fc5dda17"
+    },
+    {
+      "id": "imn-gilart-natriya-gialuronat-15-mg-ml-rastvor-dlya-vnutrisustavnogo-vvedeniya-sterilnyi-2-ml-shprits-1-sht-rompharm-585eb412",
+      "name": "Гиларт (натрия гиалуронат) 15 мг/мл раствор для внутрисуставного введения стерильный 2 мл шприц 1 шт Rompharm",
+      "manufacturer": "К.О. Ромфарм Компани С.р.л., Румыния",
+      "image": "img/imn/gilart-natriya-gialuronat-15-mg-ml-rastvor-dlya-vnutrisustavnogo-vvedeniya-sterilnyi-2-ml-shprits-1-sht-rompharm-585eb412.webp",
+      "sourceUrl": "https://apteka.by/goods/gilart-natriya-gialuronat-15-mg-ml-rastvor-dlya-vnutrisustavnogo-vvedeniya-sterilnyi-2-ml-shprits-1-sht-rompharm-585eb412"
+    },
+    {
+      "id": "imn-frautest-double-control-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-2-sht-1d7b813d",
+      "name": "Frautest Double control тест для определения беременности 10 мМЕ/мл тест-полоска 2 шт",
+      "manufacturer": "Atlas Link (Beijing) Technology Co. Ltd., Китай",
+      "image": "img/imn/frautest-double-control-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-2-sht-1d7b813d.webp",
+      "sourceUrl": "https://apteka.by/goods/frautest-double-control-test-dlya-opredeleniya-beremennosti-10-mme-ml-test-poloska-2-sht-1d7b813d"
+    },
+    {
+      "id": "imn-bimed-foot-care-plastyr-gidrokolloidnyi-s-gelevymi-podushechkami-dlya-vlazhnykh-mozolei-2-4kh7-sm-6-sht-bb96ff7f",
+      "name": "Бимед Foot Care пластырь гидроколлоидный с гелевыми подушечками для влажных мозолей 2,4х7 см 6 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-foot-care-plastyr-gidrokolloidnyi-s-gelevymi-podushechkami-dlya-vlazhnykh-mozolei-2-4kh7-sm-6-sht-bb96ff7f.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-foot-care-plastyr-gidrokolloidnyi-s-gelevymi-podushechkami-dlya-vlazhnykh-mozolei-2-4kh7-sm-6-sht-bb96ff7f"
+    },
+    {
+      "id": "imn-bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-10kh450-sm-1-sht-galteyafarm-40262352",
+      "name": "Бинт эластичный компрессионный когезивный нетканый бежевый 10х450 см 1 шт Галтеяфарм",
+      "manufacturer": "Галтеяфарм ООО, Беларусь",
+      "image": "img/imn/bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-10kh450-sm-1-sht-galteyafarm-40262352.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-elastichnyi-kompressionnyi-kogezivnyi-netkanyi-bezhevyi-10kh450-sm-1-sht-galteyafarm-40262352"
+    },
+    {
+      "id": "imn-ekspress-test-na-transferrin-i-skrytuyu-krov-v-kale-transferrin-fob-1-sht-labu-8b48a574",
+      "name": "Экспресс-тест на трансферрин и скрытую кровь в кале (Transferrin/FOB) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/imn/ekspress-test-na-transferrin-i-skrytuyu-krov-v-kale-transferrin-fob-1-sht-labu-8b48a574.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-transferrin-i-skrytuyu-krov-v-kale-transferrin-fob-1-sht-labu-8b48a574"
+    },
+    {
+      "id": "imn-vizit-prezervativ-dlya-uzi-1-sht-cdf28f8b",
+      "name": "Vizit презерватив для УЗИ 1 шт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/imn/vizit-prezervativ-dlya-uzi-1-sht-cdf28f8b.webp",
+      "sourceUrl": "https://apteka.by/goods/vizit-prezervativ-dlya-uzi-1-sht-cdf28f8b"
+    },
+    {
+      "id": "imn-masculan-anatomic-prezervativy-iz-naturalnogo-lateksa-3-sht-6459257d",
+      "name": "Masculan Anatomic презервативы из натурального латекса 3 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-anatomic-prezervativy-iz-naturalnogo-lateksa-3-sht-6459257d.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-anatomic-prezervativy-iz-naturalnogo-lateksa-3-sht-6459257d"
+    },
+    {
+      "id": "imn-plastyr-dlya-udaleniya-sukhikh-mozolei-6kh4-sm-3-sht-bimed-53edebc5",
+      "name": "Пластырь для удаления сухих мозолей 6х4 см 3 шт Бимед",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/plastyr-dlya-udaleniya-sukhikh-mozolei-6kh4-sm-3-sht-bimed-53edebc5.webp",
+      "sourceUrl": "https://apteka.by/goods/plastyr-dlya-udaleniya-sukhikh-mozolei-6kh4-sm-3-sht-bimed-53edebc5"
+    },
+    {
+      "id": "imn-cosmos-sensitive-plastyr-nesterilnyi-kruglyi-2-2-sm-20-sht-hartmann-5637f327",
+      "name": "Cosmos Sensitive пластырь нестерильный круглый 2,2 см 20 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmos-sensitive-plastyr-nesterilnyi-kruglyi-2-2-sm-20-sht-hartmann-5637f327.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmos-sensitive-plastyr-nesterilnyi-kruglyi-2-2-sm-20-sht-hartmann-5637f327"
+    },
+    {
+      "id": "imn-bimed-foot-care-plastyr-gidrokolloidnyi-s-gepevymi-podushechkami-dlya-vlazhnykh-mozolei-3-8kh7-sm-6-sht-29fdff89",
+      "name": "Бимед Foot Care пластырь гидроколлоидный с гепевыми подушечками для влажных мозолей 3,8х7 см 6 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-foot-care-plastyr-gidrokolloidnyi-s-gepevymi-podushechkami-dlya-vlazhnykh-mozolei-3-8kh7-sm-6-sht-29fdff89.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-foot-care-plastyr-gidrokolloidnyi-s-gepevymi-podushechkami-dlya-vlazhnykh-mozolei-3-8kh7-sm-6-sht-29fdff89"
+    },
+    {
+      "id": "imn-bint-elastichnyi-fiksiruyushchii-setchato-trubchatyi-no1-100-sm-1-sht-medevrokompani-006c6449",
+      "name": "Бинт эластичный фиксирующий сетчато-трубчатый №1 100 см 1 шт МедЕвроКомпани",
+      "manufacturer": "МедЕвроКомпани ООО, Беларусь",
+      "image": "img/imn/bint-elastichnyi-fiksiruyushchii-setchato-trubchatyi-no1-100-sm-1-sht-medevrokompani-006c6449.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-elastichnyi-fiksiruyushchii-setchato-trubchatyi-no1-100-sm-1-sht-medevrokompani-006c6449"
+    },
+    {
+      "id": "imn-cosmos-hydro-plastyr-gidrokolloidnyi-dlya-vlazhnykh-mozolei-1-7kh4-sm-6-sht-hartmann-5a5a2994",
+      "name": "Cosmos Hydro пластырь гидроколлоидный для влажных мозолей 1,7х4 см 6 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmos-hydro-plastyr-gidrokolloidnyi-dlya-vlazhnykh-mozolei-1-7kh4-sm-6-sht-hartmann-5a5a2994.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmos-hydro-plastyr-gidrokolloidnyi-dlya-vlazhnykh-mozolei-1-7kh4-sm-6-sht-hartmann-5a5a2994"
+    },
+    {
+      "id": "imn-yeska-2-v-1-naturalnoye-maslo-dlya-lyubvi-150-ml-tuba-1-sht-ffe4a40f",
+      "name": "Ёska 2 в 1 натуральное масло для любви 150 мл туба 1 шт",
+      "manufacturer": "Вясковая крама ЧПТУП, Беларусь",
+      "image": "img/imn/yeska-2-v-1-naturalnoye-maslo-dlya-lyubvi-150-ml-tuba-1-sht-ffe4a40f.webp",
+      "sourceUrl": "https://apteka.by/goods/yeska-2-v-1-naturalnoye-maslo-dlya-lyubvi-150-ml-tuba-1-sht-ffe4a40f"
+    },
+    {
+      "id": "imn-masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-21-sht-798d1c28",
+      "name": "Masculan Ribbed + Dotted презервативы из натурального латекса с колечками и пупырышками 21 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-21-sht-798d1c28.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-21-sht-798d1c28"
+    },
+    {
+      "id": "imn-ekspress-test-na-lyamblii-v-kale-g-lamblia-1-sht-labu-a4267159",
+      "name": "Экспресс-тест на лямблии в кале (G.Lamblia) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/imn/ekspress-test-na-lyamblii-v-kale-g-lamblia-1-sht-labu-a4267159.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-lyamblii-v-kale-g-lamblia-1-sht-labu-a4267159"
+    },
+    {
+      "id": "imn-igly-dlya-shprits-ruchki-pic-solution-insupen-original-odnorazovogo-ispolzovaniya-32g-0-23kh4-mm-100-sht-8eec1a37",
+      "name": "Иглы для шприц-ручки PIC solution INSUPEN ORIGINAL одноразового использования 32G (0,23х4 мм) 100 шт",
+      "manufacturer": "Pikdare S.p.A., Италия",
+      "image": "img/imn/igly-dlya-shprits-ruchki-pic-solution-insupen-original-odnorazovogo-ispolzovaniya-32g-0-23kh4-mm-100-sht-8eec1a37.webp",
+      "sourceUrl": "https://apteka.by/goods/igly-dlya-shprits-ruchki-pic-solution-insupen-original-odnorazovogo-ispolzovaniya-32g-0-23kh4-mm-100-sht-8eec1a37"
+    },
+    {
+      "id": "imn-vata-meditsinskaya-gigroskopicheskaya-glaznaya-nesterilnaya-25-g-rulon-1-sht-medvatfarm-8c620c2f",
+      "name": "Вата медицинская гигроскопическая глазная нестерильная 25 г рулон 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/vata-meditsinskaya-gigroskopicheskaya-glaznaya-nesterilnaya-25-g-rulon-1-sht-medvatfarm-8c620c2f.webp",
+      "sourceUrl": "https://apteka.by/goods/vata-meditsinskaya-gigroskopicheskaya-glaznaya-nesterilnaya-25-g-rulon-1-sht-medvatfarm-8c620c2f"
+    },
+    {
+      "id": "imn-cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-10kh8-sm-25-sht-hartmann-136c2f05",
+      "name": "Cosmopor Е steril повязка пластырного типа стерильная 10х8 см 25 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-10kh8-sm-25-sht-hartmann-136c2f05.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-10kh8-sm-25-sht-hartmann-136c2f05"
+    },
+    {
+      "id": "imn-masculan-organic-prezervativy-iz-naturalnogo-lateksa-10-sht-a6ce9144",
+      "name": "Masculan Organic презервативы из натурального латекса 10 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-organic-prezervativy-iz-naturalnogo-lateksa-10-sht-a6ce9144.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-organic-prezervativy-iz-naturalnogo-lateksa-10-sht-a6ce9144"
+    },
+    {
+      "id": "imn-masculan-pur-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-s-dopolnitelnoi-smazkoi-3-sht-fcf1d8d2",
+      "name": "Masculan Pur презервативы из натурального латекса ультратонкие с дополнительной смазкой 3 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-pur-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-s-dopolnitelnoi-smazkoi-3-sht-fcf1d8d2.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-pur-prezervativy-iz-naturalnogo-lateksa-ultratonkiye-s-dopolnitelnoi-smazkoi-3-sht-fcf1d8d2"
+    },
+    {
+      "id": "imn-yeska-dikii-les-naturalnaya-smazka-na-vodnoi-osnove-200-ml-flakon-1-sht-74961657",
+      "name": "Ёska Дикий лес натуральная смазка на водной основе 200 мл флакон 1 шт",
+      "manufacturer": "Вясковая крама ЧПТУП, Беларусь",
+      "image": "img/imn/yeska-dikii-les-naturalnaya-smazka-na-vodnoi-osnove-200-ml-flakon-1-sht-74961657.webp",
+      "sourceUrl": "https://apteka.by/goods/yeska-dikii-les-naturalnaya-smazka-na-vodnoi-osnove-200-ml-flakon-1-sht-74961657"
+    },
+    {
+      "id": "imn-omniplast-plastyr-na-tkanevoi-osnove-na-katushke-nesterilnyi-1-25kh500-sm-1-sht-hartmann-271f1770",
+      "name": "Omniplast пластырь на тканевой основе на катушке нестерильный 1,25х500 см 1 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/omniplast-plastyr-na-tkanevoi-osnove-na-katushke-nesterilnyi-1-25kh500-sm-1-sht-hartmann-271f1770.webp",
+      "sourceUrl": "https://apteka.by/goods/omniplast-plastyr-na-tkanevoi-osnove-na-katushke-nesterilnyi-1-25kh500-sm-1-sht-hartmann-271f1770"
+    },
+    {
+      "id": "imn-gorchichnik-paket-det-skii-10-sht-med-interplast-f1404c26",
+      "name": "Горчичник-пакет детский 10 шт Мед-интерпласт",
+      "manufacturer": "Мед-интерпласт, Беларусь",
+      "image": "img/imn/gorchichnik-paket-det-skii-10-sht-med-interplast-f1404c26.webp",
+      "sourceUrl": "https://apteka.by/goods/gorchichnik-paket-det-skii-10-sht-med-interplast-f1404c26"
+    },
+    {
+      "id": "imn-stil-protivoshumnyye-berushi-silikonovyye-25-db-4-sht-885fe656",
+      "name": "STIL противошумные беруши силиконовые 25 дБ 4 шт",
+      "manufacturer": "Bengbu Hucong Hearing Protection Equipment Co. Ltd., Китай",
+      "image": "img/imn/stil-protivoshumnyye-berushi-silikonovyye-25-db-4-sht-885fe656.webp",
+      "sourceUrl": "https://apteka.by/goods/stil-protivoshumnyye-berushi-silikonovyye-25-db-4-sht-885fe656"
+    },
+    {
+      "id": "imn-perchatki-smotrovyye-nitrilovyye-neopudrennyye-razmer-s-200-sht-indigo-ffa1e107",
+      "name": "Перчатки смотровые нитриловые неопудренные размер S 200 шт Indigo",
+      "manufacturer": "Джекатр ООО, Беларусь",
+      "image": "img/imn/perchatki-smotrovyye-nitrilovyye-neopudrennyye-razmer-s-200-sht-indigo-ffa1e107.webp",
+      "sourceUrl": "https://apteka.by/goods/perchatki-smotrovyye-nitrilovyye-neopudrennyye-razmer-s-200-sht-indigo-ffa1e107"
+    },
+    {
+      "id": "imn-napalchniki-meditsinskiye-20-sht-medrull-e05e2327",
+      "name": "Напальчники медицинские 20 шт Medrull",
+      "manufacturer": "Forans Eesti AS, Эстония",
+      "image": "img/imn/napalchniki-meditsinskiye-20-sht-medrull-e05e2327.webp",
+      "sourceUrl": "https://apteka.by/goods/napalchniki-meditsinskiye-20-sht-medrull-e05e2327"
+    },
+    {
+      "id": "imn-peha-haft-color-bint-kogezivnyi-elastichnyi-fiksiruyushchii-belyi-6kh400-sm-1-sht-hartmann-0bc10d8a",
+      "name": "Peha-haft Color бинт когезивный эластичный фиксирующий белый 6х400 см 1 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/peha-haft-color-bint-kogezivnyi-elastichnyi-fiksiruyushchii-belyi-6kh400-sm-1-sht-hartmann-0bc10d8a.webp",
+      "sourceUrl": "https://apteka.by/goods/peha-haft-color-bint-kogezivnyi-elastichnyi-fiksiruyushchii-belyi-6kh400-sm-1-sht-hartmann-0bc10d8a"
+    },
+    {
+      "id": "imn-bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-8kh500-sm-1-sht-medevrokompani-15d496c7",
+      "name": "Бинт медицинский эластичный вязаный с лайкрой компрессионный ленточный средней растяжимости 8х500 см 1 шт МедЕвроКомпани",
+      "manufacturer": "МедЕвроКомпани ООО, Беларусь",
+      "image": "img/imn/bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-8kh500-sm-1-sht-medevrokompani-15d496c7.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-8kh500-sm-1-sht-medevrokompani-15d496c7"
+    },
+    {
+      "id": "imn-ekspress-test-dlya-vyyavleniya-antigena-sars-cov-2-i-antigenov-grippa-a-v-1-sht-labu-e6b738ec",
+      "name": "Экспресс-тест для выявления антигена SARS-CoV-2 и антигенов гриппа А+В 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/imn/ekspress-test-dlya-vyyavleniya-antigena-sars-cov-2-i-antigenov-grippa-a-v-1-sht-labu-e6b738ec.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-dlya-vyyavleniya-antigena-sars-cov-2-i-antigenov-grippa-a-v-1-sht-labu-e6b738ec"
+    },
+    {
+      "id": "imn-bimed-classic-plastyr-vlagostoikii-poristyi-tsveta-kozhi-diametr-2-5-sm-20-sht-4564e13a",
+      "name": "Бимед Classic пластырь влагостойкий пористый цвета кожи диаметр 2,5 см 20 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-classic-plastyr-vlagostoikii-poristyi-tsveta-kozhi-diametr-2-5-sm-20-sht-4564e13a.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-classic-plastyr-vlagostoikii-poristyi-tsveta-kozhi-diametr-2-5-sm-20-sht-4564e13a"
+    },
+    {
+      "id": "imn-cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-10kh6-sm-25-sht-hartmann-95688ba6",
+      "name": "Cosmopor Е steril повязка пластырного типа стерильная 10х6 см 25 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-10kh6-sm-25-sht-hartmann-95688ba6.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmopor-ye-steril-povyazka-plastyrnogo-tipa-sterilnaya-10kh6-sm-25-sht-hartmann-95688ba6"
+    },
+    {
+      "id": "imn-sprintsovka-s-tverdym-nakonechnikom-tip-b11-347-ml-1-sht-alpina-plast-d582ac40",
+      "name": "Спринцовка с твердым наконечником тип Б11 347 мл 1 шт Альпина Пласт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/imn/sprintsovka-s-tverdym-nakonechnikom-tip-b11-347-ml-1-sht-alpina-plast-d582ac40.webp",
+      "sourceUrl": "https://apteka.by/goods/sprintsovka-s-tverdym-nakonechnikom-tip-b11-347-ml-1-sht-alpina-plast-d582ac40"
+    },
+    {
+      "id": "imn-masculan-organic-prezervativy-iz-naturalnogo-lateksa-3-sht-42299f06",
+      "name": "Masculan Organic презервативы из натурального латекса 3 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-organic-prezervativy-iz-naturalnogo-lateksa-3-sht-42299f06.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-organic-prezervativy-iz-naturalnogo-lateksa-3-sht-42299f06"
+    },
+    {
+      "id": "imn-masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-10-sht-0332d694",
+      "name": "Masculan Ribbed + Dotted презервативы из натурального латекса с колечками и пупырышками 10 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-10-sht-0332d694.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-10-sht-0332d694"
+    },
+    {
+      "id": "imn-masculan-frutti-edition-prezervativy-iz-naturalnogo-lateksa-raznotsvetnyye-s-fruktovym-aromatom-3-sht-f5e53608",
+      "name": "Masculan Frutti Edition презервативы из натурального латекса разноцветные с фруктовым ароматом 3 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-frutti-edition-prezervativy-iz-naturalnogo-lateksa-raznotsvetnyye-s-fruktovym-aromatom-3-sht-f5e53608.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-frutti-edition-prezervativy-iz-naturalnogo-lateksa-raznotsvetnyye-s-fruktovym-aromatom-3-sht-f5e53608"
+    },
+    {
+      "id": "imn-masculan-klubnichka-intimnyi-gel-smazka-na-vodnoi-osnove-so-vkusom-klubniki-50-ml-tuba-1-sht-2adcfc39",
+      "name": "Masculan Клубничка интимный гель-смазка на водной основе со вкусом клубники 50 мл туба 1 шт",
+      "manufacturer": "ООО ХБО Фирма ВИТА, Россия",
+      "image": "img/imn/masculan-klubnichka-intimnyi-gel-smazka-na-vodnoi-osnove-so-vkusom-klubniki-50-ml-tuba-1-sht-2adcfc39.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-klubnichka-intimnyi-gel-smazka-na-vodnoi-osnove-so-vkusom-klubniki-50-ml-tuba-1-sht-2adcfc39"
+    },
+    {
+      "id": "imn-yeska-letnyaya-noch-naturalnaya-smazka-na-vodnoi-osnove-75-ml-tuba-1-sht-287e0413",
+      "name": "Ёska Летняя ночь натуральная смазка на водной основе 75 мл туба 1 шт",
+      "manufacturer": "Вясковая крама ЧПТУП, Беларусь",
+      "image": "img/imn/yeska-letnyaya-noch-naturalnaya-smazka-na-vodnoi-osnove-75-ml-tuba-1-sht-287e0413.webp",
+      "sourceUrl": "https://apteka.by/goods/yeska-letnyaya-noch-naturalnaya-smazka-na-vodnoi-osnove-75-ml-tuba-1-sht-287e0413"
+    },
+    {
+      "id": "imn-cosmos-sport-plastyr-nesterilnyi-1-9kh7-2-sm-20-sht-hartmann-d9e74f47",
+      "name": "Cosmos Sport пластырь нестерильный 1,9х7,2 см 20 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmos-sport-plastyr-nesterilnyi-1-9kh7-2-sm-20-sht-hartmann-d9e74f47.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmos-sport-plastyr-nesterilnyi-1-9kh7-2-sm-20-sht-hartmann-d9e74f47"
+    },
+    {
+      "id": "imn-cosmos-textile-elastic-plastyr-tekstilnyi-elastichnyi-nesterilnyi-6kh10-sm-5-sht-hartmann-0a552abf",
+      "name": "Cosmos Textile Elastic пластырь текстильный эластичный нестерильный 6х10 см 5 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/cosmos-textile-elastic-plastyr-tekstilnyi-elastichnyi-nesterilnyi-6kh10-sm-5-sht-hartmann-0a552abf.webp",
+      "sourceUrl": "https://apteka.by/goods/cosmos-textile-elastic-plastyr-tekstilnyi-elastichnyi-nesterilnyi-6kh10-sm-5-sht-hartmann-0a552abf"
+    },
+    {
+      "id": "imn-omnipor-plastyr-na-osnove-iz-netkanogo-materiala-na-katushke-nesterilnyi-1-25kh500-sm-1-sht-hartmann-e32cc80b",
+      "name": "Omnipor пластырь на основе из нетканого материала на катушке нестерильный 1,25х500 см 1 шт Hartmann",
+      "manufacturer": "Paul Hartmann АG, Германия",
+      "image": "img/imn/omnipor-plastyr-na-osnove-iz-netkanogo-materiala-na-katushke-nesterilnyi-1-25kh500-sm-1-sht-hartmann-e32cc80b.webp",
+      "sourceUrl": "https://apteka.by/goods/omnipor-plastyr-na-osnove-iz-netkanogo-materiala-na-katushke-nesterilnyi-1-25kh500-sm-1-sht-hartmann-e32cc80b"
+    },
+    {
+      "id": "imn-stil-protivoshumnyye-berushi-poliuretanovyye-33-db-4-sht-6e0ff6e4",
+      "name": "STIL противошумные беруши полиуретановые 33 дБ 4 шт",
+      "manufacturer": "Bengbu Hucong Hearing Protection Equipment Co. Ltd., Китай",
+      "image": "img/imn/stil-protivoshumnyye-berushi-poliuretanovyye-33-db-4-sht-6e0ff6e4.webp",
+      "sourceUrl": "https://apteka.by/goods/stil-protivoshumnyye-berushi-poliuretanovyye-33-db-4-sht-6e0ff6e4"
+    },
+    {
+      "id": "imn-vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-sterilnaya-100-g-rulon-1-sht-medvatfarm-709d00f2",
+      "name": "Вата медицинская гигроскопическая хирургическая стерильная 100 г рулон 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-sterilnaya-100-g-rulon-1-sht-medvatfarm-709d00f2.webp",
+      "sourceUrl": "https://apteka.by/goods/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-sterilnaya-100-g-rulon-1-sht-medvatfarm-709d00f2"
+    },
+    {
+      "id": "imn-otrez-marlevyi-meditsinskii-nesterilnyi-200kh90-cm-1-sht-farma-market-801a0897",
+      "name": "Отрез марлевый медицинский нестерильный 200х90 cм 1 шт Фарма-Маркет",
+      "manufacturer": "Фарма-Маркет ООО, Беларусь",
+      "image": "img/imn/otrez-marlevyi-meditsinskii-nesterilnyi-200kh90-cm-1-sht-farma-market-801a0897.webp",
+      "sourceUrl": "https://apteka.by/goods/otrez-marlevyi-meditsinskii-nesterilnyi-200kh90-cm-1-sht-farma-market-801a0897"
+    },
+    {
+      "id": "imn-perchatki-smotrovyye-nitrilovyye-neopudrennyye-razmer-m-200-sht-indigo-349f8e80",
+      "name": "Перчатки смотровые нитриловые неопудренные размер M 200 шт Indigo",
+      "manufacturer": "Джекатр ООО, Беларусь",
+      "image": "img/imn/perchatki-smotrovyye-nitrilovyye-neopudrennyye-razmer-m-200-sht-indigo-349f8e80.webp",
+      "sourceUrl": "https://apteka.by/goods/perchatki-smotrovyye-nitrilovyye-neopudrennyye-razmer-m-200-sht-indigo-349f8e80"
+    },
+    {
+      "id": "imn-konteiner-universalnyi-sterilnyi-60-ml-1-sht-avanti-medical-e6abb662",
+      "name": "Контейнер универсальный стерильный 60 мл 1 шт Avanti Medical",
+      "manufacturer": "Forans Eesti AS, Эстония",
+      "image": "img/imn/konteiner-universalnyi-sterilnyi-60-ml-1-sht-avanti-medical-e6abb662.webp",
+      "sourceUrl": "https://apteka.by/goods/konteiner-universalnyi-sterilnyi-60-ml-1-sht-avanti-medical-e6abb662"
+    },
+    {
+      "id": "imn-frautest-comfort-test-dlya-opredeleniya-beremennosti-10-mme-ml-struinyi-test-1-sht-21ca6d0c",
+      "name": "Frautest Comfort тест для определения беременности 10 мМЕ/мл струйный тест 1 шт",
+      "manufacturer": "Atlas Link (Beijing) Technology Co. Ltd., Китай",
+      "image": "img/imn/frautest-comfort-test-dlya-opredeleniya-beremennosti-10-mme-ml-struinyi-test-1-sht-21ca6d0c.webp",
+      "sourceUrl": "https://apteka.by/goods/frautest-comfort-test-dlya-opredeleniya-beremennosti-10-mme-ml-struinyi-test-1-sht-21ca6d0c"
+    },
+    {
+      "id": "imn-bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-10kh200-sm-1-sht-medevrokompani-6ae94857",
+      "name": "Бинт медицинский эластичный вязаный с лайкрой компрессионный ленточный средней растяжимости 10х200 см 1 шт МедЕвроКомпани",
+      "manufacturer": "МедЕвроКомпани ООО, Беларусь",
+      "image": "img/imn/bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-10kh200-sm-1-sht-medevrokompani-6ae94857.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-10kh200-sm-1-sht-medevrokompani-6ae94857"
+    },
+    {
+      "id": "imn-bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-10kh500-sm-1-sht-medevrokompani-c9a8a899",
+      "name": "Бинт медицинский эластичный вязаный с лайкрой компрессионный ленточный средней растяжимости 10х500 см 1 шт МедЕвроКомпани",
+      "manufacturer": "МедЕвроКомпани ООО, Беларусь",
+      "image": "img/imn/bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-10kh500-sm-1-sht-medevrokompani-c9a8a899.webp",
+      "sourceUrl": "https://apteka.by/goods/bint-meditsinskii-elastichnyi-vyazanyi-s-laikroi-kompressionnyi-lentochnyi-srednei-rastyazhimosti-10kh500-sm-1-sht-medevrokompani-c9a8a899"
+    },
+    {
+      "id": "imn-bimed-roll-plastyr-katushechnyi-na-khlopkovoi-osnove-tsveta-kozhi-1-25kh500-sm-1-sht-24414382",
+      "name": "Бимед RoLL пластырь катушечный на хлопковой основе цвета кожи 1,25х500 см 1 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-roll-plastyr-katushechnyi-na-khlopkovoi-osnove-tsveta-kozhi-1-25kh500-sm-1-sht-24414382.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-roll-plastyr-katushechnyi-na-khlopkovoi-osnove-tsveta-kozhi-1-25kh500-sm-1-sht-24414382"
+    },
+    {
+      "id": "imn-bimed-roll-plastyr-katushechnyi-na-netkanoi-osnove-belogo-tsveta-2-5kh900-sm-1-sht-59c80045",
+      "name": "Бимед RoLL пластырь катушечный на нетканой основе белого цвета 2,5х900 см 1 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-roll-plastyr-katushechnyi-na-netkanoi-osnove-belogo-tsveta-2-5kh900-sm-1-sht-59c80045.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-roll-plastyr-katushechnyi-na-netkanoi-osnove-belogo-tsveta-2-5kh900-sm-1-sht-59c80045"
+    },
+    {
+      "id": "imn-bimed-foot-care-plastyr-dlya-mozolei-lateksnyi-predokhranyayushchii-ovalnyi-9-sht-93d2641d",
+      "name": "Бимед Foot Care пластырь для мозолей латексный (предохраняющий) овальный 9 шт",
+      "manufacturer": "Бимед ООО, Беларусь",
+      "image": "img/imn/bimed-foot-care-plastyr-dlya-mozolei-lateksnyi-predokhranyayushchii-ovalnyi-9-sht-93d2641d.webp",
+      "sourceUrl": "https://apteka.by/goods/bimed-foot-care-plastyr-dlya-mozolei-lateksnyi-predokhranyayushchii-ovalnyi-9-sht-93d2641d"
+    },
+    {
+      "id": "imn-ekspress-test-na-psa-psa-polukolichestvennyi-v-krovi-prostaticheskii-spetsificheskii-antigen-1-sht-labu-dac4a67b",
+      "name": "Экспресс-тест на ПСА (PSA) полуколичественный в крови (простатический специфический антиген) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/imn/ekspress-test-na-psa-psa-polukolichestvennyi-v-krovi-prostaticheskii-spetsificheskii-antigen-1-sht-labu-dac4a67b.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-psa-psa-polukolichestvennyi-v-krovi-prostaticheskii-spetsificheskii-antigen-1-sht-labu-dac4a67b"
+    },
+    {
+      "id": "imn-otrez-marlevyi-meditsinskii-nesterilnyi-1000kh90-cm-1-sht-farma-market-40afd3a3",
+      "name": "Отрез марлевый медицинский нестерильный 1000х90 cм 1 шт Фарма-Маркет",
+      "manufacturer": "Фарма-Маркет ООО, Беларусь",
+      "image": "img/imn/otrez-marlevyi-meditsinskii-nesterilnyi-1000kh90-cm-1-sht-farma-market-40afd3a3.webp",
+      "sourceUrl": "https://apteka.by/goods/otrez-marlevyi-meditsinskii-nesterilnyi-1000kh90-cm-1-sht-farma-market-40afd3a3"
+    },
+    {
+      "id": "imn-vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-khlopko-lnyanaya-nesterilnaya-50-g-rulon-1-sht-medvatfarm-efdde87c",
+      "name": "Вата медицинская гигроскопическая хирургическая хлопко-льняная нестерильная 50 г рулон 1 шт Медватфарм",
+      "manufacturer": "Медватфарм ООО, Беларусь",
+      "image": "img/imn/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-khlopko-lnyanaya-nesterilnaya-50-g-rulon-1-sht-medvatfarm-efdde87c.webp",
+      "sourceUrl": "https://apteka.by/goods/vata-meditsinskaya-gigroskopicheskaya-khirurgicheskaya-khlopko-lnyanaya-nesterilnaya-50-g-rulon-1-sht-medvatfarm-efdde87c"
+    },
+    {
+      "id": "imn-konteiner-universalnyi-sterilnyi-120-ml-1-sht-avanti-medical-cd9508fd",
+      "name": "Контейнер универсальный стерильный 120 мл 1 шт Avanti Medical",
+      "manufacturer": "Forans Eesti AS, Эстония",
+      "image": "img/imn/konteiner-universalnyi-sterilnyi-120-ml-1-sht-avanti-medical-cd9508fd.webp",
+      "sourceUrl": "https://apteka.by/goods/konteiner-universalnyi-sterilnyi-120-ml-1-sht-avanti-medical-cd9508fd"
+    },
+    {
+      "id": "imn-sprintsovka-s-myagkim-nakonechnikom-tip-a11-230-ml-1-sht-alpina-plast-5726daf2",
+      "name": "Спринцовка с мягким наконечником тип А11 230 мл 1 шт Альпина Пласт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/imn/sprintsovka-s-myagkim-nakonechnikom-tip-a11-230-ml-1-sht-alpina-plast-5726daf2.webp",
+      "sourceUrl": "https://apteka.by/goods/sprintsovka-s-myagkim-nakonechnikom-tip-a11-230-ml-1-sht-alpina-plast-5726daf2"
+    },
+    {
+      "id": "imn-contex-you-me-orgasmic-prezervativy-iz-naturalnogo-lateksa-so-stimuliruyushchei-smazkoi-3-sht-ef452c63",
+      "name": "Contex You&amp;Me Orgasmic презервативы из натурального латекса со стимулирующей смазкой 3 шт",
+      "manufacturer": "Рекитт Бенкизер Хелскэар (ЮК) Лтд., Великобритания",
+      "image": "img/imn/contex-you-me-orgasmic-prezervativy-iz-naturalnogo-lateksa-so-stimuliruyushchei-smazkoi-3-sht-ef452c63.webp",
+      "sourceUrl": "https://apteka.by/goods/contex-you-me-orgasmic-prezervativy-iz-naturalnogo-lateksa-so-stimuliruyushchei-smazkoi-3-sht-ef452c63"
+    },
+    {
+      "id": "imn-masculan-dotted-prezervativy-iz-naturalnogo-lateksa-s-pupyryshkami-10-sht-128ac9c4",
+      "name": "Masculan Dotted презервативы из натурального латекса с пупырышками 10 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-dotted-prezervativy-iz-naturalnogo-lateksa-s-pupyryshkami-10-sht-128ac9c4.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-dotted-prezervativy-iz-naturalnogo-lateksa-s-pupyryshkami-10-sht-128ac9c4"
+    },
+    {
+      "id": "imn-masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-3-sht-967c2ae0",
+      "name": "Masculan Ribbed + Dotted презервативы из натурального латекса с колечками и пупырышками 3 шт",
+      "manufacturer": "M.P.I. Pharmaceutica GmbH, Германия",
+      "image": "img/imn/masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-3-sht-967c2ae0.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-ribbed-dotted-prezervativy-iz-naturalnogo-lateksa-s-kolechkami-i-pupyryshkami-3-sht-967c2ae0"
+    },
+    {
+      "id": "imn-masculan-ultra-skolzheniye-intimnyi-gel-smazka-na-vodnoi-osnove-s-effektom-dlitelnogo-skolzheniya-50-ml-tuba-1-sht-b0ba5c44",
+      "name": "Masculan Ультра скольжение интимный гель-смазка на водной основе с эффектом длительного скольжения 50 мл туба 1 шт",
+      "manufacturer": "ООО ХБО Фирма ВИТА, Россия",
+      "image": "img/imn/masculan-ultra-skolzheniye-intimnyi-gel-smazka-na-vodnoi-osnove-s-effektom-dlitelnogo-skolzheniya-50-ml-tuba-1-sht-b0ba5c44.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-ultra-skolzheniye-intimnyi-gel-smazka-na-vodnoi-osnove-s-effektom-dlitelnogo-skolzheniya-50-ml-tuba-1-sht-b0ba5c44"
+    },
+    {
+      "id": "imn-masculan-2-v-1-massazhnyi-gel-i-smazka-bez-zapakha-130-ml-flakon-1-sht-5c3a3b13",
+      "name": "Masculan 2 в 1 Массажный гель и смазка без запаха 130 мл флакон 1 шт",
+      "manufacturer": "ООО ХБО Фирма ВИТА, Россия",
+      "image": "img/imn/masculan-2-v-1-massazhnyi-gel-i-smazka-bez-zapakha-130-ml-flakon-1-sht-5c3a3b13.webp",
+      "sourceUrl": "https://apteka.by/goods/masculan-2-v-1-massazhnyi-gel-i-smazka-bez-zapakha-130-ml-flakon-1-sht-5c3a3b13"
+    }
+  ]
+}

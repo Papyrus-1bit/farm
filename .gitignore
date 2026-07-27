@@ -2,5 +2,4 @@
 node_modules/
 dist/
 *.tsbuildinfo
-assets/packs/*.zip
-assets/packs/street-lines/
+.DS_Store

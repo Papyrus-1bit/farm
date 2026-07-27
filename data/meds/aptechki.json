@@ -1,0 +1,146 @@
+{
+  "id": "aptechki",
+  "title": "Аптечки",
+  "items": [
+    {
+      "id": "aptechki-master-uni-mini-tabletnitsa-1-sht-78efce20",
+      "name": "Master Uni Мини таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-mini-tabletnitsa-1-sht-78efce20.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-mini-tabletnitsa-1-sht-78efce20"
+    },
+    {
+      "id": "aptechki-aptechka-pervoi-pomoshchi-universalnaya-v-futlyare-s-mekhanicheskim-tonometrom-1-sht-laitfarm-515b9d40",
+      "name": "Аптечка первой помощи универсальная в футляре с механическим тонометром 1 шт Лайтфарм",
+      "manufacturer": "Лайтфарм ООО, Беларусь",
+      "image": "img/aptechki/aptechka-pervoi-pomoshchi-universalnaya-v-futlyare-s-mekhanicheskim-tonometrom-1-sht-laitfarm-515b9d40.webp",
+      "sourceUrl": "https://apteka.by/goods/aptechka-pervoi-pomoshchi-universalnaya-v-futlyare-s-mekhanicheskim-tonometrom-1-sht-laitfarm-515b9d40"
+    },
+    {
+      "id": "aptechki-master-uni-organaizer-tabletnitsa-1-sht-14b85b07",
+      "name": "Master Uni Органайзер таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-organaizer-tabletnitsa-1-sht-14b85b07.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-organaizer-tabletnitsa-1-sht-14b85b07"
+    },
+    {
+      "id": "aptechki-master-uni-komfort-tabletnitsa-1-sht-f514cec8",
+      "name": "Master Uni Комфорт таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-komfort-tabletnitsa-1-sht-f514cec8.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-komfort-tabletnitsa-1-sht-f514cec8"
+    },
+    {
+      "id": "aptechki-aptechka-pervoi-pomoshchi-dlya-osnashcheniya-transportnykh-sredstv-avtomobilnaya-v-futlyare-1-sht-laitfarm-4d289c15",
+      "name": "Аптечка первой помощи для оснащения транспортных средств (автомобильная) в футляре 1 шт Лайтфарм",
+      "manufacturer": "Лайтфарм ООО, Беларусь",
+      "image": "img/aptechki/aptechka-pervoi-pomoshchi-dlya-osnashcheniya-transportnykh-sredstv-avtomobilnaya-v-futlyare-1-sht-laitfarm-4d289c15.webp",
+      "sourceUrl": "https://apteka.by/goods/aptechka-pervoi-pomoshchi-dlya-osnashcheniya-transportnykh-sredstv-avtomobilnaya-v-futlyare-1-sht-laitfarm-4d289c15"
+    },
+    {
+      "id": "aptechki-pilyulya-mini-tabletnitsa-1-sht-383beaea",
+      "name": "Пилюля Мини таблетница 1 шт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/aptechki/pilyulya-mini-tabletnitsa-1-sht-383beaea.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-mini-tabletnitsa-1-sht-383beaea"
+    },
+    {
+      "id": "aptechki-pilyulya-na-odin-den-tabletnitsa-1-sht-70d31b87",
+      "name": "Пилюля на один день таблетница 1 шт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/aptechki/pilyulya-na-odin-den-tabletnitsa-1-sht-70d31b87.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-na-odin-den-tabletnitsa-1-sht-70d31b87"
+    },
+    {
+      "id": "aptechki-pilyulya-dorozhnaya-tabletnitsa-1-sht-d8567273",
+      "name": "Пилюля Дорожная таблетница 1 шт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/aptechki/pilyulya-dorozhnaya-tabletnitsa-1-sht-d8567273.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-dorozhnaya-tabletnitsa-1-sht-d8567273"
+    },
+    {
+      "id": "aptechki-pilyulya-organaizer-tabletnitsa-1-sht-4d702022",
+      "name": "Пилюля Органайзер таблетница 1 шт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/aptechki/pilyulya-organaizer-tabletnitsa-1-sht-4d702022.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-organaizer-tabletnitsa-1-sht-4d702022"
+    },
+    {
+      "id": "aptechki-pilyulya-na-7-dnei-tabletnitsa-1-sht-c9049d2a",
+      "name": "Пилюля на 7 дней таблетница 1 шт",
+      "manufacturer": "Альпина Пласт ООО, Россия",
+      "image": "img/aptechki/pilyulya-na-7-dnei-tabletnitsa-1-sht-c9049d2a.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-na-7-dnei-tabletnitsa-1-sht-c9049d2a"
+    },
+    {
+      "id": "aptechki-pilyulya-s-delitelem-razmelchitelem-i-menzurkoi-tabletnitsa-1-sht-3d489341",
+      "name": "Пилюля с делителем, размельчителем и мензуркой таблетница 1 шт",
+      "manufacturer": "Ningbo Suntem Industry &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/pilyulya-s-delitelem-razmelchitelem-i-menzurkoi-tabletnitsa-1-sht-3d489341.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-s-delitelem-razmelchitelem-i-menzurkoi-tabletnitsa-1-sht-3d489341"
+    },
+    {
+      "id": "aptechki-pilyulya-s-delitelem-tabletnitsa-1-sht-31c23973",
+      "name": "Пилюля с делителем таблетница 1 шт",
+      "manufacturer": "Ningbo Suntem Industry &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/pilyulya-s-delitelem-tabletnitsa-1-sht-31c23973.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-s-delitelem-tabletnitsa-1-sht-31c23973"
+    },
+    {
+      "id": "aptechki-pilyulya-s-vrashchayushcheisya-kryshkoi-tabletnitsa-1-sht-708be71b",
+      "name": "Пилюля с вращающейся крышкой таблетница 1 шт",
+      "manufacturer": "Ningbo Suntem Industry &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/pilyulya-s-vrashchayushcheisya-kryshkoi-tabletnitsa-1-sht-708be71b.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-s-vrashchayushcheisya-kryshkoi-tabletnitsa-1-sht-708be71b"
+    },
+    {
+      "id": "aptechki-pilyulya-transformer-tabletnitsa-1-sht-5e9d17e4",
+      "name": "Пилюля трансформер таблетница 1 шт",
+      "manufacturer": "Ningbo Suntem Industry &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/pilyulya-transformer-tabletnitsa-1-sht-5e9d17e4.webp",
+      "sourceUrl": "https://apteka.by/goods/pilyulya-transformer-tabletnitsa-1-sht-5e9d17e4"
+    },
+    {
+      "id": "aptechki-master-uni-transformer-tabletnitsa-1-sht-204904e4",
+      "name": "Master Uni Трансформер таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-transformer-tabletnitsa-1-sht-204904e4.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-transformer-tabletnitsa-1-sht-204904e4"
+    },
+    {
+      "id": "aptechki-master-uni-na-nedelyu-tabletnitsa-1-sht-315b4df9",
+      "name": "Master Uni на неделю таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-na-nedelyu-tabletnitsa-1-sht-315b4df9.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-na-nedelyu-tabletnitsa-1-sht-315b4df9"
+    },
+    {
+      "id": "aptechki-master-uni-karmannaya-tabletnitsa-1-sht-c1f75cc0",
+      "name": "Master Uni Карманная таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-karmannaya-tabletnitsa-1-sht-c1f75cc0.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-karmannaya-tabletnitsa-1-sht-c1f75cc0"
+    },
+    {
+      "id": "aptechki-master-uni-na-odin-den-tabletnitsa-1-sht-decc2e06",
+      "name": "Master Uni на один день таблетница 1 шт",
+      "manufacturer": "Ningbo High-Tech Bluesky Manufactory &amp; Trading Co. Ltd., Китай",
+      "image": "img/aptechki/master-uni-na-odin-den-tabletnitsa-1-sht-decc2e06.webp",
+      "sourceUrl": "https://apteka.by/goods/master-uni-na-odin-den-tabletnitsa-1-sht-decc2e06"
+    },
+    {
+      "id": "aptechki-aptechka-pervoi-pomoshchi-universalnaya-tip-au-1-sht-chefi-d98d76e2",
+      "name": "Аптечка первой помощи универсальная тип АУ 1 шт Чефи",
+      "manufacturer": "Чефи ООО, Беларусь",
+      "image": "img/aptechki/aptechka-pervoi-pomoshchi-universalnaya-tip-au-1-sht-chefi-d98d76e2.webp",
+      "sourceUrl": "https://apteka.by/goods/aptechka-pervoi-pomoshchi-universalnaya-tip-au-1-sht-chefi-d98d76e2"
+    },
+    {
+      "id": "aptechki-aptechka-pervoi-pomoshchi-dlya-osnashcheniya-transportnykh-sredstv-avtomobilnaya-tip-at-1-sht-chefi-7bcbf838",
+      "name": "Аптечка первой помощи для оснащения транспортных средств (автомобильная) тип АТ 1 шт Чефи",
+      "manufacturer": "Чефи ООО, Беларусь",
+      "image": "img/aptechki/aptechka-pervoi-pomoshchi-dlya-osnashcheniya-transportnykh-sredstv-avtomobilnaya-tip-at-1-sht-chefi-7bcbf838.webp",
+      "sourceUrl": "https://apteka.by/goods/aptechka-pervoi-pomoshchi-dlya-osnashcheniya-transportnykh-sredstv-avtomobilnaya-tip-at-1-sht-chefi-7bcbf838"
+    }
+  ]
+}

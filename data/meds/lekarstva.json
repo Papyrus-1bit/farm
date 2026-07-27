@@ -1,0 +1,2925 @@
+{
+  "id": "lekarstva",
+  "title": "Лекарства от А до Я",
+  "items": [
+    {
+      "id": "lekarstva-filingud-omega-3-6-9-kapsuly-myagkiye-1-4-g-30-sht-47f91db4",
+      "name": "ФилинГуд Омега 3+6+9 капсулы мягкие 1,4 г 30 шт",
+      "manufacturer": "Pharma Market Solutions SIA, Латвия",
+      "image": "img/lekarstva/filingud-omega-3-6-9-kapsuly-myagkiye-1-4-g-30-sht-47f91db4.webp",
+      "sourceUrl": "https://apteka.by/goods/filingud-omega-3-6-9-kapsuly-myagkiye-1-4-g-30-sht-47f91db4"
+    },
+    {
+      "id": "lekarstva-terafleks-500-mg-400-mg-kapsuly-120-sht-4a08142c",
+      "name": "Терафлекс 500 мг+400 мг капсулы 120 шт",
+      "manufacturer": "Байер Консьюмер Кэр АГ, Швейцария",
+      "image": "img/lekarstva/terafleks-500-mg-400-mg-kapsuly-120-sht-4a08142c.webp",
+      "sourceUrl": "https://apteka.by/goods/terafleks-500-mg-400-mg-kapsuly-120-sht-4a08142c"
+    },
+    {
+      "id": "lekarstva-renni-apelsin-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-dc82d632",
+      "name": "Ренни апельсин 680 мг+80 мг таблетки жевательные 24 шт",
+      "manufacturer": "Дельфарм Гайар, Франция",
+      "image": "img/lekarstva/renni-apelsin-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-dc82d632.webp",
+      "sourceUrl": "https://apteka.by/goods/renni-apelsin-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-dc82d632"
+    },
+    {
+      "id": "lekarstva-alka-zelttser-324-mg-tabletki-shipuchiye-10-sht-1e1d1841",
+      "name": "Алка-Зельтцер 324 мг таблетки шипучие 10 шт",
+      "manufacturer": "Байер Консьюмер Кэр АГ, Швейцария",
+      "image": "img/lekarstva/alka-zelttser-324-mg-tabletki-shipuchiye-10-sht-1e1d1841.webp",
+      "sourceUrl": "https://apteka.by/goods/alka-zelttser-324-mg-tabletki-shipuchiye-10-sht-1e1d1841"
+    },
+    {
+      "id": "lekarstva-groprinosin-500-mg-tabletki-50-sht-ff49cc40",
+      "name": "Гроприносин 500 мг таблетки 50 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/groprinosin-500-mg-tabletki-50-sht-ff49cc40.webp",
+      "sourceUrl": "https://apteka.by/goods/groprinosin-500-mg-tabletki-50-sht-ff49cc40"
+    },
+    {
+      "id": "lekarstva-sudoroginum-tabletki-550-mg-56-sht-doktor-taiss-90f1f497",
+      "name": "Судорогинум таблетки 550 мг 56 шт Доктор Тайсс",
+      "manufacturer": "Др.Тайсс Натурварен ГмбХ, Германия",
+      "image": "img/lekarstva/sudoroginum-tabletki-550-mg-56-sht-doktor-taiss-90f1f497.webp",
+      "sourceUrl": "https://apteka.by/goods/sudoroginum-tabletki-550-mg-56-sht-doktor-taiss-90f1f497"
+    },
+    {
+      "id": "lekarstva-prenatabs-tabletki-60-sht-solgar-d60678e8",
+      "name": "Пренатабс таблетки 60 шт Solgar",
+      "manufacturer": "Solgar Inc., США",
+      "image": "img/lekarstva/prenatabs-tabletki-60-sht-solgar-d60678e8.webp",
+      "sourceUrl": "https://apteka.by/goods/prenatabs-tabletki-60-sht-solgar-d60678e8"
+    },
+    {
+      "id": "lekarstva-miteravel-plyus-s-omega-3-vitaminami-i-mineralami-kapsuly-1180-mg-30-sht-sun-pharma-167ccbe1",
+      "name": "Митеравел Плюс с омега-3, витаминами и минералами капсулы 1180 мг 30 шт Sun Pharma",
+      "manufacturer": "Softgel Healthcare Private Limited, Индия",
+      "image": "img/lekarstva/miteravel-plyus-s-omega-3-vitaminami-i-mineralami-kapsuly-1180-mg-30-sht-sun-pharma-167ccbe1.webp",
+      "sourceUrl": "https://apteka.by/goods/miteravel-plyus-s-omega-3-vitaminami-i-mineralami-kapsuly-1180-mg-30-sht-sun-pharma-167ccbe1"
+    },
+    {
+      "id": "lekarstva-prenatal-forte-kapsuly-s-dlitelnym-vysvobozhdeniyem-deistvuyushchikh-veshchestv-60-sht-swiss-energy-d093e56e",
+      "name": "Пренатал Форте капсулы с длительным высвобождением действующих веществ 60 шт Swiss Energy",
+      "manufacturer": "Джелпел АГ, Швейцария",
+      "image": "img/lekarstva/prenatal-forte-kapsuly-s-dlitelnym-vysvobozhdeniyem-deistvuyushchikh-veshchestv-60-sht-swiss-energy-d093e56e.webp",
+      "sourceUrl": "https://apteka.by/goods/prenatal-forte-kapsuly-s-dlitelnym-vysvobozhdeniyem-deistvuyushchikh-veshchestv-60-sht-swiss-energy-d093e56e"
+    },
+    {
+      "id": "lekarstva-struktum-500-mg-kapsuly-60-sht-d8700cbd",
+      "name": "Структум 500 мг капсулы 60 шт",
+      "manufacturer": "Пьер Фабр Медикамент Продакшн, Франция",
+      "image": "img/lekarstva/struktum-500-mg-kapsuly-60-sht-d8700cbd.webp",
+      "sourceUrl": "https://apteka.by/goods/struktum-500-mg-kapsuly-60-sht-d8700cbd"
+    },
+    {
+      "id": "lekarstva-ugol-bioaktivirovannyi-tabletki-250-mg-10-sht-bioterra-66121d1f",
+      "name": "Уголь БиоАктивированный таблетки 250 мг 10 шт Биотерра",
+      "manufacturer": "Биотерра ООО, Беларусь",
+      "image": "img/lekarstva/ugol-bioaktivirovannyi-tabletki-250-mg-10-sht-bioterra-66121d1f.webp",
+      "sourceUrl": "https://apteka.by/goods/ugol-bioaktivirovannyi-tabletki-250-mg-10-sht-bioterra-66121d1f"
+    },
+    {
+      "id": "lekarstva-ekvator-20-mg-10-mg-tabletki-30-sht-28acfe2d",
+      "name": "Экватор 20 мг+10 мг таблетки 30 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/ekvator-20-mg-10-mg-tabletki-30-sht-28acfe2d.webp",
+      "sourceUrl": "https://apteka.by/goods/ekvator-20-mg-10-mg-tabletki-30-sht-28acfe2d"
+    },
+    {
+      "id": "lekarstva-validol-60-mg-tabletki-pod-yazychnyye-10-sht-de9d9617",
+      "name": "Валидол 60 мг таблетки подъязычные 10 шт",
+      "manufacturer": "АО Усолье-Сибирский химфармзавод, Россия",
+      "image": "img/lekarstva/validol-60-mg-tabletki-pod-yazychnyye-10-sht-de9d9617.webp",
+      "sourceUrl": "https://apteka.by/goods/validol-60-mg-tabletki-pod-yazychnyye-10-sht-de9d9617"
+    },
+    {
+      "id": "lekarstva-glyukoza-2000-mg-tabletki-zhevatelnyye-15-sht-03bfc1d4",
+      "name": "Глюкоза 2000 мг таблетки жевательные 15 шт",
+      "manufacturer": "Экзон ОАО, Беларусь",
+      "image": "img/lekarstva/glyukoza-2000-mg-tabletki-zhevatelnyye-15-sht-03bfc1d4.webp",
+      "sourceUrl": "https://apteka.by/goods/glyukoza-2000-mg-tabletki-zhevatelnyye-15-sht-03bfc1d4"
+    },
+    {
+      "id": "lekarstva-roksera-plyus-10-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-cc8090c4",
+      "name": "Роксера Плюс 10 мг+10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/roksera-plyus-10-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-cc8090c4.webp",
+      "sourceUrl": "https://apteka.by/goods/roksera-plyus-10-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-cc8090c4"
+    },
+    {
+      "id": "lekarstva-auditor-20-mg-tabletki-30-sht-db60b95d",
+      "name": "Аудитор 20 мг таблетки 30 шт",
+      "manufacturer": "Салютас Фарма ГмбХ, Германия",
+      "image": "img/lekarstva/auditor-20-mg-tabletki-30-sht-db60b95d.webp",
+      "sourceUrl": "https://apteka.by/goods/auditor-20-mg-tabletki-30-sht-db60b95d"
+    },
+    {
+      "id": "lekarstva-lizoretik-10-mg-12-5-mg-tabletki-28-sht-7c4bf50b",
+      "name": "Лизоретик 10 мг+12,5 мг таблетки 28 шт",
+      "manufacturer": "Ипка Лабораториз Лимитед, Индия",
+      "image": "img/lekarstva/lizoretik-10-mg-12-5-mg-tabletki-28-sht-7c4bf50b.webp",
+      "sourceUrl": "https://apteka.by/goods/lizoretik-10-mg-12-5-mg-tabletki-28-sht-7c4bf50b"
+    },
+    {
+      "id": "lekarstva-monokaps-20-mg-kapsuly-30-sht-4bbdcc0e",
+      "name": "Монокапс 20 мг капсулы 30 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/monokaps-20-mg-kapsuly-30-sht-4bbdcc0e.webp",
+      "sourceUrl": "https://apteka.by/goods/monokaps-20-mg-kapsuly-30-sht-4bbdcc0e"
+    },
+    {
+      "id": "lekarstva-lizoretik-20-mg-12-5-mg-tabletki-28-sht-41ab1b1d",
+      "name": "Лизоретик 20 мг+12,5 мг таблетки 28 шт",
+      "manufacturer": "Ипка Лабораториз Лимитед, Индия",
+      "image": "img/lekarstva/lizoretik-20-mg-12-5-mg-tabletki-28-sht-41ab1b1d.webp",
+      "sourceUrl": "https://apteka.by/goods/lizoretik-20-mg-12-5-mg-tabletki-28-sht-41ab1b1d"
+    },
+    {
+      "id": "lekarstva-norvask-5-mg-tabletki-30-sht-1d497805",
+      "name": "Норваск 5 мг таблетки 30 шт",
+      "manufacturer": "Пфайзер Мэнюфэкчуринг Дойчленд ГмбХ, Германия",
+      "image": "img/lekarstva/norvask-5-mg-tabletki-30-sht-1d497805.webp",
+      "sourceUrl": "https://apteka.by/goods/norvask-5-mg-tabletki-30-sht-1d497805"
+    },
+    {
+      "id": "lekarstva-kreon-10000-150-mg-kapsuly-kishechnorastvorimyye-20-sht-6c29793a",
+      "name": "Креон 10000 150 мг капсулы кишечнорастворимые 20 шт",
+      "manufacturer": "Эбботт Лэбораториз ГмбХ, Германия",
+      "image": "img/lekarstva/kreon-10000-150-mg-kapsuly-kishechnorastvorimyye-20-sht-6c29793a.webp",
+      "sourceUrl": "https://apteka.by/goods/kreon-10000-150-mg-kapsuly-kishechnorastvorimyye-20-sht-6c29793a"
+    },
+    {
+      "id": "lekarstva-susten-100-mg-kapsuly-30-sht-f57a2f55",
+      "name": "Сустен 100 мг капсулы 30 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/susten-100-mg-kapsuly-30-sht-f57a2f55.webp",
+      "sourceUrl": "https://apteka.by/goods/susten-100-mg-kapsuly-30-sht-f57a2f55"
+    },
+    {
+      "id": "lekarstva-velaksin-150-mg-kapsuly-prolongirovannogo-deistviya-28-sht-443dec30",
+      "name": "Велаксин 150 мг капсулы пролонгированного действия 28 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/velaksin-150-mg-kapsuly-prolongirovannogo-deistviya-28-sht-443dec30.webp",
+      "sourceUrl": "https://apteka.by/goods/velaksin-150-mg-kapsuly-prolongirovannogo-deistviya-28-sht-443dec30"
+    },
+    {
+      "id": "lekarstva-oksetol-300-mg-tabletki-pokrytyye-obolochkoi-30-sht-40826945",
+      "name": "Оксетол 300 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/oksetol-300-mg-tabletki-pokrytyye-obolochkoi-30-sht-40826945.webp",
+      "sourceUrl": "https://apteka.by/goods/oksetol-300-mg-tabletki-pokrytyye-obolochkoi-30-sht-40826945"
+    },
+    {
+      "id": "lekarstva-tsipraleks-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-fa2431bf",
+      "name": "Ципралекс 10 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Х. Лундбек А/О, Дания",
+      "image": "img/lekarstva/tsipraleks-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-fa2431bf.webp",
+      "sourceUrl": "https://apteka.by/goods/tsipraleks-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-fa2431bf"
+    },
+    {
+      "id": "lekarstva-rifaksin-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-80568f67",
+      "name": "Рифаксин 200 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Мед-интерпласт, Беларусь",
+      "image": "img/lekarstva/rifaksin-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-80568f67.webp",
+      "sourceUrl": "https://apteka.by/goods/rifaksin-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-80568f67"
+    },
+    {
+      "id": "lekarstva-lirika-150-mg-kapsuly-14-sht-38651c44",
+      "name": "Лирика 150 мг капсулы 14 шт",
+      "manufacturer": "Пфайзер Мэнюфэкчуринг Дойчленд ГмбХ, Германия",
+      "image": "img/lekarstva/lirika-150-mg-kapsuly-14-sht-38651c44.webp",
+      "sourceUrl": "https://apteka.by/goods/lirika-150-mg-kapsuly-14-sht-38651c44"
+    },
+    {
+      "id": "lekarstva-telmista-n-80-mg-25-mg-tabletki-30-sht-b19aa25f",
+      "name": "Телмиста Н 80 мг+25 мг таблетки 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/telmista-n-80-mg-25-mg-tabletki-30-sht-b19aa25f.webp",
+      "sourceUrl": "https://apteka.by/goods/telmista-n-80-mg-25-mg-tabletki-30-sht-b19aa25f"
+    },
+    {
+      "id": "lekarstva-edarbi-40-mg-tabletki-28-sht-f8c84522",
+      "name": "Эдарби 40 мг таблетки 28 шт",
+      "manufacturer": "Хемофарм ООО, Россия",
+      "image": "img/lekarstva/edarbi-40-mg-tabletki-28-sht-f8c84522.webp",
+      "sourceUrl": "https://apteka.by/goods/edarbi-40-mg-tabletki-28-sht-f8c84522"
+    },
+    {
+      "id": "lekarstva-eflozin-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-ec3183a7",
+      "name": "Эфлозин 25 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/eflozin-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-ec3183a7.webp",
+      "sourceUrl": "https://apteka.by/goods/eflozin-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-ec3183a7"
+    },
+    {
+      "id": "lekarstva-kalchek-5-mg-tabletki-30-sht-75e33da9",
+      "name": "Калчек 5 мг таблетки 30 шт",
+      "manufacturer": "Ипка Лабораториз Лимитед, Индия",
+      "image": "img/lekarstva/kalchek-5-mg-tabletki-30-sht-75e33da9.webp",
+      "sourceUrl": "https://apteka.by/goods/kalchek-5-mg-tabletki-30-sht-75e33da9"
+    },
+    {
+      "id": "lekarstva-tselekoksib-200-mg-kapsuly-10-sht-02b5b45c",
+      "name": "Целекоксиб 200 мг капсулы 10 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/tselekoksib-200-mg-kapsuly-10-sht-02b5b45c.webp",
+      "sourceUrl": "https://apteka.by/goods/tselekoksib-200-mg-kapsuly-10-sht-02b5b45c"
+    },
+    {
+      "id": "lekarstva-gemastad-rn-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-68d37435",
+      "name": "Гемастад-РН 500 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/gemastad-rn-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-68d37435.webp",
+      "sourceUrl": "https://apteka.by/goods/gemastad-rn-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-68d37435"
+    },
+    {
+      "id": "lekarstva-propanorm-150-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-6ef80bb2",
+      "name": "Пропанорм 150 мг таблетки покрытые пленочной оболочкой 50 шт",
+      "manufacturer": "ПРО.МЕД.ЦС Прага, Чехия",
+      "image": "img/lekarstva/propanorm-150-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-6ef80bb2.webp",
+      "sourceUrl": "https://apteka.by/goods/propanorm-150-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-6ef80bb2"
+    },
+    {
+      "id": "lekarstva-ko-prenessa-2-mg-0-625-mg-tabletki-30-sht-eb06b9db",
+      "name": "Ко-Пренесса 2 мг+0,625 мг таблетки 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/ko-prenessa-2-mg-0-625-mg-tabletki-30-sht-eb06b9db.webp",
+      "sourceUrl": "https://apteka.by/goods/ko-prenessa-2-mg-0-625-mg-tabletki-30-sht-eb06b9db"
+    },
+    {
+      "id": "lekarstva-flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-46771d1f",
+      "name": "Флебодиа 600 мг таблетки покрытые пленочной оболочкой 60 шт",
+      "manufacturer": "Иннотера Шузи, Франция",
+      "image": "img/lekarstva/flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-46771d1f.webp",
+      "sourceUrl": "https://apteka.by/goods/flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-46771d1f"
+    },
+    {
+      "id": "lekarstva-karvidil-12-5-mg-tabletki-28-sht-ed277964",
+      "name": "Карвидил 12,5 мг таблетки 28 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/karvidil-12-5-mg-tabletki-28-sht-ed277964.webp",
+      "sourceUrl": "https://apteka.by/goods/karvidil-12-5-mg-tabletki-28-sht-ed277964"
+    },
+    {
+      "id": "lekarstva-enterosept-100-mg-tabletki-pokrytyye-obolochkoi-30-sht-7171e952",
+      "name": "Энтеросепт 100 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/enterosept-100-mg-tabletki-pokrytyye-obolochkoi-30-sht-7171e952.webp",
+      "sourceUrl": "https://apteka.by/goods/enterosept-100-mg-tabletki-pokrytyye-obolochkoi-30-sht-7171e952"
+    },
+    {
+      "id": "lekarstva-auditor-5-mg-tabletki-30-sht-020bf2c4",
+      "name": "Аудитор 5 мг таблетки 30 шт",
+      "manufacturer": "Салютас Фарма ГмбХ, Германия",
+      "image": "img/lekarstva/auditor-5-mg-tabletki-30-sht-020bf2c4.webp",
+      "sourceUrl": "https://apteka.by/goods/auditor-5-mg-tabletki-30-sht-020bf2c4"
+    },
+    {
+      "id": "lekarstva-anaprilin-40-mg-tabletki-50-sht-42fe8808",
+      "name": "Анаприлин 40 мг таблетки 50 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/anaprilin-40-mg-tabletki-50-sht-42fe8808.webp",
+      "sourceUrl": "https://apteka.by/goods/anaprilin-40-mg-tabletki-50-sht-42fe8808"
+    },
+    {
+      "id": "lekarstva-riboksin-200-mg-tabletki-pokrytyye-obolochkoi-50-sht-4a1590df",
+      "name": "Рибоксин 200 мг таблетки покрытые оболочкой 50 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/riboksin-200-mg-tabletki-pokrytyye-obolochkoi-50-sht-4a1590df.webp",
+      "sourceUrl": "https://apteka.by/goods/riboksin-200-mg-tabletki-pokrytyye-obolochkoi-50-sht-4a1590df"
+    },
+    {
+      "id": "lekarstva-rozuvastatin-am-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7d571e5c",
+      "name": "Розувастатин-АМ 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/rozuvastatin-am-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7d571e5c.webp",
+      "sourceUrl": "https://apteka.by/goods/rozuvastatin-am-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7d571e5c"
+    },
+    {
+      "id": "lekarstva-fosfogliv-urso-250-mg-35-mg-kapsuly-50-sht-29e11ea8",
+      "name": "Фосфоглив Урсо 250 мг+35 мг капсулы 50 шт",
+      "manufacturer": "Фармстандарт-Лексредства ОАО, Россия",
+      "image": "img/lekarstva/fosfogliv-urso-250-mg-35-mg-kapsuly-50-sht-29e11ea8.webp",
+      "sourceUrl": "https://apteka.by/goods/fosfogliv-urso-250-mg-35-mg-kapsuly-50-sht-29e11ea8"
+    },
+    {
+      "id": "lekarstva-elitseya-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b0b79da5",
+      "name": "Элицея 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/elitseya-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b0b79da5.webp",
+      "sourceUrl": "https://apteka.by/goods/elitseya-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b0b79da5"
+    },
+    {
+      "id": "lekarstva-magnel-end-b6-450-mg-5-mg-tabletki-60-sht-177540c7",
+      "name": "Магнелэнд B6 450 мг+5 мг таблетки 60 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/magnel-end-b6-450-mg-5-mg-tabletki-60-sht-177540c7.webp",
+      "sourceUrl": "https://apteka.by/goods/magnel-end-b6-450-mg-5-mg-tabletki-60-sht-177540c7"
+    },
+    {
+      "id": "lekarstva-eflozin-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4e77c1b0",
+      "name": "Эфлозин 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/eflozin-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4e77c1b0.webp",
+      "sourceUrl": "https://apteka.by/goods/eflozin-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4e77c1b0"
+    },
+    {
+      "id": "lekarstva-sumatriptan-lf-100-mg-tabletki-pokrytyye-obolochkoi-10-sht-73dc680c",
+      "name": "Суматриптан-ЛФ 100 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/sumatriptan-lf-100-mg-tabletki-pokrytyye-obolochkoi-10-sht-73dc680c.webp",
+      "sourceUrl": "https://apteka.by/goods/sumatriptan-lf-100-mg-tabletki-pokrytyye-obolochkoi-10-sht-73dc680c"
+    },
+    {
+      "id": "lekarstva-pk-merts-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a7f0d2b9",
+      "name": "ПК-Мерц 100 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Klocke Pharma-Service GmbH, Германия",
+      "image": "img/lekarstva/pk-merts-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a7f0d2b9.webp",
+      "sourceUrl": "https://apteka.by/goods/pk-merts-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a7f0d2b9"
+    },
+    {
+      "id": "lekarstva-brintelliks-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-b6e32320",
+      "name": "Бринтелликс 10 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Х. Лундбек А/О, Дания",
+      "image": "img/lekarstva/brintelliks-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-b6e32320.webp",
+      "sourceUrl": "https://apteka.by/goods/brintelliks-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-b6e32320"
+    },
+    {
+      "id": "lekarstva-ksariva-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-250413d2",
+      "name": "Ксарива 20 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/ksariva-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-250413d2.webp",
+      "sourceUrl": "https://apteka.by/goods/ksariva-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-250413d2"
+    },
+    {
+      "id": "lekarstva-amoksikar-1000-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-89f0fd5c",
+      "name": "Амоксикар 1000 мг таблетки покрытые пленочной оболочкой 14 шт",
+      "manufacturer": "Фармакар ПЛС, Палестина",
+      "image": "img/lekarstva/amoksikar-1000-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-89f0fd5c.webp",
+      "sourceUrl": "https://apteka.by/goods/amoksikar-1000-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-89f0fd5c"
+    },
+    {
+      "id": "lekarstva-rozuvastatin-am-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4625d8e3",
+      "name": "Розувастатин-АМ 20 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/rozuvastatin-am-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4625d8e3.webp",
+      "sourceUrl": "https://apteka.by/goods/rozuvastatin-am-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4625d8e3"
+    },
+    {
+      "id": "lekarstva-lamotridzhin-lf-100-mg-tabletki-30-sht-5c41a15f",
+      "name": "Ламотриджин-ЛФ 100 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/lamotridzhin-lf-100-mg-tabletki-30-sht-5c41a15f.webp",
+      "sourceUrl": "https://apteka.by/goods/lamotridzhin-lf-100-mg-tabletki-30-sht-5c41a15f"
+    },
+    {
+      "id": "lekarstva-kestin-10-mg-tabletki-pokrytyye-obolochkoi-10-sht-f387624d",
+      "name": "Кестин 10 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Индастриас Фармасьютикас Алмирал С.А., Испания",
+      "image": "img/lekarstva/kestin-10-mg-tabletki-pokrytyye-obolochkoi-10-sht-f387624d.webp",
+      "sourceUrl": "https://apteka.by/goods/kestin-10-mg-tabletki-pokrytyye-obolochkoi-10-sht-f387624d"
+    },
+    {
+      "id": "lekarstva-ipidakrin-lf-20-mg-tabletki-50-sht-42ffcf05",
+      "name": "Ипидакрин-ЛФ 20 мг таблетки 50 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/ipidakrin-lf-20-mg-tabletki-50-sht-42ffcf05.webp",
+      "sourceUrl": "https://apteka.by/goods/ipidakrin-lf-20-mg-tabletki-50-sht-42ffcf05"
+    },
+    {
+      "id": "lekarstva-auditor-10-mg-tabletki-30-sht-ac1ad983",
+      "name": "Аудитор 10 мг таблетки 30 шт",
+      "manufacturer": "Салютас Фарма ГмбХ, Германия",
+      "image": "img/lekarstva/auditor-10-mg-tabletki-30-sht-ac1ad983.webp",
+      "sourceUrl": "https://apteka.by/goods/auditor-10-mg-tabletki-30-sht-ac1ad983"
+    },
+    {
+      "id": "lekarstva-spironolakton-ft-25-mg-tabletki-30-sht-6547884c",
+      "name": "Спиронолактон ФТ 25 мг таблетки 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/spironolakton-ft-25-mg-tabletki-30-sht-6547884c.webp",
+      "sourceUrl": "https://apteka.by/goods/spironolakton-ft-25-mg-tabletki-30-sht-6547884c"
+    },
+    {
+      "id": "lekarstva-ksarelto-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1e0a8405",
+      "name": "Ксарелто 20 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Байер АГ, Германия",
+      "image": "img/lekarstva/ksarelto-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1e0a8405.webp",
+      "sourceUrl": "https://apteka.by/goods/ksarelto-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1e0a8405"
+    },
+    {
+      "id": "lekarstva-torasemid-10-mg-tabletki-30-sht-9718db12",
+      "name": "Торасемид 10 мг таблетки 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/torasemid-10-mg-tabletki-30-sht-9718db12.webp",
+      "sourceUrl": "https://apteka.by/goods/torasemid-10-mg-tabletki-30-sht-9718db12"
+    },
+    {
+      "id": "lekarstva-troksevazin-300-mg-kapsuly-50-sht-28fc2782",
+      "name": "Троксевазин 300 мг капсулы 50 шт",
+      "manufacturer": "Балканфарма-Разград АД, Болгария",
+      "image": "img/lekarstva/troksevazin-300-mg-kapsuly-50-sht-28fc2782.webp",
+      "sourceUrl": "https://apteka.by/goods/troksevazin-300-mg-kapsuly-50-sht-28fc2782"
+    },
+    {
+      "id": "lekarstva-bisoprolol-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-f92586a2",
+      "name": "Бисопролол 5 мг таблетки покрытые пленочной оболочкой 60 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/bisoprolol-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-f92586a2.webp",
+      "sourceUrl": "https://apteka.by/goods/bisoprolol-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-f92586a2"
+    },
+    {
+      "id": "lekarstva-lozartan-n-100-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-31c0b36a",
+      "name": "Лозартан Н 100 мг+12,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/lozartan-n-100-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-31c0b36a.webp",
+      "sourceUrl": "https://apteka.by/goods/lozartan-n-100-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-31c0b36a"
+    },
+    {
+      "id": "lekarstva-naisulid-100-mg-tabletki-30-sht-5db60c98",
+      "name": "Найсулид 100 мг таблетки 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/naisulid-100-mg-tabletki-30-sht-5db60c98.webp",
+      "sourceUrl": "https://apteka.by/goods/naisulid-100-mg-tabletki-30-sht-5db60c98"
+    },
+    {
+      "id": "lekarstva-vendiol-0-06-mg-0-015-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-37f76c6f",
+      "name": "Вендиол 0,06 мг+0,015 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/vendiol-0-06-mg-0-015-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-37f76c6f.webp",
+      "sourceUrl": "https://apteka.by/goods/vendiol-0-06-mg-0-015-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-37f76c6f"
+    },
+    {
+      "id": "lekarstva-boleoff-forte-400-mg-kapsuly-20-sht-0b01c7d6",
+      "name": "Болеофф Форте 400 мг капсулы 20 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/boleoff-forte-400-mg-kapsuly-20-sht-0b01c7d6.webp",
+      "sourceUrl": "https://apteka.by/goods/boleoff-forte-400-mg-kapsuly-20-sht-0b01c7d6"
+    },
+    {
+      "id": "lekarstva-utrozhestan-100-mg-kapsuly-28-sht-c8fbbc86",
+      "name": "Утрожестан 100 мг капсулы 28 шт",
+      "manufacturer": "Синдеа Фарма СЛ, Испания",
+      "image": "img/lekarstva/utrozhestan-100-mg-kapsuly-28-sht-c8fbbc86.webp",
+      "sourceUrl": "https://apteka.by/goods/utrozhestan-100-mg-kapsuly-28-sht-c8fbbc86"
+    },
+    {
+      "id": "lekarstva-indometatsin-sofarma-25-mg-tabletki-kishechnorastvorimyye-30-sht-43cca4b3",
+      "name": "Индометацин Софарма 25 мг таблетки кишечнорастворимые 30 шт",
+      "manufacturer": "Софарма АО, Болгария",
+      "image": "img/lekarstva/indometatsin-sofarma-25-mg-tabletki-kishechnorastvorimyye-30-sht-43cca4b3.webp",
+      "sourceUrl": "https://apteka.by/goods/indometatsin-sofarma-25-mg-tabletki-kishechnorastvorimyye-30-sht-43cca4b3"
+    },
+    {
+      "id": "lekarstva-belara-2-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-23ce1851",
+      "name": "Белара 2 мг+0,03 мг таблетки покрытые пленочной оболочкой 21 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/belara-2-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-23ce1851.webp",
+      "sourceUrl": "https://apteka.by/goods/belara-2-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-23ce1851"
+    },
+    {
+      "id": "lekarstva-ko-diroton-10-mg-12-5-mg-tabletki-30-sht-f2e43fa3",
+      "name": "Ко-Диротон 10 мг+12,5 мг таблетки 30 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/ko-diroton-10-mg-12-5-mg-tabletki-30-sht-f2e43fa3.webp",
+      "sourceUrl": "https://apteka.by/goods/ko-diroton-10-mg-12-5-mg-tabletki-30-sht-f2e43fa3"
+    },
+    {
+      "id": "lekarstva-sidnofarm-2-mg-tabletki-30-sht-ccd45007",
+      "name": "Сиднофарм 2 мг таблетки 30 шт",
+      "manufacturer": "Софарма АО, Болгария",
+      "image": "img/lekarstva/sidnofarm-2-mg-tabletki-30-sht-ccd45007.webp",
+      "sourceUrl": "https://apteka.by/goods/sidnofarm-2-mg-tabletki-30-sht-ccd45007"
+    },
+    {
+      "id": "lekarstva-enterolaks-7-5-mg-tabletki-10-sht-1b32a022",
+      "name": "Энтеролакс 7,5 мг таблетки 10 шт",
+      "manufacturer": "Белалек ООО, Беларусь",
+      "image": "img/lekarstva/enterolaks-7-5-mg-tabletki-10-sht-1b32a022.webp",
+      "sourceUrl": "https://apteka.by/goods/enterolaks-7-5-mg-tabletki-10-sht-1b32a022"
+    },
+    {
+      "id": "lekarstva-metformin-lf-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-20885c72",
+      "name": "Метформин-ЛФ 500 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/metformin-lf-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-20885c72.webp",
+      "sourceUrl": "https://apteka.by/goods/metformin-lf-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-20885c72"
+    },
+    {
+      "id": "lekarstva-rikulatron-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-c055dcc7",
+      "name": "Рикулатрон 20 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/rikulatron-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-c055dcc7.webp",
+      "sourceUrl": "https://apteka.by/goods/rikulatron-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-c055dcc7"
+    },
+    {
+      "id": "lekarstva-lebel-500-mg-tabletki-pokrytyye-obolochkoi-7-sht-41ae36ec",
+      "name": "Лебел 500 мг таблетки покрытые оболочкой 7 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/lebel-500-mg-tabletki-pokrytyye-obolochkoi-7-sht-41ae36ec.webp",
+      "sourceUrl": "https://apteka.by/goods/lebel-500-mg-tabletki-pokrytyye-obolochkoi-7-sht-41ae36ec"
+    },
+    {
+      "id": "lekarstva-nistatin-500000-yed-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-06997f04",
+      "name": "Нистатин 500000 ЕД таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/nistatin-500000-yed-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-06997f04.webp",
+      "sourceUrl": "https://apteka.by/goods/nistatin-500000-yed-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-06997f04"
+    },
+    {
+      "id": "lekarstva-polmatin-10-mg-tabletki-pokrytyye-obolochkoi-28-sht-819c9fbf",
+      "name": "Полматин 10 мг таблетки покрытые оболочкой 28 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/polmatin-10-mg-tabletki-pokrytyye-obolochkoi-28-sht-819c9fbf.webp",
+      "sourceUrl": "https://apteka.by/goods/polmatin-10-mg-tabletki-pokrytyye-obolochkoi-28-sht-819c9fbf"
+    },
+    {
+      "id": "lekarstva-lorsept-myata-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-c164bbc9",
+      "name": "Лорсепт мята 1,5 мг таблетки для рассасывания 20 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/lorsept-myata-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-c164bbc9.webp",
+      "sourceUrl": "https://apteka.by/goods/lorsept-myata-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-c164bbc9"
+    },
+    {
+      "id": "lekarstva-brintelliks-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1a3f91fe",
+      "name": "Бринтелликс 20 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Х. Лундбек А/О, Дания",
+      "image": "img/lekarstva/brintelliks-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1a3f91fe.webp",
+      "sourceUrl": "https://apteka.by/goods/brintelliks-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1a3f91fe"
+    },
+    {
+      "id": "lekarstva-telsartan-80-mg-tabletki-28-sht-a7f592ce",
+      "name": "Телсартан 80 мг таблетки 28 шт",
+      "manufacturer": "Д-р Редди`с Лабораторис Лтд., Индия",
+      "image": "img/lekarstva/telsartan-80-mg-tabletki-28-sht-a7f592ce.webp",
+      "sourceUrl": "https://apteka.by/goods/telsartan-80-mg-tabletki-28-sht-a7f592ce"
+    },
+    {
+      "id": "lekarstva-rozuvastatin-am-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-641d77dd",
+      "name": "Розувастатин-АМ 5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/rozuvastatin-am-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-641d77dd.webp",
+      "sourceUrl": "https://apteka.by/goods/rozuvastatin-am-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-641d77dd"
+    },
+    {
+      "id": "lekarstva-podagrel-80-mg-kapsuly-30-sht-35ec2538",
+      "name": "Подагрель 80 мг капсулы 30 шт",
+      "manufacturer": "Акрихин ХФК АО, Россия",
+      "image": "img/lekarstva/podagrel-80-mg-kapsuly-30-sht-35ec2538.webp",
+      "sourceUrl": "https://apteka.by/goods/podagrel-80-mg-kapsuly-30-sht-35ec2538"
+    },
+    {
+      "id": "lekarstva-azitromitsin-farml-end-500-mg-tabletki-pokrytyye-obolochkoi-6-sht-70c639df",
+      "name": "Азитромицин Фармлэнд 500 мг таблетки покрытые оболочкой 6 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/azitromitsin-farml-end-500-mg-tabletki-pokrytyye-obolochkoi-6-sht-70c639df.webp",
+      "sourceUrl": "https://apteka.by/goods/azitromitsin-farml-end-500-mg-tabletki-pokrytyye-obolochkoi-6-sht-70c639df"
+    },
+    {
+      "id": "lekarstva-gelmintoks-125-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-f7e2b2b7",
+      "name": "Гельминтокс 125 мг таблетки покрытые пленочной оболочкой 6 шт",
+      "manufacturer": "Иннотера Шузи, Франция",
+      "image": "img/lekarstva/gelmintoks-125-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-f7e2b2b7.webp",
+      "sourceUrl": "https://apteka.by/goods/gelmintoks-125-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-f7e2b2b7"
+    },
+    {
+      "id": "lekarstva-karvidil-6-25-mg-tabletki-28-sht-c60d870e",
+      "name": "Карвидил 6,25 мг таблетки 28 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/karvidil-6-25-mg-tabletki-28-sht-c60d870e.webp",
+      "sourceUrl": "https://apteka.by/goods/karvidil-6-25-mg-tabletki-28-sht-c60d870e"
+    },
+    {
+      "id": "lekarstva-tsetirizin-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-1c303b0e",
+      "name": "Цетиризин-ЛФ 10 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/tsetirizin-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-1c303b0e.webp",
+      "sourceUrl": "https://apteka.by/goods/tsetirizin-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-1c303b0e"
+    },
+    {
+      "id": "lekarstva-agarta-50-mg-tabletki-28-sht-f3a4ff48",
+      "name": "Агарта 50 мг таблетки 28 шт",
+      "manufacturer": "Гедеон Рихтер-РУС АО, Россия",
+      "image": "img/lekarstva/agarta-50-mg-tabletki-28-sht-f3a4ff48.webp",
+      "sourceUrl": "https://apteka.by/goods/agarta-50-mg-tabletki-28-sht-f3a4ff48"
+    },
+    {
+      "id": "lekarstva-ko-trimoksazol-400-mg-80-mg-tabletki-20-sht-8fe0093b",
+      "name": "Ко-тримоксазол 400 мг+80 мг таблетки 20 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/ko-trimoksazol-400-mg-80-mg-tabletki-20-sht-8fe0093b.webp",
+      "sourceUrl": "https://apteka.by/goods/ko-trimoksazol-400-mg-80-mg-tabletki-20-sht-8fe0093b"
+    },
+    {
+      "id": "lekarstva-bromgeksin-8-mg-tabletki-50-sht-52d2752b",
+      "name": "Бромгексин 8 мг таблетки 50 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/bromgeksin-8-mg-tabletki-50-sht-52d2752b.webp",
+      "sourceUrl": "https://apteka.by/goods/bromgeksin-8-mg-tabletki-50-sht-52d2752b"
+    },
+    {
+      "id": "lekarstva-alventa-37-5-mg-kapsuly-s-modifitsirovannym-vysvobozhdeniyem-28-sht-598920e1",
+      "name": "Алвента 37,5 мг капсулы с модифицированным высвобождением 28 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/alventa-37-5-mg-kapsuly-s-modifitsirovannym-vysvobozhdeniyem-28-sht-598920e1.webp",
+      "sourceUrl": "https://apteka.by/goods/alventa-37-5-mg-kapsuly-s-modifitsirovannym-vysvobozhdeniyem-28-sht-598920e1"
+    },
+    {
+      "id": "lekarstva-sulpirid-50-mg-kapsuly-30-sht-a376033f",
+      "name": "Сульпирид 50 мг капсулы 30 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/sulpirid-50-mg-kapsuly-30-sht-a376033f.webp",
+      "sourceUrl": "https://apteka.by/goods/sulpirid-50-mg-kapsuly-30-sht-a376033f"
+    },
+    {
+      "id": "lekarstva-finlepsin-200-retard-mg-tabletki-prolongirovannogo-deistviya-50-sht-d6bcb486",
+      "name": "Финлепсин 200 Ретард мг таблетки пролонгированного действия 50 шт",
+      "manufacturer": "Тева Оперейшнс Поланд Сп. з о.о., Польша",
+      "image": "img/lekarstva/finlepsin-200-retard-mg-tabletki-prolongirovannogo-deistviya-50-sht-d6bcb486.webp",
+      "sourceUrl": "https://apteka.by/goods/finlepsin-200-retard-mg-tabletki-prolongirovannogo-deistviya-50-sht-d6bcb486"
+    },
+    {
+      "id": "lekarstva-tripliksam-5-mg-2-5-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0d9095b0",
+      "name": "Трипликсам 5 мг+2,5 мг+10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Сервье (Ирландия) Индастриз Лтд., Ирландия",
+      "image": "img/lekarstva/tripliksam-5-mg-2-5-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0d9095b0.webp",
+      "sourceUrl": "https://apteka.by/goods/tripliksam-5-mg-2-5-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0d9095b0"
+    },
+    {
+      "id": "lekarstva-khartil-5-mg-tabletki-28-sht-39d352b0",
+      "name": "Хартил 5 мг таблетки 28 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/khartil-5-mg-tabletki-28-sht-39d352b0.webp",
+      "sourceUrl": "https://apteka.by/goods/khartil-5-mg-tabletki-28-sht-39d352b0"
+    },
+    {
+      "id": "lekarstva-rebtazar-150-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-b112ca40",
+      "name": "Ребтазар 150 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Уорлд Медицин Илач Сан ве Тидж А.Ш., Турция",
+      "image": "img/lekarstva/rebtazar-150-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-b112ca40.webp",
+      "sourceUrl": "https://apteka.by/goods/rebtazar-150-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-b112ca40"
+    },
+    {
+      "id": "lekarstva-lozartan-gidrokhlortiazid-am-50-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-71e63ef5",
+      "name": "Лозартан/Гидрохлортиазид-АМ 50 мг+12,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/lozartan-gidrokhlortiazid-am-50-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-71e63ef5.webp",
+      "sourceUrl": "https://apteka.by/goods/lozartan-gidrokhlortiazid-am-50-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-71e63ef5"
+    },
+    {
+      "id": "lekarstva-vitamin-c-tsink-ultra-tabletki-shipuchiye-4-1-g-20-sht-alpen-well-dfea0768",
+      "name": "Витамин C + Цинк Ультра таблетки шипучие 4,1 г 20 шт Alpen Well",
+      "manufacturer": "Sanotact GmbH, Германия",
+      "image": "img/lekarstva/vitamin-c-tsink-ultra-tabletki-shipuchiye-4-1-g-20-sht-alpen-well-dfea0768.webp",
+      "sourceUrl": "https://apteka.by/goods/vitamin-c-tsink-ultra-tabletki-shipuchiye-4-1-g-20-sht-alpen-well-dfea0768"
+    },
+    {
+      "id": "lekarstva-tsiprofloksatsin-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-a49e9411",
+      "name": "Ципрофлоксацин 500 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/tsiprofloksatsin-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-a49e9411.webp",
+      "sourceUrl": "https://apteka.by/goods/tsiprofloksatsin-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-a49e9411"
+    },
+    {
+      "id": "lekarstva-logest-20-mkg-75-mkg-tabletki-pokrytyye-obolochkoi-21-sht-d045c59a",
+      "name": "Логест 20 мкг+75 мкг таблетки покрытые оболочкой 21 шт",
+      "manufacturer": "Байер АГ, Германия",
+      "image": "img/lekarstva/logest-20-mkg-75-mkg-tabletki-pokrytyye-obolochkoi-21-sht-d045c59a.webp",
+      "sourceUrl": "https://apteka.by/goods/logest-20-mkg-75-mkg-tabletki-pokrytyye-obolochkoi-21-sht-d045c59a"
+    },
+    {
+      "id": "lekarstva-kaltsii-d3-nikomed-apelsin-500-mg-200-me-tabletki-zhevatelnyye-50-sht-b9141aff",
+      "name": "Кальций-Д3 Никомед апельсин 500 мг+200 МЕ таблетки жевательные 50 шт",
+      "manufacturer": "Аскер Контракт Мануфакчуринг АС, Норвегия",
+      "image": "img/lekarstva/kaltsii-d3-nikomed-apelsin-500-mg-200-me-tabletki-zhevatelnyye-50-sht-b9141aff.webp",
+      "sourceUrl": "https://apteka.by/goods/kaltsii-d3-nikomed-apelsin-500-mg-200-me-tabletki-zhevatelnyye-50-sht-b9141aff"
+    },
+    {
+      "id": "lekarstva-rivaroksaban-lf-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-53f0d7c5",
+      "name": "Ривароксабан-ЛФ 2,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/rivaroksaban-lf-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-53f0d7c5.webp",
+      "sourceUrl": "https://apteka.by/goods/rivaroksaban-lf-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-53f0d7c5"
+    },
+    {
+      "id": "lekarstva-betamaks-100-mg-tabletki-30-sht-30a237d1",
+      "name": "Бетамакс 100 мг таблетки 30 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/betamaks-100-mg-tabletki-30-sht-30a237d1.webp",
+      "sourceUrl": "https://apteka.by/goods/betamaks-100-mg-tabletki-30-sht-30a237d1"
+    },
+    {
+      "id": "lekarstva-estsitalopram-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-d5ade38a",
+      "name": "Эсциталопрам 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/estsitalopram-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-d5ade38a.webp",
+      "sourceUrl": "https://apteka.by/goods/estsitalopram-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-d5ade38a"
+    },
+    {
+      "id": "lekarstva-apiksaban-am-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-d69bc0b1",
+      "name": "Апиксабан-АМ 2,5 мг таблетки покрытые пленочной оболочкой 60 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/apiksaban-am-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-d69bc0b1.webp",
+      "sourceUrl": "https://apteka.by/goods/apiksaban-am-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-d69bc0b1"
+    },
+    {
+      "id": "lekarstva-groprinosin-forte-1000-mg-tabletki-30-sht-04458ea7",
+      "name": "Гроприносин Форте 1000 мг таблетки 30 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/groprinosin-forte-1000-mg-tabletki-30-sht-04458ea7.webp",
+      "sourceUrl": "https://apteka.by/goods/groprinosin-forte-1000-mg-tabletki-30-sht-04458ea7"
+    },
+    {
+      "id": "lekarstva-perindopril-ft-4-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a48a1b92",
+      "name": "Периндоприл ФТ 4 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/perindopril-ft-4-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a48a1b92.webp",
+      "sourceUrl": "https://apteka.by/goods/perindopril-ft-4-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a48a1b92"
+    },
+    {
+      "id": "lekarstva-perindopril-ft-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-eab1bcea",
+      "name": "Периндоприл ФТ 8 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/perindopril-ft-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-eab1bcea.webp",
+      "sourceUrl": "https://apteka.by/goods/perindopril-ft-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-eab1bcea"
+    },
+    {
+      "id": "lekarstva-renni-mentol-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-d7a728a6",
+      "name": "Ренни ментол 680 мг+80 мг таблетки жевательные 24 шт",
+      "manufacturer": "Дельфарм Гайар, Франция",
+      "image": "img/lekarstva/renni-mentol-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-d7a728a6.webp",
+      "sourceUrl": "https://apteka.by/goods/renni-mentol-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-d7a728a6"
+    },
+    {
+      "id": "lekarstva-flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b7087c1f",
+      "name": "Флебодиа 600 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Иннотера Шузи, Франция",
+      "image": "img/lekarstva/flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b7087c1f.webp",
+      "sourceUrl": "https://apteka.by/goods/flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b7087c1f"
+    },
+    {
+      "id": "lekarstva-amlessa-4-mg-10-mg-tabletki-30-sht-9d28de8f",
+      "name": "Амлесса 4 мг+10 мг таблетки 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/amlessa-4-mg-10-mg-tabletki-30-sht-9d28de8f.webp",
+      "sourceUrl": "https://apteka.by/goods/amlessa-4-mg-10-mg-tabletki-30-sht-9d28de8f"
+    },
+    {
+      "id": "lekarstva-lizinopril-farml-end-10-mg-tabletki-30-sht-7edccc66",
+      "name": "Лизиноприл Фармлэнд 10 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/lizinopril-farml-end-10-mg-tabletki-30-sht-7edccc66.webp",
+      "sourceUrl": "https://apteka.by/goods/lizinopril-farml-end-10-mg-tabletki-30-sht-7edccc66"
+    },
+    {
+      "id": "lekarstva-deksametazon-0-5-mg-tabletki-50-sht-9e82757e",
+      "name": "Дексаметазон 0,5 мг таблетки 50 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/deksametazon-0-5-mg-tabletki-50-sht-9e82757e.webp",
+      "sourceUrl": "https://apteka.by/goods/deksametazon-0-5-mg-tabletki-50-sht-9e82757e"
+    },
+    {
+      "id": "lekarstva-albendazol-lf-400-mg-tabletki-1-sht-b44afe91",
+      "name": "Албендазол-ЛФ 400 мг таблетки 1 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/albendazol-lf-400-mg-tabletki-1-sht-b44afe91.webp",
+      "sourceUrl": "https://apteka.by/goods/albendazol-lf-400-mg-tabletki-1-sht-b44afe91"
+    },
+    {
+      "id": "lekarstva-kardiomagnum-150-mg-tabletki-pokrytyye-obolochkoi-30-sht-0d1a9651",
+      "name": "Кардиомагнум 150 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/kardiomagnum-150-mg-tabletki-pokrytyye-obolochkoi-30-sht-0d1a9651.webp",
+      "sourceUrl": "https://apteka.by/goods/kardiomagnum-150-mg-tabletki-pokrytyye-obolochkoi-30-sht-0d1a9651"
+    },
+    {
+      "id": "lekarstva-espram-10-mg-tabletki-pokrytyye-obolochkoi-30-sht-aa108f56",
+      "name": "Эспрам 10 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Белалек ООО, Беларусь",
+      "image": "img/lekarstva/espram-10-mg-tabletki-pokrytyye-obolochkoi-30-sht-aa108f56.webp",
+      "sourceUrl": "https://apteka.by/goods/espram-10-mg-tabletki-pokrytyye-obolochkoi-30-sht-aa108f56"
+    },
+    {
+      "id": "lekarstva-rivaroksaban-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-47cefde4",
+      "name": "Ривароксабан 15 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Unison Pharmaceuticals Ptv. Ltd., Индия",
+      "image": "img/lekarstva/rivaroksaban-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-47cefde4.webp",
+      "sourceUrl": "https://apteka.by/goods/rivaroksaban-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-47cefde4"
+    },
+    {
+      "id": "lekarstva-orniksol-500-mg-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-15d4e891",
+      "name": "Орниксол 500 мг+500 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Реб-Фарма, Беларусь",
+      "image": "img/lekarstva/orniksol-500-mg-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-15d4e891.webp",
+      "sourceUrl": "https://apteka.by/goods/orniksol-500-mg-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-15d4e891"
+    },
+    {
+      "id": "lekarstva-tribuks-100-mg-tabletki-30-sht-e6b4b2a7",
+      "name": "Трибукс 100 мг таблетки 30 шт",
+      "manufacturer": "Биофарм ООО, Польша",
+      "image": "img/lekarstva/tribuks-100-mg-tabletki-30-sht-e6b4b2a7.webp",
+      "sourceUrl": "https://apteka.by/goods/tribuks-100-mg-tabletki-30-sht-e6b4b2a7"
+    },
+    {
+      "id": "lekarstva-terbizil-250-mg-tabletki-28-sht-959a557f",
+      "name": "Тербизил 250 мг таблетки 28 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/terbizil-250-mg-tabletki-28-sht-959a557f.webp",
+      "sourceUrl": "https://apteka.by/goods/terbizil-250-mg-tabletki-28-sht-959a557f"
+    },
+    {
+      "id": "lekarstva-dzhes-0-02-mg-3-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-3e89ebdb",
+      "name": "Джес 0,02 мг+3 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Байер Веймар ГмбХ и Ко.КГ, Германия",
+      "image": "img/lekarstva/dzhes-0-02-mg-3-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-3e89ebdb.webp",
+      "sourceUrl": "https://apteka.by/goods/dzhes-0-02-mg-3-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-3e89ebdb"
+    },
+    {
+      "id": "lekarstva-geviran-800-mg-tabletki-pokrytyye-obolochkoi-30-sht-fe51510c",
+      "name": "Гевиран 800 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/geviran-800-mg-tabletki-pokrytyye-obolochkoi-30-sht-fe51510c.webp",
+      "sourceUrl": "https://apteka.by/goods/geviran-800-mg-tabletki-pokrytyye-obolochkoi-30-sht-fe51510c"
+    },
+    {
+      "id": "lekarstva-lorsept-malina-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-19de10ad",
+      "name": "Лорсепт малина 1,5 мг таблетки для рассасывания 20 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/lorsept-malina-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-19de10ad.webp",
+      "sourceUrl": "https://apteka.by/goods/lorsept-malina-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-19de10ad"
+    },
+    {
+      "id": "lekarstva-ko-sentor-50-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e0688d13",
+      "name": "Ко-Сентор 50 мг+12,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/ko-sentor-50-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e0688d13.webp",
+      "sourceUrl": "https://apteka.by/goods/ko-sentor-50-mg-12-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e0688d13"
+    },
+    {
+      "id": "lekarstva-pre-dzhentli-tabletki-1580-mg-30-sht-supherb-82b0639a",
+      "name": "Пре Джентли таблетки 1580 мг 30 шт SupHerb",
+      "manufacturer": "Ambrosia SupHerb Ltd., Израиль",
+      "image": "img/lekarstva/pre-dzhentli-tabletki-1580-mg-30-sht-supherb-82b0639a.webp",
+      "sourceUrl": "https://apteka.by/goods/pre-dzhentli-tabletki-1580-mg-30-sht-supherb-82b0639a"
+    },
+    {
+      "id": "lekarstva-betagistin-16-mg-tabletki-30-sht-c563c2c3",
+      "name": "Бетагистин 16 мг таблетки 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/betagistin-16-mg-tabletki-30-sht-c563c2c3.webp",
+      "sourceUrl": "https://apteka.by/goods/betagistin-16-mg-tabletki-30-sht-c563c2c3"
+    },
+    {
+      "id": "lekarstva-pregabalin-lf-75-mg-kapsuly-30-sht-51f3eb94",
+      "name": "Прегабалин-ЛФ 75 мг капсулы 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/pregabalin-lf-75-mg-kapsuly-30-sht-51f3eb94.webp",
+      "sourceUrl": "https://apteka.by/goods/pregabalin-lf-75-mg-kapsuly-30-sht-51f3eb94"
+    },
+    {
+      "id": "lekarstva-ford-norvezhskii-rybii-zhir-iz-pecheni-treski-kapsuly-1-45-g-30-sht-b426b300",
+      "name": "Фьорд Норвежский рыбий жир из печени трески капсулы 1,45 г 30 шт",
+      "manufacturer": "Valentis Norway AS, Норвегия",
+      "image": "img/lekarstva/ford-norvezhskii-rybii-zhir-iz-pecheni-treski-kapsuly-1-45-g-30-sht-b426b300.webp",
+      "sourceUrl": "https://apteka.by/goods/ford-norvezhskii-rybii-zhir-iz-pecheni-treski-kapsuly-1-45-g-30-sht-b426b300"
+    },
+    {
+      "id": "lekarstva-tiazolin-200-mg-tabletki-90-sht-7b780be8",
+      "name": "Тиазолин 200 мг таблетки 90 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/tiazolin-200-mg-tabletki-90-sht-7b780be8.webp",
+      "sourceUrl": "https://apteka.by/goods/tiazolin-200-mg-tabletki-90-sht-7b780be8"
+    },
+    {
+      "id": "lekarstva-pantasan-20-mg-tabletki-kishechnorastvorimyye-30-sht-614d37f8",
+      "name": "Пантасан 20 мг таблетки кишечнорастворимые 30 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/pantasan-20-mg-tabletki-kishechnorastvorimyye-30-sht-614d37f8.webp",
+      "sourceUrl": "https://apteka.by/goods/pantasan-20-mg-tabletki-kishechnorastvorimyye-30-sht-614d37f8"
+    },
+    {
+      "id": "lekarstva-sumamed-250-mg-kapsuly-6-sht-a02ffd91",
+      "name": "Сумамед 250 мг капсулы 6 шт",
+      "manufacturer": "ПЛИВА Хрватска д.о.о., Хорватия",
+      "image": "img/lekarstva/sumamed-250-mg-kapsuly-6-sht-a02ffd91.webp",
+      "sourceUrl": "https://apteka.by/goods/sumamed-250-mg-kapsuly-6-sht-a02ffd91"
+    },
+    {
+      "id": "lekarstva-avia-more-tabletki-gomeopaticheskiye-20-sht-8eefcfdf",
+      "name": "Авиа-море таблетки гомеопатические 20 шт",
+      "manufacturer": "НПФ Материа Медика Холдинг ООО, Россия",
+      "image": "img/lekarstva/avia-more-tabletki-gomeopaticheskiye-20-sht-8eefcfdf.webp",
+      "sourceUrl": "https://apteka.by/goods/avia-more-tabletki-gomeopaticheskiye-20-sht-8eefcfdf"
+    },
+    {
+      "id": "lekarstva-femoston-2-10-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-e205ee2a",
+      "name": "Фемостон 2/10 таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Эбботт Биолоджикалз Б.В., Нидерланды",
+      "image": "img/lekarstva/femoston-2-10-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-e205ee2a.webp",
+      "sourceUrl": "https://apteka.by/goods/femoston-2-10-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-e205ee2a"
+    },
+    {
+      "id": "lekarstva-kaltsii-d3-nikomed-apelsin-500-mg-200-me-tabletki-zhevatelnyye-20-sht-9ac403da",
+      "name": "Кальций-Д3 Никомед апельсин 500 мг+200 МЕ таблетки жевательные 20 шт",
+      "manufacturer": "Аскер Контракт Мануфакчуринг АС, Норвегия",
+      "image": "img/lekarstva/kaltsii-d3-nikomed-apelsin-500-mg-200-me-tabletki-zhevatelnyye-20-sht-9ac403da.webp",
+      "sourceUrl": "https://apteka.by/goods/kaltsii-d3-nikomed-apelsin-500-mg-200-me-tabletki-zhevatelnyye-20-sht-9ac403da"
+    },
+    {
+      "id": "lekarstva-aspirin-s-400-mg-240-mg-tabletki-shipuchiye-10-sht-83f97f48",
+      "name": "Аспирин С 400 мг+240 мг таблетки шипучие 10 шт",
+      "manufacturer": "Байер Биттерфельд ГмбХ, Германия",
+      "image": "img/lekarstva/aspirin-s-400-mg-240-mg-tabletki-shipuchiye-10-sht-83f97f48.webp",
+      "sourceUrl": "https://apteka.by/goods/aspirin-s-400-mg-240-mg-tabletki-shipuchiye-10-sht-83f97f48"
+    },
+    {
+      "id": "lekarstva-ketorolak-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-b3ba8f1b",
+      "name": "Кеторолак-ЛФ 10 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/ketorolak-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-b3ba8f1b.webp",
+      "sourceUrl": "https://apteka.by/goods/ketorolak-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-b3ba8f1b"
+    },
+    {
+      "id": "lekarstva-neiromultivit-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-6917ff2a",
+      "name": "Нейромультивит таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Г.Л. Фарма ГмбХ, Австрия",
+      "image": "img/lekarstva/neiromultivit-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-6917ff2a.webp",
+      "sourceUrl": "https://apteka.by/goods/neiromultivit-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-6917ff2a"
+    },
+    {
+      "id": "lekarstva-supradin-tabletki-pokrytyye-obolochkoi-30-sht-f44ee263",
+      "name": "Супрадин таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Драгенофарм Апотекер Пюшль ГмбХ, Германия",
+      "image": "img/lekarstva/supradin-tabletki-pokrytyye-obolochkoi-30-sht-f44ee263.webp",
+      "sourceUrl": "https://apteka.by/goods/supradin-tabletki-pokrytyye-obolochkoi-30-sht-f44ee263"
+    },
+    {
+      "id": "lekarstva-diklopentil-50-mg-100-mg-tabletki-pokrytyye-obolochkoi-30-sht-7059b7de",
+      "name": "Диклопентил 50 мг+100 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/diklopentil-50-mg-100-mg-tabletki-pokrytyye-obolochkoi-30-sht-7059b7de.webp",
+      "sourceUrl": "https://apteka.by/goods/diklopentil-50-mg-100-mg-tabletki-pokrytyye-obolochkoi-30-sht-7059b7de"
+    },
+    {
+      "id": "lekarstva-iod-foliyevaya-kislota-tabletki-200-mg-30-sht-bioterra-4f81b1d9",
+      "name": "Йод + фолиевая кислота таблетки 200 мг 30 шт Биотерра",
+      "manufacturer": "Биотерра ООО, Беларусь",
+      "image": "img/lekarstva/iod-foliyevaya-kislota-tabletki-200-mg-30-sht-bioterra-4f81b1d9.webp",
+      "sourceUrl": "https://apteka.by/goods/iod-foliyevaya-kislota-tabletki-200-mg-30-sht-bioterra-4f81b1d9"
+    },
+    {
+      "id": "lekarstva-indatenzin-4-mg-1-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f8e6ba1d",
+      "name": "Индатензин 4 мг+1,25 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/indatenzin-4-mg-1-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f8e6ba1d.webp",
+      "sourceUrl": "https://apteka.by/goods/indatenzin-4-mg-1-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f8e6ba1d"
+    },
+    {
+      "id": "lekarstva-indatenzin-8-mg-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-5c2631d5",
+      "name": "Индатензин 8 мг+2,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/indatenzin-8-mg-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-5c2631d5.webp",
+      "sourceUrl": "https://apteka.by/goods/indatenzin-8-mg-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-5c2631d5"
+    },
+    {
+      "id": "lekarstva-prestarium-a-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-30082754",
+      "name": "Престариум А 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Ле Лаборатуар Сервье Индустри, Франция",
+      "image": "img/lekarstva/prestarium-a-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-30082754.webp",
+      "sourceUrl": "https://apteka.by/goods/prestarium-a-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-30082754"
+    },
+    {
+      "id": "lekarstva-amoksitsillin-farml-end-500-mg-kapsuly-20-sht-310dcbbf",
+      "name": "Амоксициллин Фармлэнд 500 мг капсулы 20 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/amoksitsillin-farml-end-500-mg-kapsuly-20-sht-310dcbbf.webp",
+      "sourceUrl": "https://apteka.by/goods/amoksitsillin-farml-end-500-mg-kapsuly-20-sht-310dcbbf"
+    },
+    {
+      "id": "lekarstva-amoksitsillin-250-mg-kapsuly-30-sht-e46de7e1",
+      "name": "Амоксициллин 250 мг капсулы 30 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/amoksitsillin-250-mg-kapsuly-30-sht-e46de7e1.webp",
+      "sourceUrl": "https://apteka.by/goods/amoksitsillin-250-mg-kapsuly-30-sht-e46de7e1"
+    },
+    {
+      "id": "lekarstva-ezokar-20-mg-kapsuly-15-sht-58d4d1e7",
+      "name": "Эзокар 20 мг капсулы 15 шт",
+      "manufacturer": "Фармакар ПЛС, Палестина",
+      "image": "img/lekarstva/ezokar-20-mg-kapsuly-15-sht-58d4d1e7.webp",
+      "sourceUrl": "https://apteka.by/goods/ezokar-20-mg-kapsuly-15-sht-58d4d1e7"
+    },
+    {
+      "id": "lekarstva-bromokriptin-rikhter-2-5-mg-tabletki-30-sht-1587965f",
+      "name": "Бромокриптин-Рихтер 2,5 мг таблетки 30 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/bromokriptin-rikhter-2-5-mg-tabletki-30-sht-1587965f.webp",
+      "sourceUrl": "https://apteka.by/goods/bromokriptin-rikhter-2-5-mg-tabletki-30-sht-1587965f"
+    },
+    {
+      "id": "lekarstva-sirdalud-4-mg-tabletki-30-sht-4588e674",
+      "name": "Сирдалуд 4 мг таблетки 30 шт",
+      "manufacturer": "Новартис Саглик Гида ве Тарим Юрюнлери Санайи, Турция",
+      "image": "img/lekarstva/sirdalud-4-mg-tabletki-30-sht-4588e674.webp",
+      "sourceUrl": "https://apteka.by/goods/sirdalud-4-mg-tabletki-30-sht-4588e674"
+    },
+    {
+      "id": "lekarstva-rapimig-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-6-sht-a3fb4fbf",
+      "name": "Рапимиг 5 мг таблетки диспергируемые в полости рта 6 шт",
+      "manufacturer": "Актавис Лтд., Мальта",
+      "image": "img/lekarstva/rapimig-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-6-sht-a3fb4fbf.webp",
+      "sourceUrl": "https://apteka.by/goods/rapimig-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-6-sht-a3fb4fbf"
+    },
+    {
+      "id": "lekarstva-spironolakton-ft-50-mg-tabletki-30-sht-3cf25597",
+      "name": "Спиронолактон ФТ 50 мг таблетки 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/spironolakton-ft-50-mg-tabletki-30-sht-3cf25597.webp",
+      "sourceUrl": "https://apteka.by/goods/spironolakton-ft-50-mg-tabletki-30-sht-3cf25597"
+    },
+    {
+      "id": "lekarstva-ksarelto-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-70c445ee",
+      "name": "Ксарелто 15 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Байер АГ, Германия",
+      "image": "img/lekarstva/ksarelto-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-70c445ee.webp",
+      "sourceUrl": "https://apteka.by/goods/ksarelto-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-70c445ee"
+    },
+    {
+      "id": "lekarstva-glyukovans-5-mg-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f6c9dc70",
+      "name": "Глюкованс 5 мг+500 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Мерк Санте с.а.с., Франция",
+      "image": "img/lekarstva/glyukovans-5-mg-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f6c9dc70.webp",
+      "sourceUrl": "https://apteka.by/goods/glyukovans-5-mg-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f6c9dc70"
+    },
+    {
+      "id": "lekarstva-kandesartan-nan-32-mg-tabletki-30-sht-0f304edd",
+      "name": "Кандесартан-НАН 32 мг таблетки 30 шт",
+      "manufacturer": "Академфарм ГП, Беларусь",
+      "image": "img/lekarstva/kandesartan-nan-32-mg-tabletki-30-sht-0f304edd.webp",
+      "sourceUrl": "https://apteka.by/goods/kandesartan-nan-32-mg-tabletki-30-sht-0f304edd"
+    },
+    {
+      "id": "lekarstva-9-mesyatsev-foliyevaya-kislota-400-mkg-tabletki-pokrytyye-plenochnoi-obolochkoi-90-sht-6a83c731",
+      "name": "9 месяцев Фолиевая кислота 400 мкг таблетки покрытые пленочной оболочкой 90 шт",
+      "manufacturer": "Валента Фарм АО, Россия",
+      "image": "img/lekarstva/9-mesyatsev-foliyevaya-kislota-400-mkg-tabletki-pokrytyye-plenochnoi-obolochkoi-90-sht-6a83c731.webp",
+      "sourceUrl": "https://apteka.by/goods/9-mesyatsev-foliyevaya-kislota-400-mkg-tabletki-pokrytyye-plenochnoi-obolochkoi-90-sht-6a83c731"
+    },
+    {
+      "id": "lekarstva-parlazin-neo-5-mg-tabletki-pokrytyye-obolochkoi-14-sht-298f95e1",
+      "name": "Парлазин Нео 5 мг таблетки покрытые оболочкой 14 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/parlazin-neo-5-mg-tabletki-pokrytyye-obolochkoi-14-sht-298f95e1.webp",
+      "sourceUrl": "https://apteka.by/goods/parlazin-neo-5-mg-tabletki-pokrytyye-obolochkoi-14-sht-298f95e1"
+    },
+    {
+      "id": "lekarstva-parlazin-10-mg-tabletki-pokrytyye-obolochkoi-10-sht-df877f38",
+      "name": "Парлазин 10 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/parlazin-10-mg-tabletki-pokrytyye-obolochkoi-10-sht-df877f38.webp",
+      "sourceUrl": "https://apteka.by/goods/parlazin-10-mg-tabletki-pokrytyye-obolochkoi-10-sht-df877f38"
+    },
+    {
+      "id": "lekarstva-itrakonazol-100-mg-kapsuly-14-sht-8d317bdc",
+      "name": "Итраконазол 100 мг капсулы 14 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/itrakonazol-100-mg-kapsuly-14-sht-8d317bdc.webp",
+      "sourceUrl": "https://apteka.by/goods/itrakonazol-100-mg-kapsuly-14-sht-8d317bdc"
+    },
+    {
+      "id": "lekarstva-arpetol-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f9be311e",
+      "name": "Арпетол 50 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/arpetol-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f9be311e.webp",
+      "sourceUrl": "https://apteka.by/goods/arpetol-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f9be311e"
+    },
+    {
+      "id": "lekarstva-furadonin-50-mg-tabletki-20-sht-56468d56",
+      "name": "Фурадонин 50 мг таблетки 20 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/furadonin-50-mg-tabletki-20-sht-56468d56.webp",
+      "sourceUrl": "https://apteka.by/goods/furadonin-50-mg-tabletki-20-sht-56468d56"
+    },
+    {
+      "id": "lekarstva-atsts-200-mg-tabletki-shipuchiye-20-sht-414e773d",
+      "name": "Ацц 200 мг таблетки шипучие 20 шт",
+      "manufacturer": "Гермес Фарма ГмбХ, Австрия",
+      "image": "img/lekarstva/atsts-200-mg-tabletki-shipuchiye-20-sht-414e773d.webp",
+      "sourceUrl": "https://apteka.by/goods/atsts-200-mg-tabletki-shipuchiye-20-sht-414e773d"
+    },
+    {
+      "id": "lekarstva-karvidil-25-mg-tabletki-28-sht-c61fbef6",
+      "name": "Карвидил 25 мг таблетки 28 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/karvidil-25-mg-tabletki-28-sht-c61fbef6.webp",
+      "sourceUrl": "https://apteka.by/goods/karvidil-25-mg-tabletki-28-sht-c61fbef6"
+    },
+    {
+      "id": "lekarstva-tritatse-plyus-10-mg-12-5-mg-tabletki-28-sht-a3788c8c",
+      "name": "Тритаце Плюс 10 мг+12,5 мг таблетки 28 шт",
+      "manufacturer": "Санофи-Авентис Дойчланд ГмбХ, Германия",
+      "image": "img/lekarstva/tritatse-plyus-10-mg-12-5-mg-tabletki-28-sht-a3788c8c.webp",
+      "sourceUrl": "https://apteka.by/goods/tritatse-plyus-10-mg-12-5-mg-tabletki-28-sht-a3788c8c"
+    },
+    {
+      "id": "lekarstva-neiromed-kapsuly-30-sht-fedf67d6",
+      "name": "Нейромед капсулы 30 шт",
+      "manufacturer": "Мед-интерпласт, Беларусь",
+      "image": "img/lekarstva/neiromed-kapsuly-30-sht-fedf67d6.webp",
+      "sourceUrl": "https://apteka.by/goods/neiromed-kapsuly-30-sht-fedf67d6"
+    },
+    {
+      "id": "lekarstva-kholefit-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-b5a1d925",
+      "name": "ХолеФит 200 мг таблетки покрытые пленочной оболочкой 60 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/kholefit-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-b5a1d925.webp",
+      "sourceUrl": "https://apteka.by/goods/kholefit-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-b5a1d925"
+    },
+    {
+      "id": "lekarstva-livazo-4-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1be883ee",
+      "name": "Ливазо 4 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Рекордати химическая и фармацевтическая индустрия С.п.А., Италия",
+      "image": "img/lekarstva/livazo-4-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1be883ee.webp",
+      "sourceUrl": "https://apteka.by/goods/livazo-4-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-1be883ee"
+    },
+    {
+      "id": "lekarstva-torasemid-ft-10-mg-tabletki-30-sht-8ce241e1",
+      "name": "Торасемид ФТ 10 мг таблетки 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/torasemid-ft-10-mg-tabletki-30-sht-8ce241e1.webp",
+      "sourceUrl": "https://apteka.by/goods/torasemid-ft-10-mg-tabletki-30-sht-8ce241e1"
+    },
+    {
+      "id": "lekarstva-urdoksa-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-29000b02",
+      "name": "Урдокса 500 мг таблетки покрытые пленочной оболочкой 50 шт",
+      "manufacturer": "Алиум АО, Россия",
+      "image": "img/lekarstva/urdoksa-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-29000b02.webp",
+      "sourceUrl": "https://apteka.by/goods/urdoksa-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-29000b02"
+    },
+    {
+      "id": "lekarstva-fortedetrim-20000-me-kapsuly-30-sht-648f4baa",
+      "name": "Фортедетрим 20000 МЕ капсулы 30 шт",
+      "manufacturer": "Польфарма АО Отдел Медана в Серадзе, Польша",
+      "image": "img/lekarstva/fortedetrim-20000-me-kapsuly-30-sht-648f4baa.webp",
+      "sourceUrl": "https://apteka.by/goods/fortedetrim-20000-me-kapsuly-30-sht-648f4baa"
+    },
+    {
+      "id": "lekarstva-atseklofenak-lf-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-3eb46aa5",
+      "name": "Ацеклофенак-ЛФ 100 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/atseklofenak-lf-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-3eb46aa5.webp",
+      "sourceUrl": "https://apteka.by/goods/atseklofenak-lf-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-3eb46aa5"
+    },
+    {
+      "id": "lekarstva-amoksikar-plyus-875-mg-125-mg-tabletki-pokrytyye-obolochkoi-14-sht-bc6dc48b",
+      "name": "Амоксикар Плюс 875 мг+125 мг таблетки покрытые оболочкой 14 шт",
+      "manufacturer": "Бирзейт Фармацевтическая Компания БПК, Палестина",
+      "image": "img/lekarstva/amoksikar-plyus-875-mg-125-mg-tabletki-pokrytyye-obolochkoi-14-sht-bc6dc48b.webp",
+      "sourceUrl": "https://apteka.by/goods/amoksikar-plyus-875-mg-125-mg-tabletki-pokrytyye-obolochkoi-14-sht-bc6dc48b"
+    },
+    {
+      "id": "lekarstva-terzhinan-tabletki-vaginalnyye-6-sht-a1140a3d",
+      "name": "Тержинан таблетки вагинальные 6 шт",
+      "manufacturer": "Софартекс, Франция",
+      "image": "img/lekarstva/terzhinan-tabletki-vaginalnyye-6-sht-a1140a3d.webp",
+      "sourceUrl": "https://apteka.by/goods/terzhinan-tabletki-vaginalnyye-6-sht-a1140a3d"
+    },
+    {
+      "id": "lekarstva-kaltsemin-tabletki-pokrytyye-obolochkoi-30-sht-eddb904a",
+      "name": "Кальцемин таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Байер Консьюмер Кэр АГ, Швейцария",
+      "image": "img/lekarstva/kaltsemin-tabletki-pokrytyye-obolochkoi-30-sht-eddb904a.webp",
+      "sourceUrl": "https://apteka.by/goods/kaltsemin-tabletki-pokrytyye-obolochkoi-30-sht-eddb904a"
+    },
+    {
+      "id": "lekarstva-mukosat-belmed-250-mg-kapsuly-30-sht-f4dd765c",
+      "name": "Мукосат-Белмед 250 мг капсулы 30 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/mukosat-belmed-250-mg-kapsuly-30-sht-f4dd765c.webp",
+      "sourceUrl": "https://apteka.by/goods/mukosat-belmed-250-mg-kapsuly-30-sht-f4dd765c"
+    },
+    {
+      "id": "lekarstva-khondrozamin-neo-kapsuly-60-sht-6c340f25",
+      "name": "Хондрозамин Нео капсулы 60 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/khondrozamin-neo-kapsuly-60-sht-6c340f25.webp",
+      "sourceUrl": "https://apteka.by/goods/khondrozamin-neo-kapsuly-60-sht-6c340f25"
+    },
+    {
+      "id": "lekarstva-sumamigren-100-mg-tabletki-pokrytyye-obolochkoi-2-sht-e2231217",
+      "name": "Сумамигрен 100 мг таблетки покрытые оболочкой 2 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/sumamigren-100-mg-tabletki-pokrytyye-obolochkoi-2-sht-e2231217.webp",
+      "sourceUrl": "https://apteka.by/goods/sumamigren-100-mg-tabletki-pokrytyye-obolochkoi-2-sht-e2231217"
+    },
+    {
+      "id": "lekarstva-rapimig-2-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-6-sht-6e7d2da6",
+      "name": "Рапимиг 2,5 мг таблетки диспергируемые в полости рта 6 шт",
+      "manufacturer": "Актавис Лтд., Мальта",
+      "image": "img/lekarstva/rapimig-2-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-6-sht-6e7d2da6.webp",
+      "sourceUrl": "https://apteka.by/goods/rapimig-2-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-6-sht-6e7d2da6"
+    },
+    {
+      "id": "lekarstva-memodeks-10-mg-tabletki-pokrytyye-obolochkoi-30-sht-471c75ee",
+      "name": "Мемодекс 10 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Олайнфарм АО, Латвия",
+      "image": "img/lekarstva/memodeks-10-mg-tabletki-pokrytyye-obolochkoi-30-sht-471c75ee.webp",
+      "sourceUrl": "https://apteka.by/goods/memodeks-10-mg-tabletki-pokrytyye-obolochkoi-30-sht-471c75ee"
+    },
+    {
+      "id": "lekarstva-nitop-30-mg-tabletki-pokrytyye-obolochkoi-30-sht-109d2dd3",
+      "name": "Нитоп 30 мг таблетки покрытые оболочкой 30 шт",
+      "manufacturer": "Анфарм Эллас А.О., Греция",
+      "image": "img/lekarstva/nitop-30-mg-tabletki-pokrytyye-obolochkoi-30-sht-109d2dd3.webp",
+      "sourceUrl": "https://apteka.by/goods/nitop-30-mg-tabletki-pokrytyye-obolochkoi-30-sht-109d2dd3"
+    },
+    {
+      "id": "lekarstva-mirzaten-45-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-329e6581",
+      "name": "Мирзатен 45 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/mirzaten-45-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-329e6581.webp",
+      "sourceUrl": "https://apteka.by/goods/mirzaten-45-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-329e6581"
+    },
+    {
+      "id": "lekarstva-grandaksin-50-mg-tabletki-20-sht-3147da8a",
+      "name": "Грандаксин 50 мг таблетки 20 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/grandaksin-50-mg-tabletki-20-sht-3147da8a.webp",
+      "sourceUrl": "https://apteka.by/goods/grandaksin-50-mg-tabletki-20-sht-3147da8a"
+    },
+    {
+      "id": "lekarstva-arifon-retard-1-5-mg-tabletki-prolongirovannogo-deistviya-30-sht-5dec7070",
+      "name": "Арифон Ретард 1,5 мг таблетки пролонгированного действия 30 шт",
+      "manufacturer": "СЕРВЬЕ РУС ООО, Россия",
+      "image": "img/lekarstva/arifon-retard-1-5-mg-tabletki-prolongirovannogo-deistviya-30-sht-5dec7070.webp",
+      "sourceUrl": "https://apteka.by/goods/arifon-retard-1-5-mg-tabletki-prolongirovannogo-deistviya-30-sht-5dec7070"
+    },
+    {
+      "id": "lekarstva-ksariva-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7b41bfa5",
+      "name": "Ксарива 2,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/ksariva-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7b41bfa5.webp",
+      "sourceUrl": "https://apteka.by/goods/ksariva-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7b41bfa5"
+    },
+    {
+      "id": "lekarstva-amprilan-5-mg-tabletki-30-sht-e6acf4b0",
+      "name": "Амприлан 5 мг таблетки 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/amprilan-5-mg-tabletki-30-sht-e6acf4b0.webp",
+      "sourceUrl": "https://apteka.by/goods/amprilan-5-mg-tabletki-30-sht-e6acf4b0"
+    },
+    {
+      "id": "lekarstva-lizinopril-farml-end-5-mg-tabletki-30-sht-f8da71e5",
+      "name": "Лизиноприл Фармлэнд 5 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/lizinopril-farml-end-5-mg-tabletki-30-sht-f8da71e5.webp",
+      "sourceUrl": "https://apteka.by/goods/lizinopril-farml-end-5-mg-tabletki-30-sht-f8da71e5"
+    },
+    {
+      "id": "lekarstva-prestilol-5-mg-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b0bef4c9",
+      "name": "Престилол 5 мг+5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Ле Лаборатуар Сервье Индустри, Франция",
+      "image": "img/lekarstva/prestilol-5-mg-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b0bef4c9.webp",
+      "sourceUrl": "https://apteka.by/goods/prestilol-5-mg-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b0bef4c9"
+    },
+    {
+      "id": "lekarstva-enap-10-mg-tabletki-20-sht-ade55409",
+      "name": "Энап 10 мг таблетки 20 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/enap-10-mg-tabletki-20-sht-ade55409.webp",
+      "sourceUrl": "https://apteka.by/goods/enap-10-mg-tabletki-20-sht-ade55409"
+    },
+    {
+      "id": "lekarstva-ursofalk-500-mg-tabletki-100-sht-c157297d",
+      "name": "Урсофальк 500 мг таблетки 100 шт",
+      "manufacturer": "Losan Pharma GmbH, Германия",
+      "image": "img/lekarstva/ursofalk-500-mg-tabletki-100-sht-c157297d.webp",
+      "sourceUrl": "https://apteka.by/goods/ursofalk-500-mg-tabletki-100-sht-c157297d"
+    },
+    {
+      "id": "lekarstva-gabagamma-100-mg-kapsuly-20-sht-da2bd66b",
+      "name": "Габагамма 100 мг капсулы 20 шт",
+      "manufacturer": "Драгенофарм Апотекер Пюшль ГмбХ, Германия",
+      "image": "img/lekarstva/gabagamma-100-mg-kapsuly-20-sht-da2bd66b.webp",
+      "sourceUrl": "https://apteka.by/goods/gabagamma-100-mg-kapsuly-20-sht-da2bd66b"
+    },
+    {
+      "id": "lekarstva-ramipril-10-mg-tabletki-30-sht-6e616e79",
+      "name": "Рамиприл 10 мг таблетки 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/ramipril-10-mg-tabletki-30-sht-6e616e79.webp",
+      "sourceUrl": "https://apteka.by/goods/ramipril-10-mg-tabletki-30-sht-6e616e79"
+    },
+    {
+      "id": "lekarstva-torasemid-20-mg-tabletki-30-sht-9f96f36b",
+      "name": "Торасемид 20 мг таблетки 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/torasemid-20-mg-tabletki-30-sht-9f96f36b.webp",
+      "sourceUrl": "https://apteka.by/goods/torasemid-20-mg-tabletki-30-sht-9f96f36b"
+    },
+    {
+      "id": "lekarstva-elevit-planirovaniye-i-pervyi-trimestr-tabletki-1183-mg-30-sht-bayer-94f4ede6",
+      "name": "Элевит Планирование и первый триместр таблетки 1183 мг 30 шт Bayer",
+      "manufacturer": "Дельфарм Гайар, Франция",
+      "image": "img/lekarstva/elevit-planirovaniye-i-pervyi-trimestr-tabletki-1183-mg-30-sht-bayer-94f4ede6.webp",
+      "sourceUrl": "https://apteka.by/goods/elevit-planirovaniye-i-pervyi-trimestr-tabletki-1183-mg-30-sht-bayer-94f4ede6"
+    },
+    {
+      "id": "lekarstva-fortedetrim-10000-me-kapsuly-30-sht-7684e522",
+      "name": "Фортедетрим 10000 МЕ капсулы 30 шт",
+      "manufacturer": "Польфарма АО Отдел Медана в Серадзе, Польша",
+      "image": "img/lekarstva/fortedetrim-10000-me-kapsuly-30-sht-7684e522.webp",
+      "sourceUrl": "https://apteka.by/goods/fortedetrim-10000-me-kapsuly-30-sht-7684e522"
+    },
+    {
+      "id": "lekarstva-lamotridzhin-lf-50-mg-tabletki-30-sht-bae876e5",
+      "name": "Ламотриджин-ЛФ 50 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/lamotridzhin-lf-50-mg-tabletki-30-sht-bae876e5.webp",
+      "sourceUrl": "https://apteka.by/goods/lamotridzhin-lf-50-mg-tabletki-30-sht-bae876e5"
+    },
+    {
+      "id": "lekarstva-tesalin-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-a22c0238",
+      "name": "Тесалин 8 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Макс Целлер Зьоне АГ, Швейцария",
+      "image": "img/lekarstva/tesalin-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-a22c0238.webp",
+      "sourceUrl": "https://apteka.by/goods/tesalin-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-a22c0238"
+    },
+    {
+      "id": "lekarstva-pentoksilong-400-mg-tabletki-s-prolongirovannym-vysvobozhdeniyem-20-sht-69bfa2aa",
+      "name": "ПентоксиЛОНГ 400 мг таблетки с пролонгированным высвобождением 20 шт",
+      "manufacturer": "Академфарм ГП, Беларусь",
+      "image": "img/lekarstva/pentoksilong-400-mg-tabletki-s-prolongirovannym-vysvobozhdeniyem-20-sht-69bfa2aa.webp",
+      "sourceUrl": "https://apteka.by/goods/pentoksilong-400-mg-tabletki-s-prolongirovannym-vysvobozhdeniyem-20-sht-69bfa2aa"
+    },
+    {
+      "id": "lekarstva-azitromitsin-ft-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-432aca3a",
+      "name": "Азитромицин ФТ 500 мг таблетки покрытые пленочной оболочкой 6 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/azitromitsin-ft-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-432aca3a.webp",
+      "sourceUrl": "https://apteka.by/goods/azitromitsin-ft-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-432aca3a"
+    },
+    {
+      "id": "lekarstva-amoksiklav-kviktab-500-mg-125-mg-tabletki-dispergiruyemyye-10-sht-6faa8040",
+      "name": "Амоксиклав Квиктаб 500 мг+125 мг таблетки диспергируемые 10 шт",
+      "manufacturer": "Сандоз ГмбХ, Австрия",
+      "image": "img/lekarstva/amoksiklav-kviktab-500-mg-125-mg-tabletki-dispergiruyemyye-10-sht-6faa8040.webp",
+      "sourceUrl": "https://apteka.by/goods/amoksiklav-kviktab-500-mg-125-mg-tabletki-dispergiruyemyye-10-sht-6faa8040"
+    },
+    {
+      "id": "lekarstva-zitmak-500-mg-tabletki-pokrytyye-obolochkoi-6-sht-fb7b9ffa",
+      "name": "Зитмак 500 мг таблетки покрытые оболочкой 6 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/zitmak-500-mg-tabletki-pokrytyye-obolochkoi-6-sht-fb7b9ffa.webp",
+      "sourceUrl": "https://apteka.by/goods/zitmak-500-mg-tabletki-pokrytyye-obolochkoi-6-sht-fb7b9ffa"
+    },
+    {
+      "id": "lekarstva-tavanik-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-5-sht-c203d8a1",
+      "name": "Таваник 500 мг таблетки покрытые пленочной оболочкой 5 шт",
+      "manufacturer": "Опелла Хелскеа Интернешнл САС, Франция",
+      "image": "img/lekarstva/tavanik-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-5-sht-c203d8a1.webp",
+      "sourceUrl": "https://apteka.by/goods/tavanik-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-5-sht-c203d8a1"
+    },
+    {
+      "id": "lekarstva-nifuroksazid-lf-100-mg-kapsuly-30-sht-42e77b63",
+      "name": "Нифуроксазид-ЛФ 100 мг капсулы 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/nifuroksazid-lf-100-mg-kapsuly-30-sht-42e77b63.webp",
+      "sourceUrl": "https://apteka.by/goods/nifuroksazid-lf-100-mg-kapsuly-30-sht-42e77b63"
+    },
+    {
+      "id": "lekarstva-yarina-3-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-4b6538a4",
+      "name": "Ярина 3 мг+0,03 мг таблетки покрытые пленочной оболочкой 21 шт",
+      "manufacturer": "Байер АГ, Германия",
+      "image": "img/lekarstva/yarina-3-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-4b6538a4.webp",
+      "sourceUrl": "https://apteka.by/goods/yarina-3-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-4b6538a4"
+    },
+    {
+      "id": "lekarstva-polizhinaks-kapsuly-vaginalnyye-6-sht-287e03db",
+      "name": "Полижинакс капсулы вагинальные 6 шт",
+      "manufacturer": "Иннотера Шузи, Франция",
+      "image": "img/lekarstva/polizhinaks-kapsuly-vaginalnyye-6-sht-287e03db.webp",
+      "sourceUrl": "https://apteka.by/goods/polizhinaks-kapsuly-vaginalnyye-6-sht-287e03db"
+    },
+    {
+      "id": "lekarstva-midokalm-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-18426034",
+      "name": "Мидокалм 50 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/midokalm-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-18426034.webp",
+      "sourceUrl": "https://apteka.by/goods/midokalm-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-18426034"
+    },
+    {
+      "id": "lekarstva-voltaren-50-mg-tabletki-kishechnorastvorimyye-20-sht-160c8865",
+      "name": "Вольтарен 50 мг таблетки кишечнорастворимые 20 шт",
+      "manufacturer": "Новартис Урунлери, Турция",
+      "image": "img/lekarstva/voltaren-50-mg-tabletki-kishechnorastvorimyye-20-sht-160c8865.webp",
+      "sourceUrl": "https://apteka.by/goods/voltaren-50-mg-tabletki-kishechnorastvorimyye-20-sht-160c8865"
+    },
+    {
+      "id": "lekarstva-meloksikam-lf-7-5-mg-tabletki-20-sht-a284df11",
+      "name": "Мелоксикам-ЛФ 7,5 мг таблетки 20 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/meloksikam-lf-7-5-mg-tabletki-20-sht-a284df11.webp",
+      "sourceUrl": "https://apteka.by/goods/meloksikam-lf-7-5-mg-tabletki-20-sht-a284df11"
+    },
+    {
+      "id": "lekarstva-trokserutin-mik-200-mg-kapsuly-50-sht-186a157b",
+      "name": "Троксерутин-МИК 200 мг капсулы 50 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/trokserutin-mik-200-mg-kapsuly-50-sht-186a157b.webp",
+      "sourceUrl": "https://apteka.by/goods/trokserutin-mik-200-mg-kapsuly-50-sht-186a157b"
+    },
+    {
+      "id": "lekarstva-flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-6d9c547c",
+      "name": "Флебодиа 600 мг таблетки покрытые пленочной оболочкой 18 шт",
+      "manufacturer": "Иннотера Шузи, Франция",
+      "image": "img/lekarstva/flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-6d9c547c.webp",
+      "sourceUrl": "https://apteka.by/goods/flebodia-600-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-6d9c547c"
+    },
+    {
+      "id": "lekarstva-amlotenzin-8-mg-10-mg-kapsuly-30-sht-b5baa9c2",
+      "name": "Амлотензин 8 мг+10 мг капсулы 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/amlotenzin-8-mg-10-mg-kapsuly-30-sht-b5baa9c2.webp",
+      "sourceUrl": "https://apteka.by/goods/amlotenzin-8-mg-10-mg-kapsuly-30-sht-b5baa9c2"
+    },
+    {
+      "id": "lekarstva-askorbinovaya-kislota-klubnika-25-mg-tabletki-zhevatelnyye-10-sht-7edfd522",
+      "name": "Аскорбиновая кислота клубника 25 мг таблетки жевательные 10 шт",
+      "manufacturer": "Экзон ОАО, Беларусь",
+      "image": "img/lekarstva/askorbinovaya-kislota-klubnika-25-mg-tabletki-zhevatelnyye-10-sht-7edfd522.webp",
+      "sourceUrl": "https://apteka.by/goods/askorbinovaya-kislota-klubnika-25-mg-tabletki-zhevatelnyye-10-sht-7edfd522"
+    },
+    {
+      "id": "lekarstva-milgamma-mono-300-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-1aa05731",
+      "name": "Мильгамма Моно 300 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Драгенофарм Апотекер Пюшль ГмбХ, Германия",
+      "image": "img/lekarstva/milgamma-mono-300-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-1aa05731.webp",
+      "sourceUrl": "https://apteka.by/goods/milgamma-mono-300-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-1aa05731"
+    },
+    {
+      "id": "lekarstva-ipigriks-20-mg-tabletki-100-sht-aaaccd27",
+      "name": "Ипигрикс 20 мг таблетки 100 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/ipigriks-20-mg-tabletki-100-sht-aaaccd27.webp",
+      "sourceUrl": "https://apteka.by/goods/ipigriks-20-mg-tabletki-100-sht-aaaccd27"
+    },
+    {
+      "id": "lekarstva-de-vis-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-112-sht-f26df67e",
+      "name": "Де-Вис 120 мг таблетки покрытые пленочной оболочкой 112 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/de-vis-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-112-sht-f26df67e.webp",
+      "sourceUrl": "https://apteka.by/goods/de-vis-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-112-sht-f26df67e"
+    },
+    {
+      "id": "lekarstva-singlon-4-mg-tabletki-zhevatelnyye-28-sht-494c08f7",
+      "name": "Синглон 4 мг таблетки жевательные 28 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/singlon-4-mg-tabletki-zhevatelnyye-28-sht-494c08f7.webp",
+      "sourceUrl": "https://apteka.by/goods/singlon-4-mg-tabletki-zhevatelnyye-28-sht-494c08f7"
+    },
+    {
+      "id": "lekarstva-zopiklon-ft-7-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-42c8938e",
+      "name": "Зопиклон ФТ 7,5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/zopiklon-ft-7-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-42c8938e.webp",
+      "sourceUrl": "https://apteka.by/goods/zopiklon-ft-7-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-42c8938e"
+    },
+    {
+      "id": "lekarstva-olmekor-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-74306eef",
+      "name": "Олмекор 20 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/olmekor-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-74306eef.webp",
+      "sourceUrl": "https://apteka.by/goods/olmekor-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-74306eef"
+    },
+    {
+      "id": "lekarstva-torasemid-ft-5-mg-tabletki-30-sht-51fda174",
+      "name": "Торасемид ФТ 5 мг таблетки 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/torasemid-ft-5-mg-tabletki-30-sht-51fda174.webp",
+      "sourceUrl": "https://apteka.by/goods/torasemid-ft-5-mg-tabletki-30-sht-51fda174"
+    },
+    {
+      "id": "lekarstva-pantasan-20-mg-tabletki-kishechnorastvorimyye-10-sht-a9883e7b",
+      "name": "Пантасан 20 мг таблетки кишечнорастворимые 10 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/pantasan-20-mg-tabletki-kishechnorastvorimyye-10-sht-a9883e7b.webp",
+      "sourceUrl": "https://apteka.by/goods/pantasan-20-mg-tabletki-kishechnorastvorimyye-10-sht-a9883e7b"
+    },
+    {
+      "id": "lekarstva-erius-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-b8043b9b",
+      "name": "Эриус 5 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Байер Биттерфельд ГмбХ, Германия",
+      "image": "img/lekarstva/erius-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-b8043b9b.webp",
+      "sourceUrl": "https://apteka.by/goods/erius-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-b8043b9b"
+    },
+    {
+      "id": "lekarstva-azitromitsin-farml-end-500-mg-tabletki-pokrytyye-obolochkoi-3-sht-5b8add2a",
+      "name": "Азитромицин Фармлэнд 500 мг таблетки покрытые оболочкой 3 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/azitromitsin-farml-end-500-mg-tabletki-pokrytyye-obolochkoi-3-sht-5b8add2a.webp",
+      "sourceUrl": "https://apteka.by/goods/azitromitsin-farml-end-500-mg-tabletki-pokrytyye-obolochkoi-3-sht-5b8add2a"
+    },
+    {
+      "id": "lekarstva-fromilid-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-0584ce56",
+      "name": "Фромилид 500 мг таблетки покрытые пленочной оболочкой 14 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/fromilid-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-0584ce56.webp",
+      "sourceUrl": "https://apteka.by/goods/fromilid-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-0584ce56"
+    },
+    {
+      "id": "lekarstva-terzhinan-tabletki-vaginalnyye-10-sht-9908279e",
+      "name": "Тержинан таблетки вагинальные 10 шт",
+      "manufacturer": "Софартекс, Франция",
+      "image": "img/lekarstva/terzhinan-tabletki-vaginalnyye-10-sht-9908279e.webp",
+      "sourceUrl": "https://apteka.by/goods/terzhinan-tabletki-vaginalnyye-10-sht-9908279e"
+    },
+    {
+      "id": "lekarstva-kaltsii-d3-mik-66-7-me-166-7-mg-kapsuly-60-sht-58c54802",
+      "name": "Кальций-Д3-Мик 66,7 МЕ+166,7 мг капсулы 60 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/kaltsii-d3-mik-66-7-me-166-7-mg-kapsuly-60-sht-58c54802.webp",
+      "sourceUrl": "https://apteka.by/goods/kaltsii-d3-mik-66-7-me-166-7-mg-kapsuly-60-sht-58c54802"
+    },
+    {
+      "id": "lekarstva-voltaren-retard-75-mg-tabletki-prolongirovannogo-deistviya-20-sht-82c25591",
+      "name": "Вольтарен Ретард 75 мг таблетки пролонгированного действия 20 шт",
+      "manufacturer": "Novartis Farma S. p. A., Италия",
+      "image": "img/lekarstva/voltaren-retard-75-mg-tabletki-prolongirovannogo-deistviya-20-sht-82c25591.webp",
+      "sourceUrl": "https://apteka.by/goods/voltaren-retard-75-mg-tabletki-prolongirovannogo-deistviya-20-sht-82c25591"
+    },
+    {
+      "id": "lekarstva-detraleks-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-70feb62b",
+      "name": "Детралекс 500 мг таблетки покрытые пленочной оболочкой 60 шт",
+      "manufacturer": "СЕРВЬЕ РУС ООО, Россия",
+      "image": "img/lekarstva/detraleks-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-70feb62b.webp",
+      "sourceUrl": "https://apteka.by/goods/detraleks-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-70feb62b"
+    },
+    {
+      "id": "lekarstva-vinpotsetin-lf-5-mg-tabletki-50-sht-4dcf4354",
+      "name": "Винпоцетин-ЛФ 5 мг таблетки 50 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/vinpotsetin-lf-5-mg-tabletki-50-sht-4dcf4354.webp",
+      "sourceUrl": "https://apteka.by/goods/vinpotsetin-lf-5-mg-tabletki-50-sht-4dcf4354"
+    },
+    {
+      "id": "lekarstva-ingavirin-90-mg-kapsuly-7-sht-3fab5890",
+      "name": "Ингавирин 90 мг капсулы 7 шт",
+      "manufacturer": "Валента Фарм АО, Россия",
+      "image": "img/lekarstva/ingavirin-90-mg-kapsuly-7-sht-3fab5890.webp",
+      "sourceUrl": "https://apteka.by/goods/ingavirin-90-mg-kapsuly-7-sht-3fab5890"
+    },
+    {
+      "id": "lekarstva-tsikloferon-150-mg-tabletki-kishechnorastvorimyye-20-sht-2647c1db",
+      "name": "Циклоферон 150 мг таблетки кишечнорастворимые 20 шт",
+      "manufacturer": "НТФФ Полисан ООО, Россия",
+      "image": "img/lekarstva/tsikloferon-150-mg-tabletki-kishechnorastvorimyye-20-sht-2647c1db.webp",
+      "sourceUrl": "https://apteka.by/goods/tsikloferon-150-mg-tabletki-kishechnorastvorimyye-20-sht-2647c1db"
+    },
+    {
+      "id": "lekarstva-geksaliz-tabletki-dlya-rassasyvaniya-30-sht-06a15eb1",
+      "name": "Гексализ таблетки для рассасывания 30 шт",
+      "manufacturer": "Лаборатории Бушара-Рекордати, Франция",
+      "image": "img/lekarstva/geksaliz-tabletki-dlya-rassasyvaniya-30-sht-06a15eb1.webp",
+      "sourceUrl": "https://apteka.by/goods/geksaliz-tabletki-dlya-rassasyvaniya-30-sht-06a15eb1"
+    },
+    {
+      "id": "lekarstva-viagra-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-14ea0d5b",
+      "name": "Виагра 100 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Фарева Амбуаз, Франция",
+      "image": "img/lekarstva/viagra-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-14ea0d5b.webp",
+      "sourceUrl": "https://apteka.by/goods/viagra-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-14ea0d5b"
+    },
+    {
+      "id": "lekarstva-dukset-30-mg-kapsuly-kishechnorastvorimyye-28-sht-efdf562c",
+      "name": "Дуксет 30 мг капсулы кишечнорастворимые 28 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/dukset-30-mg-kapsuly-kishechnorastvorimyye-28-sht-efdf562c.webp",
+      "sourceUrl": "https://apteka.by/goods/dukset-30-mg-kapsuly-kishechnorastvorimyye-28-sht-efdf562c"
+    },
+    {
+      "id": "lekarstva-betamaks-50-mg-tabletki-30-sht-d4dd111a",
+      "name": "Бетамакс 50 мг таблетки 30 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/betamaks-50-mg-tabletki-30-sht-d4dd111a.webp",
+      "sourceUrl": "https://apteka.by/goods/betamaks-50-mg-tabletki-30-sht-d4dd111a"
+    },
+    {
+      "id": "lekarstva-lorista-nd-100-mg-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-81c2f886",
+      "name": "Лориста НД 100 мг+25 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/lorista-nd-100-mg-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-81c2f886.webp",
+      "sourceUrl": "https://apteka.by/goods/lorista-nd-100-mg-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-81c2f886"
+    },
+    {
+      "id": "lekarstva-tritatse-plyus-10-mg-25-mg-tabletki-28-sht-2eb5657d",
+      "name": "Тритаце Плюс 10 мг+25 мг таблетки 28 шт",
+      "manufacturer": "Санофи-Авентис Дойчланд ГмбХ, Германия",
+      "image": "img/lekarstva/tritatse-plyus-10-mg-25-mg-tabletki-28-sht-2eb5657d.webp",
+      "sourceUrl": "https://apteka.by/goods/tritatse-plyus-10-mg-25-mg-tabletki-28-sht-2eb5657d"
+    },
+    {
+      "id": "lekarstva-ginkgo-biloba-evalar-40-mg-tabletki-40-sht-cdd0500d",
+      "name": "Гинкго Билоба Эвалар 40 мг таблетки 40 шт",
+      "manufacturer": "Эвалар ЗАО, Россия",
+      "image": "img/lekarstva/ginkgo-biloba-evalar-40-mg-tabletki-40-sht-cdd0500d.webp",
+      "sourceUrl": "https://apteka.by/goods/ginkgo-biloba-evalar-40-mg-tabletki-40-sht-cdd0500d"
+    },
+    {
+      "id": "lekarstva-fluvoksin-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-cff02a74",
+      "name": "Флувоксин 50 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Сан Фарма Лабораторис Лимитед, Индия",
+      "image": "img/lekarstva/fluvoksin-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-cff02a74.webp",
+      "sourceUrl": "https://apteka.by/goods/fluvoksin-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-cff02a74"
+    },
+    {
+      "id": "lekarstva-zanidip-rekordati-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-dc727151",
+      "name": "Занидип-Рекордати 20 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Рекордати химическая и фармацевтическая индустрия С.п.А., Италия",
+      "image": "img/lekarstva/zanidip-rekordati-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-dc727151.webp",
+      "sourceUrl": "https://apteka.by/goods/zanidip-rekordati-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-dc727151"
+    },
+    {
+      "id": "lekarstva-venoleks-600-mg-tabletki-24-sht-4f5a9bf1",
+      "name": "Венолекс 600 мг таблетки 24 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/venoleks-600-mg-tabletki-24-sht-4f5a9bf1.webp",
+      "sourceUrl": "https://apteka.by/goods/venoleks-600-mg-tabletki-24-sht-4f5a9bf1"
+    },
+    {
+      "id": "lekarstva-doramitsin-reb-3000000-me-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-13d7dc09",
+      "name": "Дорамицин-Реб 3000000 МЕ таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Реб-Фарма, Беларусь",
+      "image": "img/lekarstva/doramitsin-reb-3000000-me-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-13d7dc09.webp",
+      "sourceUrl": "https://apteka.by/goods/doramitsin-reb-3000000-me-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-13d7dc09"
+    },
+    {
+      "id": "lekarstva-khlorprotiksen-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f5e64729",
+      "name": "Хлорпротиксен 25 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/khlorprotiksen-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f5e64729.webp",
+      "sourceUrl": "https://apteka.by/goods/khlorprotiksen-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-f5e64729"
+    },
+    {
+      "id": "lekarstva-olmekor-40-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4ae1e2b0",
+      "name": "Олмекор 40 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Фармтехнология ООО, Беларусь",
+      "image": "img/lekarstva/olmekor-40-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4ae1e2b0.webp",
+      "sourceUrl": "https://apteka.by/goods/olmekor-40-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-4ae1e2b0"
+    },
+    {
+      "id": "lekarstva-rozuvastatin-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-5516adb1",
+      "name": "Розувастатин 20 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/rozuvastatin-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-5516adb1.webp",
+      "sourceUrl": "https://apteka.by/goods/rozuvastatin-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-5516adb1"
+    },
+    {
+      "id": "lekarstva-filingud-vitamin-s-500-mg-tabletki-0-9-g-60-sht-3d9dabe5",
+      "name": "ФилинГуд Витамин С 500 мг таблетки 0,9 г 60 шт",
+      "manufacturer": "Domus Naturae UAB, Литва",
+      "image": "img/lekarstva/filingud-vitamin-s-500-mg-tabletki-0-9-g-60-sht-3d9dabe5.webp",
+      "sourceUrl": "https://apteka.by/goods/filingud-vitamin-s-500-mg-tabletki-0-9-g-60-sht-3d9dabe5"
+    },
+    {
+      "id": "lekarstva-allergostin-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-ba7609ee",
+      "name": "Аллергостин 20 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "НТФФ Полисан ООО, Россия",
+      "image": "img/lekarstva/allergostin-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-ba7609ee.webp",
+      "sourceUrl": "https://apteka.by/goods/allergostin-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-ba7609ee"
+    },
+    {
+      "id": "lekarstva-rikulatron-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-42-sht-4e38d30e",
+      "name": "Рикулатрон 15 мг таблетки покрытые пленочной оболочкой 42 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/rikulatron-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-42-sht-4e38d30e.webp",
+      "sourceUrl": "https://apteka.by/goods/rikulatron-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-42-sht-4e38d30e"
+    },
+    {
+      "id": "lekarstva-l-arginin-1000-mg-tabletki-pokrytyye-obolochkoi-1-8-g-90-sht-evalar-51681a7c",
+      "name": "L-Аргинин 1000 мг таблетки покрытые оболочкой 1,8 г 90 шт Эвалар",
+      "manufacturer": "Эвалар ЗАО, Россия",
+      "image": "img/lekarstva/l-arginin-1000-mg-tabletki-pokrytyye-obolochkoi-1-8-g-90-sht-evalar-51681a7c.webp",
+      "sourceUrl": "https://apteka.by/goods/l-arginin-1000-mg-tabletki-pokrytyye-obolochkoi-1-8-g-90-sht-evalar-51681a7c"
+    },
+    {
+      "id": "lekarstva-giposart-8-mg-tabletki-30-sht-410aa119",
+      "name": "Гипосарт 8 мг таблетки 30 шт",
+      "manufacturer": "Акрихин ХФК АО, Россия",
+      "image": "img/lekarstva/giposart-8-mg-tabletki-30-sht-410aa119.webp",
+      "sourceUrl": "https://apteka.by/goods/giposart-8-mg-tabletki-30-sht-410aa119"
+    },
+    {
+      "id": "lekarstva-fortedetrim-50000-me-kapsuly-10-sht-ac10ff19",
+      "name": "Фортедетрим 50000 МЕ капсулы 10 шт",
+      "manufacturer": "Польфарма АО Отдел Медана в Серадзе, Польша",
+      "image": "img/lekarstva/fortedetrim-50000-me-kapsuly-10-sht-ac10ff19.webp",
+      "sourceUrl": "https://apteka.by/goods/fortedetrim-50000-me-kapsuly-10-sht-ac10ff19"
+    },
+    {
+      "id": "lekarstva-aksioreks-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-184cb48a",
+      "name": "Аксиорекс 2,5 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/aksioreks-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-184cb48a.webp",
+      "sourceUrl": "https://apteka.by/goods/aksioreks-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-184cb48a"
+    },
+    {
+      "id": "lekarstva-levomitsetin-500-mg-tabletki-20-sht-00411460",
+      "name": "Левомицетин 500 мг таблетки 20 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/levomitsetin-500-mg-tabletki-20-sht-00411460.webp",
+      "sourceUrl": "https://apteka.by/goods/levomitsetin-500-mg-tabletki-20-sht-00411460"
+    },
+    {
+      "id": "lekarstva-aveloks-400-mg-tabletki-pokrytyye-obolochkoi-5-sht-66808e32",
+      "name": "Авелокс 400 мг таблетки покрытые оболочкой 5 шт",
+      "manufacturer": "Bayer HealthCare Manufacturing S.r.l., Италия",
+      "image": "img/lekarstva/aveloks-400-mg-tabletki-pokrytyye-obolochkoi-5-sht-66808e32.webp",
+      "sourceUrl": "https://apteka.by/goods/aveloks-400-mg-tabletki-pokrytyye-obolochkoi-5-sht-66808e32"
+    },
+    {
+      "id": "lekarstva-omez-dsr-20-mg-30-mg-kapsuly-s-modifitsirovannym-vysvobozhdeniyem-10-sht-b2f627ff",
+      "name": "Омез ДСР 20 мг+30 мг капсулы с модифицированным высвобождением 10 шт",
+      "manufacturer": "Д-р Редди`с Лабораторис Лтд., Индия",
+      "image": "img/lekarstva/omez-dsr-20-mg-30-mg-kapsuly-s-modifitsirovannym-vysvobozhdeniyem-10-sht-b2f627ff.webp",
+      "sourceUrl": "https://apteka.by/goods/omez-dsr-20-mg-30-mg-kapsuly-s-modifitsirovannym-vysvobozhdeniyem-10-sht-b2f627ff"
+    },
+    {
+      "id": "lekarstva-midiana-3-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-0d0871f0",
+      "name": "Мидиана 3 мг+0,03 мг таблетки покрытые пленочной оболочкой 21 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/midiana-3-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-0d0871f0.webp",
+      "sourceUrl": "https://apteka.by/goods/midiana-3-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-0d0871f0"
+    },
+    {
+      "id": "lekarstva-novinet-0-15-mg-0-02-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-63-sht-043c3d7e",
+      "name": "Новинет 0,15 мг+0,02 мг таблетки покрытые пленочной оболочкой 63 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/novinet-0-15-mg-0-02-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-63-sht-043c3d7e.webp",
+      "sourceUrl": "https://apteka.by/goods/novinet-0-15-mg-0-02-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-63-sht-043c3d7e"
+    },
+    {
+      "id": "lekarstva-ibuprofen-makh-400-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-f7cade80",
+      "name": "Ибупрофен Мах 400 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/ibuprofen-makh-400-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-f7cade80.webp",
+      "sourceUrl": "https://apteka.by/goods/ibuprofen-makh-400-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-f7cade80"
+    },
+    {
+      "id": "lekarstva-efferalgan-500-mg-tabletki-shipuchiye-16-sht-7940ab47",
+      "name": "Эффералган 500 мг таблетки шипучие 16 шт",
+      "manufacturer": "УПСА САС, Франция",
+      "image": "img/lekarstva/efferalgan-500-mg-tabletki-shipuchiye-16-sht-7940ab47.webp",
+      "sourceUrl": "https://apteka.by/goods/efferalgan-500-mg-tabletki-shipuchiye-16-sht-7940ab47"
+    },
+    {
+      "id": "lekarstva-piratsetam-400-mg-kapsuly-30-sht-b5a1fc20",
+      "name": "Пирацетам 400 мг капсулы 30 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/piratsetam-400-mg-kapsuly-30-sht-b5a1fc20.webp",
+      "sourceUrl": "https://apteka.by/goods/piratsetam-400-mg-kapsuly-30-sht-b5a1fc20"
+    },
+    {
+      "id": "lekarstva-polioksidonii-12-mg-tabletki-10-sht-5b6ba13f",
+      "name": "Полиоксидоний 12 мг таблетки 10 шт",
+      "manufacturer": "НПО Петровакс Фарм ООО, Россия",
+      "image": "img/lekarstva/polioksidonii-12-mg-tabletki-10-sht-5b6ba13f.webp",
+      "sourceUrl": "https://apteka.by/goods/polioksidonii-12-mg-tabletki-10-sht-5b6ba13f"
+    },
+    {
+      "id": "lekarstva-grammidin-det-skii-1-5-mg-1-mg-tabletki-dlya-rassasyvaniya-18-sht-ff1418e8",
+      "name": "Граммидин детский 1,5 мг+1 мг таблетки для рассасывания 18 шт",
+      "manufacturer": "Валента Фарм АО, Россия",
+      "image": "img/lekarstva/grammidin-det-skii-1-5-mg-1-mg-tabletki-dlya-rassasyvaniya-18-sht-ff1418e8.webp",
+      "sourceUrl": "https://apteka.by/goods/grammidin-det-skii-1-5-mg-1-mg-tabletki-dlya-rassasyvaniya-18-sht-ff1418e8"
+    },
+    {
+      "id": "lekarstva-tabletki-ot-kashlya-tabletki-30-sht-1b36ea1c",
+      "name": "Таблетки от кашля таблетки 30 шт",
+      "manufacturer": "Татхимфармпрепараты АО, Россия",
+      "image": "img/lekarstva/tabletki-ot-kashlya-tabletki-30-sht-1b36ea1c.webp",
+      "sourceUrl": "https://apteka.by/goods/tabletki-ot-kashlya-tabletki-30-sht-1b36ea1c"
+    },
+    {
+      "id": "lekarstva-libeksin-100-mg-tabletki-20-sht-f1981e4b",
+      "name": "Либексин 100 мг таблетки 20 шт",
+      "manufacturer": "Опелла Хелскеа Венгрия Лтд., Венгрия",
+      "image": "img/lekarstva/libeksin-100-mg-tabletki-20-sht-f1981e4b.webp",
+      "sourceUrl": "https://apteka.by/goods/libeksin-100-mg-tabletki-20-sht-f1981e4b"
+    },
+    {
+      "id": "lekarstva-v-kar-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-e2ad76f2",
+      "name": "В-Кар 100 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Ламира-Фармакар ООО, Беларусь",
+      "image": "img/lekarstva/v-kar-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-e2ad76f2.webp",
+      "sourceUrl": "https://apteka.by/goods/v-kar-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-e2ad76f2"
+    },
+    {
+      "id": "lekarstva-ipigriks-20-mg-tabletki-50-sht-df1f1d20",
+      "name": "Ипигрикс 20 мг таблетки 50 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/ipigriks-20-mg-tabletki-50-sht-df1f1d20.webp",
+      "sourceUrl": "https://apteka.by/goods/ipigriks-20-mg-tabletki-50-sht-df1f1d20"
+    },
+    {
+      "id": "lekarstva-diuver-5-mg-tabletki-20-sht-c65d7bd7",
+      "name": "Диувер 5 мг таблетки 20 шт",
+      "manufacturer": "ПЛИВА Хрватска д.о.о., Хорватия",
+      "image": "img/lekarstva/diuver-5-mg-tabletki-20-sht-c65d7bd7.webp",
+      "sourceUrl": "https://apteka.by/goods/diuver-5-mg-tabletki-20-sht-c65d7bd7"
+    },
+    {
+      "id": "lekarstva-ksarelto-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-1843e35d",
+      "name": "Ксарелто 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Байер АГ, Германия",
+      "image": "img/lekarstva/ksarelto-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-1843e35d.webp",
+      "sourceUrl": "https://apteka.by/goods/ksarelto-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-1843e35d"
+    },
+    {
+      "id": "lekarstva-kaptopril-farml-end-25-mg-tabletki-50-sht-6412fef8",
+      "name": "Каптоприл Фармлэнд 25 мг таблетки 50 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/kaptopril-farml-end-25-mg-tabletki-50-sht-6412fef8.webp",
+      "sourceUrl": "https://apteka.by/goods/kaptopril-farml-end-25-mg-tabletki-50-sht-6412fef8"
+    },
+    {
+      "id": "lekarstva-lizinopril-farml-end-20-mg-tabletki-30-sht-0bed45bd",
+      "name": "Лизиноприл Фармлэнд 20 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/lizinopril-farml-end-20-mg-tabletki-30-sht-0bed45bd.webp",
+      "sourceUrl": "https://apteka.by/goods/lizinopril-farml-end-20-mg-tabletki-30-sht-0bed45bd"
+    },
+    {
+      "id": "lekarstva-potentsagra-50-mg-kapsuly-2-sht-551cb238",
+      "name": "Потенцагра 50 мг капсулы 2 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/potentsagra-50-mg-kapsuly-2-sht-551cb238.webp",
+      "sourceUrl": "https://apteka.by/goods/potentsagra-50-mg-kapsuly-2-sht-551cb238"
+    },
+    {
+      "id": "lekarstva-dim-200-mg-diindolilmetan-kapsuly-60-sht-evalar-97008ea2",
+      "name": "DIM 200 мг (дииндолилметан) капсулы 60 шт Эвалар",
+      "manufacturer": "Эвалар ЗАО, Россия",
+      "image": "img/lekarstva/dim-200-mg-diindolilmetan-kapsuly-60-sht-evalar-97008ea2.webp",
+      "sourceUrl": "https://apteka.by/goods/dim-200-mg-diindolilmetan-kapsuly-60-sht-evalar-97008ea2"
+    },
+    {
+      "id": "lekarstva-maslo-zarodyshei-pshenitsy-kapsuly-300-mg-60-sht-real-caps-2120606d",
+      "name": "Масло зародышей пшеницы капсулы 300 мг 60 шт Real Caps",
+      "manufacturer": "РеалКапс АО, Россия",
+      "image": "img/lekarstva/maslo-zarodyshei-pshenitsy-kapsuly-300-mg-60-sht-real-caps-2120606d.webp",
+      "sourceUrl": "https://apteka.by/goods/maslo-zarodyshei-pshenitsy-kapsuly-300-mg-60-sht-real-caps-2120606d"
+    },
+    {
+      "id": "lekarstva-ramipril-5-mg-tabletki-30-sht-1cc8a8ea",
+      "name": "Рамиприл 5 мг таблетки 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/ramipril-5-mg-tabletki-30-sht-1cc8a8ea.webp",
+      "sourceUrl": "https://apteka.by/goods/ramipril-5-mg-tabletki-30-sht-1cc8a8ea"
+    },
+    {
+      "id": "lekarstva-septolete-total-evkalipt-3-mg-1-mg-tabletki-dlya-rassasyvaniya-8-sht-2dd75869",
+      "name": "Септолете Тотал эвкалипт 3 мг+1 мг таблетки для рассасывания 8 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/septolete-total-evkalipt-3-mg-1-mg-tabletki-dlya-rassasyvaniya-8-sht-2dd75869.webp",
+      "sourceUrl": "https://apteka.by/goods/septolete-total-evkalipt-3-mg-1-mg-tabletki-dlya-rassasyvaniya-8-sht-2dd75869"
+    },
+    {
+      "id": "lekarstva-ksiltess-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-56-sht-11ed5164",
+      "name": "Ксилтесс 2,5 мг таблетки покрытые пленочной оболочкой 56 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/ksiltess-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-56-sht-11ed5164.webp",
+      "sourceUrl": "https://apteka.by/goods/ksiltess-2-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-56-sht-11ed5164"
+    },
+    {
+      "id": "lekarstva-grandaksin-50-mg-tabletki-90-sht-20bcff97",
+      "name": "Грандаксин 50 мг таблетки 90 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/grandaksin-50-mg-tabletki-90-sht-20bcff97.webp",
+      "sourceUrl": "https://apteka.by/goods/grandaksin-50-mg-tabletki-90-sht-20bcff97"
+    },
+    {
+      "id": "lekarstva-soligamma-10000-me-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-6375f347",
+      "name": "Солигамма 10000 МЕ таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Saneca Pharmaceuticals a. s., Словакия",
+      "image": "img/lekarstva/soligamma-10000-me-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-6375f347.webp",
+      "sourceUrl": "https://apteka.by/goods/soligamma-10000-me-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-6375f347"
+    },
+    {
+      "id": "lekarstva-giposart-32-mg-tabletki-30-sht-f40723ed",
+      "name": "Гипосарт 32 мг таблетки 30 шт",
+      "manufacturer": "Акрихин ХФК АО, Россия",
+      "image": "img/lekarstva/giposart-32-mg-tabletki-30-sht-f40723ed.webp",
+      "sourceUrl": "https://apteka.by/goods/giposart-32-mg-tabletki-30-sht-f40723ed"
+    },
+    {
+      "id": "lekarstva-aksioreks-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-02d35f68",
+      "name": "Аксиорекс 5 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/aksioreks-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-02d35f68.webp",
+      "sourceUrl": "https://apteka.by/goods/aksioreks-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-02d35f68"
+    },
+    {
+      "id": "lekarstva-edarbi-80-mg-tabletki-28-sht-3fb2389e",
+      "name": "Эдарби 80 мг таблетки 28 шт",
+      "manufacturer": "Хемофарм ООО, Россия",
+      "image": "img/lekarstva/edarbi-80-mg-tabletki-28-sht-3fb2389e.webp",
+      "sourceUrl": "https://apteka.by/goods/edarbi-80-mg-tabletki-28-sht-3fb2389e"
+    },
+    {
+      "id": "lekarstva-lornoksikam-lf-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-f0b8b681",
+      "name": "Лорноксикам-ЛФ 8 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/lornoksikam-lf-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-f0b8b681.webp",
+      "sourceUrl": "https://apteka.by/goods/lornoksikam-lf-8-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-f0b8b681"
+    },
+    {
+      "id": "lekarstva-febuksostat-lf-80-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a43fc3d2",
+      "name": "Фебуксостат-ЛФ 80 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/febuksostat-lf-80-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a43fc3d2.webp",
+      "sourceUrl": "https://apteka.by/goods/febuksostat-lf-80-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-a43fc3d2"
+    },
+    {
+      "id": "lekarstva-azitromitsin-250-mg-kapsuly-6-sht-3fe94a00",
+      "name": "Азитромицин 250 мг капсулы 6 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/azitromitsin-250-mg-kapsuly-6-sht-3fe94a00.webp",
+      "sourceUrl": "https://apteka.by/goods/azitromitsin-250-mg-kapsuly-6-sht-3fe94a00"
+    },
+    {
+      "id": "lekarstva-amoksiklav-kviktab-875-mg-125-mg-tabletki-dispergiruyemyye-10-sht-cd00692c",
+      "name": "Амоксиклав Квиктаб 875 мг+125 мг таблетки диспергируемые 10 шт",
+      "manufacturer": "Сандоз ГмбХ, Австрия",
+      "image": "img/lekarstva/amoksiklav-kviktab-875-mg-125-mg-tabletki-dispergiruyemyye-10-sht-cd00692c.webp",
+      "sourceUrl": "https://apteka.by/goods/amoksiklav-kviktab-875-mg-125-mg-tabletki-dispergiruyemyye-10-sht-cd00692c"
+    },
+    {
+      "id": "lekarstva-sumamed-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-3-sht-00ec53c4",
+      "name": "Сумамед 500 мг таблетки покрытые пленочной оболочкой 3 шт",
+      "manufacturer": "ПЛИВА Хрватска д.о.о., Хорватия",
+      "image": "img/lekarstva/sumamed-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-3-sht-00ec53c4.webp",
+      "sourceUrl": "https://apteka.by/goods/sumamed-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-3-sht-00ec53c4"
+    },
+    {
+      "id": "lekarstva-metoklopramid-10-mg-tabletki-50-sht-3a077244",
+      "name": "Метоклопрамид 10 мг таблетки 50 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/metoklopramid-10-mg-tabletki-50-sht-3a077244.webp",
+      "sourceUrl": "https://apteka.by/goods/metoklopramid-10-mg-tabletki-50-sht-3a077244"
+    },
+    {
+      "id": "lekarstva-delsiya-3-mg-0-03-mg-tabletki-pokrytyye-obolochkoi-21-sht-da0d1111",
+      "name": "Делсия 3 мг+0,03 мг таблетки покрытые оболочкой 21 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/delsiya-3-mg-0-03-mg-tabletki-pokrytyye-obolochkoi-21-sht-da0d1111.webp",
+      "sourceUrl": "https://apteka.by/goods/delsiya-3-mg-0-03-mg-tabletki-pokrytyye-obolochkoi-21-sht-da0d1111"
+    },
+    {
+      "id": "lekarstva-dronis-3-mg-0-02-mg-tabletki-pokrytyye-obolochkoi-24-sht-ccc0aa1b",
+      "name": "Дронис 3 мг+0,02 мг таблетки покрытые оболочкой 24 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/dronis-3-mg-0-02-mg-tabletki-pokrytyye-obolochkoi-24-sht-ccc0aa1b.webp",
+      "sourceUrl": "https://apteka.by/goods/dronis-3-mg-0-02-mg-tabletki-pokrytyye-obolochkoi-24-sht-ccc0aa1b"
+    },
+    {
+      "id": "lekarstva-novinet-0-15-mg-0-02-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-d2ed45a5",
+      "name": "Новинет 0,15 мг+0,02 мг таблетки покрытые пленочной оболочкой 21 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/novinet-0-15-mg-0-02-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-d2ed45a5.webp",
+      "sourceUrl": "https://apteka.by/goods/novinet-0-15-mg-0-02-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-d2ed45a5"
+    },
+    {
+      "id": "lekarstva-yarina-plyus-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-64223ccf",
+      "name": "Ярина Плюс таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Байер АГ, Германия",
+      "image": "img/lekarstva/yarina-plyus-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-64223ccf.webp",
+      "sourceUrl": "https://apteka.by/goods/yarina-plyus-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-64223ccf"
+    },
+    {
+      "id": "lekarstva-sumamigren-50-mg-tabletki-pokrytyye-obolochkoi-6-sht-16e6a332",
+      "name": "Сумамигрен 50 мг таблетки покрытые оболочкой 6 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/sumamigren-50-mg-tabletki-pokrytyye-obolochkoi-6-sht-16e6a332.webp",
+      "sourceUrl": "https://apteka.by/goods/sumamigren-50-mg-tabletki-pokrytyye-obolochkoi-6-sht-16e6a332"
+    },
+    {
+      "id": "lekarstva-valtreks-500-mg-tabletki-pokrytyye-obolochkoi-42-sht-17fafe5f",
+      "name": "Валтрекс 500 мг таблетки покрытые оболочкой 42 шт",
+      "manufacturer": "Глаксо Вэллком С.А., Испания",
+      "image": "img/lekarstva/valtreks-500-mg-tabletki-pokrytyye-obolochkoi-42-sht-17fafe5f.webp",
+      "sourceUrl": "https://apteka.by/goods/valtreks-500-mg-tabletki-pokrytyye-obolochkoi-42-sht-17fafe5f"
+    },
+    {
+      "id": "lekarstva-rengalin-tabletki-dlya-rassasyvaniya-gomeopaticheskiye-20-sht-4afd521d",
+      "name": "Ренгалин таблетки для рассасывания гомеопатические 20 шт",
+      "manufacturer": "НПФ Материа Медика Холдинг ООО, Россия",
+      "image": "img/lekarstva/rengalin-tabletki-dlya-rassasyvaniya-gomeopaticheskiye-20-sht-4afd521d.webp",
+      "sourceUrl": "https://apteka.by/goods/rengalin-tabletki-dlya-rassasyvaniya-gomeopaticheskiye-20-sht-4afd521d"
+    },
+    {
+      "id": "lekarstva-lirika-75-mg-kapsuly-14-sht-c2ba1bc5",
+      "name": "Лирика 75 мг капсулы 14 шт",
+      "manufacturer": "Пфайзер Мэнюфэкчуринг Дойчленд ГмбХ, Германия",
+      "image": "img/lekarstva/lirika-75-mg-kapsuly-14-sht-c2ba1bc5.webp",
+      "sourceUrl": "https://apteka.by/goods/lirika-75-mg-kapsuly-14-sht-c2ba1bc5"
+    },
+    {
+      "id": "lekarstva-alotendin-10-mg-5-mg-tabletki-30-sht-c3a690be",
+      "name": "Алотендин 10 мг+5 мг таблетки 30 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/alotendin-10-mg-5-mg-tabletki-30-sht-c3a690be.webp",
+      "sourceUrl": "https://apteka.by/goods/alotendin-10-mg-5-mg-tabletki-30-sht-c3a690be"
+    },
+    {
+      "id": "lekarstva-verapamil-belmed-80-mg-tabletki-pokrytyye-obolochkoi-50-sht-92f54963",
+      "name": "Верапамил-Белмед 80 мг таблетки покрытые оболочкой 50 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/verapamil-belmed-80-mg-tabletki-pokrytyye-obolochkoi-50-sht-92f54963.webp",
+      "sourceUrl": "https://apteka.by/goods/verapamil-belmed-80-mg-tabletki-pokrytyye-obolochkoi-50-sht-92f54963"
+    },
+    {
+      "id": "lekarstva-diltiazem-farml-end-60-mg-tabletki-30-sht-339a18de",
+      "name": "Дилтиазем Фармлэнд 60 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/diltiazem-farml-end-60-mg-tabletki-30-sht-339a18de.webp",
+      "sourceUrl": "https://apteka.by/goods/diltiazem-farml-end-60-mg-tabletki-30-sht-339a18de"
+    },
+    {
+      "id": "lekarstva-lizinopril-lf-10-mg-tabletki-30-sht-a8aa681a",
+      "name": "Лизиноприл-ЛФ 10 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/lizinopril-lf-10-mg-tabletki-30-sht-a8aa681a.webp",
+      "sourceUrl": "https://apteka.by/goods/lizinopril-lf-10-mg-tabletki-30-sht-a8aa681a"
+    },
+    {
+      "id": "lekarstva-lizinopril-lf-20-mg-tabletki-60-sht-94aef384",
+      "name": "Лизиноприл-ЛФ 20 мг таблетки 60 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/lizinopril-lf-20-mg-tabletki-60-sht-94aef384.webp",
+      "sourceUrl": "https://apteka.by/goods/lizinopril-lf-20-mg-tabletki-60-sht-94aef384"
+    },
+    {
+      "id": "lekarstva-lizinopril-lf-5-mg-tabletki-30-sht-9813b270",
+      "name": "Лизиноприл-ЛФ 5 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/lizinopril-lf-5-mg-tabletki-30-sht-9813b270.webp",
+      "sourceUrl": "https://apteka.by/goods/lizinopril-lf-5-mg-tabletki-30-sht-9813b270"
+    },
+    {
+      "id": "lekarstva-liziret-20-mg-12-5-mg-tabletki-30-sht-8420d359",
+      "name": "Лизирет 20 мг+12,5 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/liziret-20-mg-12-5-mg-tabletki-30-sht-8420d359.webp",
+      "sourceUrl": "https://apteka.by/goods/liziret-20-mg-12-5-mg-tabletki-30-sht-8420d359"
+    },
+    {
+      "id": "lekarstva-enalapril-20-mg-tabletki-30-sht-12311d05",
+      "name": "Эналаприл 20 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/enalapril-20-mg-tabletki-30-sht-12311d05.webp",
+      "sourceUrl": "https://apteka.by/goods/enalapril-20-mg-tabletki-30-sht-12311d05"
+    },
+    {
+      "id": "lekarstva-galvus-50-mg-tabletki-28-sht-4b21cf96",
+      "name": "Гальвус 50 мг таблетки 28 шт",
+      "manufacturer": "Novartis Pharmaceutical Manufacturing LLC, Словения",
+      "image": "img/lekarstva/galvus-50-mg-tabletki-28-sht-4b21cf96.webp",
+      "sourceUrl": "https://apteka.by/goods/galvus-50-mg-tabletki-28-sht-4b21cf96"
+    },
+    {
+      "id": "lekarstva-zanidip-rekordati-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-11338326",
+      "name": "Занидип-Рекордати 10 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Рекордати химическая и фармацевтическая индустрия С.п.А., Италия",
+      "image": "img/lekarstva/zanidip-rekordati-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-11338326.webp",
+      "sourceUrl": "https://apteka.by/goods/zanidip-rekordati-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-11338326"
+    },
+    {
+      "id": "lekarstva-betamaks-200-mg-tabletki-30-sht-9426c311",
+      "name": "Бетамакс 200 мг таблетки 30 шт",
+      "manufacturer": "Гриндекс АО, Латвия",
+      "image": "img/lekarstva/betamaks-200-mg-tabletki-30-sht-9426c311.webp",
+      "sourceUrl": "https://apteka.by/goods/betamaks-200-mg-tabletki-30-sht-9426c311"
+    },
+    {
+      "id": "lekarstva-depakin-khrono-300-mg-tabletki-prolongirovannogo-deistviya-100-sht-532b81fa",
+      "name": "Депакин Хроно 300 мг таблетки пролонгированного действия 100 шт",
+      "manufacturer": "Санофи Винтроп Индустрия, Франция",
+      "image": "img/lekarstva/depakin-khrono-300-mg-tabletki-prolongirovannogo-deistviya-100-sht-532b81fa.webp",
+      "sourceUrl": "https://apteka.by/goods/depakin-khrono-300-mg-tabletki-prolongirovannogo-deistviya-100-sht-532b81fa"
+    },
+    {
+      "id": "lekarstva-lorsept-vishnya-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-cd8d5260",
+      "name": "Лорсепт вишня 1,5 мг таблетки для рассасывания 20 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/lorsept-vishnya-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-cd8d5260.webp",
+      "sourceUrl": "https://apteka.by/goods/lorsept-vishnya-1-5-mg-tabletki-dlya-rassasyvaniya-20-sht-cd8d5260"
+    },
+    {
+      "id": "lekarstva-singlon-5-mg-tabletki-zhevatelnyye-28-sht-7fa215c9",
+      "name": "Синглон 5 мг таблетки жевательные 28 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/singlon-5-mg-tabletki-zhevatelnyye-28-sht-7fa215c9.webp",
+      "sourceUrl": "https://apteka.by/goods/singlon-5-mg-tabletki-zhevatelnyye-28-sht-7fa215c9"
+    },
+    {
+      "id": "lekarstva-megasef-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-e593c562",
+      "name": "Мегасеф 500 мг таблетки покрытые пленочной оболочкой 14 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/megasef-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-e593c562.webp",
+      "sourceUrl": "https://apteka.by/goods/megasef-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-14-sht-e593c562"
+    },
+    {
+      "id": "lekarstva-tsinnabsin-a-tabletki-60-sht-943b5fd1",
+      "name": "Циннабсин А таблетки 60 шт",
+      "manufacturer": "Др. Густав Кляйн ГмбХ, Германия",
+      "image": "img/lekarstva/tsinnabsin-a-tabletki-60-sht-943b5fd1.webp",
+      "sourceUrl": "https://apteka.by/goods/tsinnabsin-a-tabletki-60-sht-943b5fd1"
+    },
+    {
+      "id": "lekarstva-enalapril-farml-end-20-mg-tabletki-30-sht-1bd69c7d",
+      "name": "Эналаприл Фармлэнд 20 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/enalapril-farml-end-20-mg-tabletki-30-sht-1bd69c7d.webp",
+      "sourceUrl": "https://apteka.by/goods/enalapril-farml-end-20-mg-tabletki-30-sht-1bd69c7d"
+    },
+    {
+      "id": "lekarstva-dolgosil-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-a48251d4",
+      "name": "Долгосил 20 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/dolgosil-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-a48251d4.webp",
+      "sourceUrl": "https://apteka.by/goods/dolgosil-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-a48251d4"
+    },
+    {
+      "id": "lekarstva-torasemid-5-mg-tabletki-30-sht-b6e58441",
+      "name": "Торасемид 5 мг таблетки 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/torasemid-5-mg-tabletki-30-sht-b6e58441.webp",
+      "sourceUrl": "https://apteka.by/goods/torasemid-5-mg-tabletki-30-sht-b6e58441"
+    },
+    {
+      "id": "lekarstva-neobutin-200-mg-tabletki-30-sht-690f44c8",
+      "name": "Необутин 200 мг таблетки 30 шт",
+      "manufacturer": "Алиум АО, Россия",
+      "image": "img/lekarstva/neobutin-200-mg-tabletki-30-sht-690f44c8.webp",
+      "sourceUrl": "https://apteka.by/goods/neobutin-200-mg-tabletki-30-sht-690f44c8"
+    },
+    {
+      "id": "lekarstva-rivamed-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b45f8e43",
+      "name": "Ривамед 15 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/rivamed-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b45f8e43.webp",
+      "sourceUrl": "https://apteka.by/goods/rivamed-15-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-b45f8e43"
+    },
+    {
+      "id": "lekarstva-torasemid-lf-10-mg-tabletki-30-sht-5723ce74",
+      "name": "Торасемид-ЛФ 10 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/torasemid-lf-10-mg-tabletki-30-sht-5723ce74.webp",
+      "sourceUrl": "https://apteka.by/goods/torasemid-lf-10-mg-tabletki-30-sht-5723ce74"
+    },
+    {
+      "id": "lekarstva-amoklav-farml-end-500-mg-125-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-8d3bba74",
+      "name": "Амоклав Фармлэнд 500 мг+125 мг таблетки покрытые пленочной оболочкой 18 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/amoklav-farml-end-500-mg-125-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-8d3bba74.webp",
+      "sourceUrl": "https://apteka.by/goods/amoklav-farml-end-500-mg-125-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-8d3bba74"
+    },
+    {
+      "id": "lekarstva-lefloks-750-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-7-sht-a8abb4bb",
+      "name": "Лефлокс 750 мг таблетки покрытые пленочной оболочкой 7 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/lefloks-750-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-7-sht-a8abb4bb.webp",
+      "sourceUrl": "https://apteka.by/goods/lefloks-750-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-7-sht-a8abb4bb"
+    },
+    {
+      "id": "lekarstva-lineks-kapsuly-16-sht-2dea61ee",
+      "name": "Линекс капсулы 16 шт",
+      "manufacturer": "Лек д.д., Словения",
+      "image": "img/lekarstva/lineks-kapsuly-16-sht-2dea61ee.webp",
+      "sourceUrl": "https://apteka.by/goods/lineks-kapsuly-16-sht-2dea61ee"
+    },
+    {
+      "id": "lekarstva-klion-d-100-mg-100-mg-tabletki-vaginalnyye-10-sht-437d7d1d",
+      "name": "Клион-Д 100 мг+100 мг таблетки вагинальные 10 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/klion-d-100-mg-100-mg-tabletki-vaginalnyye-10-sht-437d7d1d.webp",
+      "sourceUrl": "https://apteka.by/goods/klion-d-100-mg-100-mg-tabletki-vaginalnyye-10-sht-437d7d1d"
+    },
+    {
+      "id": "lekarstva-kaltsii-d3-nikomed-osteoforte-limon-1000-mg-800-me-tabletki-zhevatelnyye-30-sht-537d9b6c",
+      "name": "Кальций-Д3 Никомед Остеофорте лимон 1000 мг+800 МЕ таблетки жевательные 30 шт",
+      "manufacturer": "Аскер Контракт Мануфакчуринг АС, Норвегия",
+      "image": "img/lekarstva/kaltsii-d3-nikomed-osteoforte-limon-1000-mg-800-me-tabletki-zhevatelnyye-30-sht-537d9b6c.webp",
+      "sourceUrl": "https://apteka.by/goods/kaltsii-d3-nikomed-osteoforte-limon-1000-mg-800-me-tabletki-zhevatelnyye-30-sht-537d9b6c"
+    },
+    {
+      "id": "lekarstva-terafleks-500-mg-400-mg-kapsuly-30-sht-299a23a2",
+      "name": "Терафлекс 500 мг+400 мг капсулы 30 шт",
+      "manufacturer": "Байер Консьюмер Кэр АГ, Швейцария",
+      "image": "img/lekarstva/terafleks-500-mg-400-mg-kapsuly-30-sht-299a23a2.webp",
+      "sourceUrl": "https://apteka.by/goods/terafleks-500-mg-400-mg-kapsuly-30-sht-299a23a2"
+    },
+    {
+      "id": "lekarstva-rapimig-2-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-2-sht-abea47ba",
+      "name": "Рапимиг 2,5 мг таблетки диспергируемые в полости рта 2 шт",
+      "manufacturer": "Актавис Лтд., Мальта",
+      "image": "img/lekarstva/rapimig-2-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-2-sht-abea47ba.webp",
+      "sourceUrl": "https://apteka.by/goods/rapimig-2-5-mg-tabletki-dispergiruyemyye-v-polosti-rta-2-sht-abea47ba"
+    },
+    {
+      "id": "lekarstva-benalgin-tabletki-10-sht-5680522b",
+      "name": "Бенальгин таблетки 10 шт",
+      "manufacturer": "Балканфарма-Дупница АД, Болгария",
+      "image": "img/lekarstva/benalgin-tabletki-10-sht-5680522b.webp",
+      "sourceUrl": "https://apteka.by/goods/benalgin-tabletki-10-sht-5680522b"
+    },
+    {
+      "id": "lekarstva-detraleks-1000-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-792c7b5a",
+      "name": "Детралекс 1000 мг таблетки покрытые пленочной оболочкой 18 шт",
+      "manufacturer": "СЕРВЬЕ РУС ООО, Россия",
+      "image": "img/lekarstva/detraleks-1000-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-792c7b5a.webp",
+      "sourceUrl": "https://apteka.by/goods/detraleks-1000-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-18-sht-792c7b5a"
+    },
+    {
+      "id": "lekarstva-betagistin-8-mg-tabletki-30-sht-1baff70e",
+      "name": "Бетагистин 8 мг таблетки 30 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/betagistin-8-mg-tabletki-30-sht-1baff70e.webp",
+      "sourceUrl": "https://apteka.by/goods/betagistin-8-mg-tabletki-30-sht-1baff70e"
+    },
+    {
+      "id": "lekarstva-geptalnan-500-mg-tabletki-kishechnorastvorimyye-21-sht-e9b73bcc",
+      "name": "ГепталНАН 500 мг таблетки кишечнорастворимые 21 шт",
+      "manufacturer": "Академфарм ГП, Беларусь",
+      "image": "img/lekarstva/geptalnan-500-mg-tabletki-kishechnorastvorimyye-21-sht-e9b73bcc.webp",
+      "sourceUrl": "https://apteka.by/goods/geptalnan-500-mg-tabletki-kishechnorastvorimyye-21-sht-e9b73bcc"
+    },
+    {
+      "id": "lekarstva-antiflu-tabletki-pokrytyye-obolochkoi-12-sht-5531a583",
+      "name": "Антифлу таблетки покрытые оболочкой 12 шт",
+      "manufacturer": "Байер Консьюмер Кэр АГ, Швейцария",
+      "image": "img/lekarstva/antiflu-tabletki-pokrytyye-obolochkoi-12-sht-5531a583.webp",
+      "sourceUrl": "https://apteka.by/goods/antiflu-tabletki-pokrytyye-obolochkoi-12-sht-5531a583"
+    },
+    {
+      "id": "lekarstva-prostamol-uno-320-mg-kapsuly-30-sht-f8e59f4b",
+      "name": "Простамол Уно 320 мг капсулы 30 шт",
+      "manufacturer": "Каталент Германия Эбербах ГмбХ, Германия",
+      "image": "img/lekarstva/prostamol-uno-320-mg-kapsuly-30-sht-f8e59f4b.webp",
+      "sourceUrl": "https://apteka.by/goods/prostamol-uno-320-mg-kapsuly-30-sht-f8e59f4b"
+    },
+    {
+      "id": "lekarstva-viagra-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-71560ce9",
+      "name": "Виагра 50 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Фарева Амбуаз, Франция",
+      "image": "img/lekarstva/viagra-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-71560ce9.webp",
+      "sourceUrl": "https://apteka.by/goods/viagra-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-71560ce9"
+    },
+    {
+      "id": "lekarstva-viasil-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-ca0daec6",
+      "name": "Виасил 100 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/viasil-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-ca0daec6.webp",
+      "sourceUrl": "https://apteka.by/goods/viasil-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-ca0daec6"
+    },
+    {
+      "id": "lekarstva-viasil-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-8c5f6ecd",
+      "name": "Виасил 100 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/viasil-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-8c5f6ecd.webp",
+      "sourceUrl": "https://apteka.by/goods/viasil-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-8c5f6ecd"
+    },
+    {
+      "id": "lekarstva-viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-2-sht-ea119a40",
+      "name": "Виасил 50 мг таблетки покрытые пленочной оболочкой 2 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-2-sht-ea119a40.webp",
+      "sourceUrl": "https://apteka.by/goods/viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-2-sht-ea119a40"
+    },
+    {
+      "id": "lekarstva-managra-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-2d969e2c",
+      "name": "Манагра 50 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/managra-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-2d969e2c.webp",
+      "sourceUrl": "https://apteka.by/goods/managra-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-2d969e2c"
+    },
+    {
+      "id": "lekarstva-tribestan-250-mg-tabletki-pokrytyye-obolochkoi-60-sht-fea9c11c",
+      "name": "Трибестан 250 мг таблетки покрытые оболочкой 60 шт",
+      "manufacturer": "Софарма АО, Болгария",
+      "image": "img/lekarstva/tribestan-250-mg-tabletki-pokrytyye-obolochkoi-60-sht-fea9c11c.webp",
+      "sourceUrl": "https://apteka.by/goods/tribestan-250-mg-tabletki-pokrytyye-obolochkoi-60-sht-fea9c11c"
+    },
+    {
+      "id": "lekarstva-reneira-150-mg-kapsuly-14-sht-53ed35c7",
+      "name": "Ренейра 150 мг капсулы 14 шт",
+      "manufacturer": "Салютас Фарма ГмбХ, Германия",
+      "image": "img/lekarstva/reneira-150-mg-kapsuly-14-sht-53ed35c7.webp",
+      "sourceUrl": "https://apteka.by/goods/reneira-150-mg-kapsuly-14-sht-53ed35c7"
+    },
+    {
+      "id": "lekarstva-ko-sentor-100-mg-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7180cffd",
+      "name": "Ко-Сентор 100 мг+25 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/ko-sentor-100-mg-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7180cffd.webp",
+      "sourceUrl": "https://apteka.by/goods/ko-sentor-100-mg-25-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-7180cffd"
+    },
+    {
+      "id": "lekarstva-monokaps-40-mg-kapsuly-30-sht-b1c00bcd",
+      "name": "Монокапс 40 мг капсулы 30 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/monokaps-40-mg-kapsuly-30-sht-b1c00bcd.webp",
+      "sourceUrl": "https://apteka.by/goods/monokaps-40-mg-kapsuly-30-sht-b1c00bcd"
+    },
+    {
+      "id": "lekarstva-enalapril-10-mg-tabletki-60-sht-3fc2c60b",
+      "name": "Эналаприл 10 мг таблетки 60 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/enalapril-10-mg-tabletki-60-sht-3fc2c60b.webp",
+      "sourceUrl": "https://apteka.by/goods/enalapril-10-mg-tabletki-60-sht-3fc2c60b"
+    },
+    {
+      "id": "lekarstva-enalapril-5-mg-tabletki-30-sht-46b2644c",
+      "name": "Эналаприл 5 мг таблетки 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/enalapril-5-mg-tabletki-30-sht-46b2644c.webp",
+      "sourceUrl": "https://apteka.by/goods/enalapril-5-mg-tabletki-30-sht-46b2644c"
+    },
+    {
+      "id": "lekarstva-eksforzh-5-mg-160-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-e8542a04",
+      "name": "Эксфорж 5 мг+160 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Novartis Farma S. p. A., Италия",
+      "image": "img/lekarstva/eksforzh-5-mg-160-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-e8542a04.webp",
+      "sourceUrl": "https://apteka.by/goods/eksforzh-5-mg-160-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-e8542a04"
+    },
+    {
+      "id": "lekarstva-magnekor-500-mg-tabletki-60-sht-5a5eab21",
+      "name": "Магнекор 500 мг таблетки 60 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/magnekor-500-mg-tabletki-60-sht-5a5eab21.webp",
+      "sourceUrl": "https://apteka.by/goods/magnekor-500-mg-tabletki-60-sht-5a5eab21"
+    },
+    {
+      "id": "lekarstva-molsidomin-am-4-mg-tabletki-30-sht-f81dee42",
+      "name": "Молсидомин-АМ 4 мг таблетки 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/molsidomin-am-4-mg-tabletki-30-sht-f81dee42.webp",
+      "sourceUrl": "https://apteka.by/goods/molsidomin-am-4-mg-tabletki-30-sht-f81dee42"
+    },
+    {
+      "id": "lekarstva-omega-3-forte-kapsuly-1360-mg-30-sht-farml-end-7a6a6127",
+      "name": "Омега-3 Форте капсулы 1360 мг 30 шт Фармлэнд",
+      "manufacturer": "Imres B.V., Нидерланды",
+      "image": "img/lekarstva/omega-3-forte-kapsuly-1360-mg-30-sht-farml-end-7a6a6127.webp",
+      "sourceUrl": "https://apteka.by/goods/omega-3-forte-kapsuly-1360-mg-30-sht-farml-end-7a6a6127"
+    },
+    {
+      "id": "lekarstva-mense-kapsuly-500-mg-40-sht-akvion-d2b15c75",
+      "name": "Менсе капсулы 500 мг 40 шт Аквион",
+      "manufacturer": "ООО ВТФ, Россия",
+      "image": "img/lekarstva/mense-kapsuly-500-mg-40-sht-akvion-d2b15c75.webp",
+      "sourceUrl": "https://apteka.by/goods/mense-kapsuly-500-mg-40-sht-akvion-d2b15c75"
+    },
+    {
+      "id": "lekarstva-altasil-kapsuly-410-mg-60-sht-andraktiv-205c3608",
+      "name": "Алтасил капсулы 410 мг 60 шт Андрактив",
+      "manufacturer": "Гален фармацевтический завод ООО, Россия",
+      "image": "img/lekarstva/altasil-kapsuly-410-mg-60-sht-andraktiv-205c3608.webp",
+      "sourceUrl": "https://apteka.by/goods/altasil-kapsuly-410-mg-60-sht-andraktiv-205c3608"
+    },
+    {
+      "id": "lekarstva-ornidazol-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-4ff3e350",
+      "name": "Орнидазол 500 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/ornidazol-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-4ff3e350.webp",
+      "sourceUrl": "https://apteka.by/goods/ornidazol-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-4ff3e350"
+    },
+    {
+      "id": "lekarstva-sialis-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-a34e1ddb",
+      "name": "Сиалис 20 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Lilly del Caribe Inc., Пуэрто-Рико",
+      "image": "img/lekarstva/sialis-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-a34e1ddb.webp",
+      "sourceUrl": "https://apteka.by/goods/sialis-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-a34e1ddb"
+    },
+    {
+      "id": "lekarstva-glinor-30-mg-tabletki-60-sht-03a3655f",
+      "name": "Глинор 30 мг таблетки 60 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/glinor-30-mg-tabletki-60-sht-03a3655f.webp",
+      "sourceUrl": "https://apteka.by/goods/glinor-30-mg-tabletki-60-sht-03a3655f"
+    },
+    {
+      "id": "lekarstva-tserotilin-600-mg-kapsuly-10-sht-70f250e2",
+      "name": "Церотилин 600 мг капсулы 10 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/tserotilin-600-mg-kapsuly-10-sht-70f250e2.webp",
+      "sourceUrl": "https://apteka.by/goods/tserotilin-600-mg-kapsuly-10-sht-70f250e2"
+    },
+    {
+      "id": "lekarstva-filingud-omega-3-kapsuly-1-4-g-60-sht-8973ba74",
+      "name": "ФилинГуд Омега 3 капсулы 1,4 г 60 шт",
+      "manufacturer": "Domus Naturae UAB, Литва",
+      "image": "img/lekarstva/filingud-omega-3-kapsuly-1-4-g-60-sht-8973ba74.webp",
+      "sourceUrl": "https://apteka.by/goods/filingud-omega-3-kapsuly-1-4-g-60-sht-8973ba74"
+    },
+    {
+      "id": "lekarstva-etorikoksib-am-60-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-84cdde86",
+      "name": "Эторикоксиб-АМ 60 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/etorikoksib-am-60-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-84cdde86.webp",
+      "sourceUrl": "https://apteka.by/goods/etorikoksib-am-60-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-84cdde86"
+    },
+    {
+      "id": "lekarstva-megasef-250-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-68a15b52",
+      "name": "Мегасеф 250 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/megasef-250-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-68a15b52.webp",
+      "sourceUrl": "https://apteka.by/goods/megasef-250-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-68a15b52"
+    },
+    {
+      "id": "lekarstva-nurofast-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-47a7f2c0",
+      "name": "Нурофаст 200 мг таблетки покрытые пленочной оболочкой 20 шт",
+      "manufacturer": "Алиум АО, Россия",
+      "image": "img/lekarstva/nurofast-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-47a7f2c0.webp",
+      "sourceUrl": "https://apteka.by/goods/nurofast-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-20-sht-47a7f2c0"
+    },
+    {
+      "id": "lekarstva-nebivomed-5-mg-tabletki-30-sht-425f116b",
+      "name": "Небивомед 5 мг таблетки 30 шт",
+      "manufacturer": "Мед-интерпласт, Беларусь",
+      "image": "img/lekarstva/nebivomed-5-mg-tabletki-30-sht-425f116b.webp",
+      "sourceUrl": "https://apteka.by/goods/nebivomed-5-mg-tabletki-30-sht-425f116b"
+    },
+    {
+      "id": "lekarstva-tiazolin-200-mg-tabletki-60-sht-36dc3ed4",
+      "name": "Тиазолин 200 мг таблетки 60 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/tiazolin-200-mg-tabletki-60-sht-36dc3ed4.webp",
+      "sourceUrl": "https://apteka.by/goods/tiazolin-200-mg-tabletki-60-sht-36dc3ed4"
+    },
+    {
+      "id": "lekarstva-apiksaban-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-b1c14790",
+      "name": "Апиксабан 5 мг таблетки покрытые пленочной оболочкой 60 шт",
+      "manufacturer": "Unison Pharmaceuticals Ptv. Ltd., Индия",
+      "image": "img/lekarstva/apiksaban-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-b1c14790.webp",
+      "sourceUrl": "https://apteka.by/goods/apiksaban-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-60-sht-b1c14790"
+    },
+    {
+      "id": "lekarstva-norfloksatsin-400-mg-tabletki-pokrytyye-obolochkoi-10-sht-25b2822c",
+      "name": "Норфлоксацин 400 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/norfloksatsin-400-mg-tabletki-pokrytyye-obolochkoi-10-sht-25b2822c.webp",
+      "sourceUrl": "https://apteka.by/goods/norfloksatsin-400-mg-tabletki-pokrytyye-obolochkoi-10-sht-25b2822c"
+    },
+    {
+      "id": "lekarstva-tsiproneks-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-248e8443",
+      "name": "Ципронекс 500 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/tsiproneks-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-248e8443.webp",
+      "sourceUrl": "https://apteka.by/goods/tsiproneks-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-248e8443"
+    },
+    {
+      "id": "lekarstva-r-enikzon-limon-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-f76a89f0",
+      "name": "Рэникзон лимон 680 мг+80 мг таблетки жевательные 24 шт",
+      "manufacturer": "Экзон ОАО, Беларусь",
+      "image": "img/lekarstva/r-enikzon-limon-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-f76a89f0.webp",
+      "sourceUrl": "https://apteka.by/goods/r-enikzon-limon-680-mg-80-mg-tabletki-zhevatelnyye-24-sht-f76a89f0"
+    },
+    {
+      "id": "lekarstva-peptipak-kapsuly-i-tabletki-pokrytyye-plenochnoi-obolochkoi-kombinirovannyi-nabor-56-sht-3d2d8ccb",
+      "name": "Пептипак капсулы и таблетки покрытые пленочной оболочкой комбинированный набор 56 шт",
+      "manufacturer": "Фармакар ПЛС, Палестина",
+      "image": "img/lekarstva/peptipak-kapsuly-i-tabletki-pokrytyye-plenochnoi-obolochkoi-kombinirovannyi-nabor-56-sht-3d2d8ccb.webp",
+      "sourceUrl": "https://apteka.by/goods/peptipak-kapsuly-i-tabletki-pokrytyye-plenochnoi-obolochkoi-kombinirovannyi-nabor-56-sht-3d2d8ccb"
+    },
+    {
+      "id": "lekarstva-flunol-150-mg-kapsuly-1-sht-7143d7fb",
+      "name": "Флунол 150 мг капсулы 1 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/flunol-150-mg-kapsuly-1-sht-7143d7fb.webp",
+      "sourceUrl": "https://apteka.by/goods/flunol-150-mg-kapsuly-1-sht-7143d7fb"
+    },
+    {
+      "id": "lekarstva-lindinet-30-tabletki-pokrytyye-obolochkoi-21-sht-1f4477ba",
+      "name": "Линдинет 30 таблетки покрытые оболочкой 21 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/lindinet-30-tabletki-pokrytyye-obolochkoi-21-sht-1f4477ba.webp",
+      "sourceUrl": "https://apteka.by/goods/lindinet-30-tabletki-pokrytyye-obolochkoi-21-sht-1f4477ba"
+    },
+    {
+      "id": "lekarstva-postinor-0-75-mg-tabletki-2-sht-4daa3db3",
+      "name": "Постинор 0,75 мг таблетки 2 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/postinor-0-75-mg-tabletki-2-sht-4daa3db3.webp",
+      "sourceUrl": "https://apteka.by/goods/postinor-0-75-mg-tabletki-2-sht-4daa3db3"
+    },
+    {
+      "id": "lekarstva-regulon-0-15-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-e820a45f",
+      "name": "Регулон 0,15 мг+0,03 мг таблетки покрытые пленочной оболочкой 21 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/regulon-0-15-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-e820a45f.webp",
+      "sourceUrl": "https://apteka.by/goods/regulon-0-15-mg-0-03-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-21-sht-e820a45f"
+    },
+    {
+      "id": "lekarstva-klimalanin-400-mg-tabletki-30-sht-6b180037",
+      "name": "Клималанин 400 мг таблетки 30 шт",
+      "manufacturer": "Лаборатории Бушара-Рекордати, Франция",
+      "image": "img/lekarstva/klimalanin-400-mg-tabletki-30-sht-6b180037.webp",
+      "sourceUrl": "https://apteka.by/goods/klimalanin-400-mg-tabletki-30-sht-6b180037"
+    },
+    {
+      "id": "lekarstva-dolaren-50-mg-325-mg-tabletki-24-sht-a58149d3",
+      "name": "Доларен 50 мг+325 мг таблетки 24 шт",
+      "manufacturer": "Экзон ОАО, Беларусь",
+      "image": "img/lekarstva/dolaren-50-mg-325-mg-tabletki-24-sht-a58149d3.webp",
+      "sourceUrl": "https://apteka.by/goods/dolaren-50-mg-325-mg-tabletki-24-sht-a58149d3"
+    },
+    {
+      "id": "lekarstva-flukaps-30-mg-kapsuly-10-sht-c913303f",
+      "name": "Флукапс 30 мг капсулы 10 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/flukaps-30-mg-kapsuly-10-sht-c913303f.webp",
+      "sourceUrl": "https://apteka.by/goods/flukaps-30-mg-kapsuly-10-sht-c913303f"
+    },
+    {
+      "id": "lekarstva-vinpotsetin-5-mg-tabletki-50-sht-0c8ce551",
+      "name": "Винпоцетин 5 мг таблетки 50 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/vinpotsetin-5-mg-tabletki-50-sht-0c8ce551.webp",
+      "sourceUrl": "https://apteka.by/goods/vinpotsetin-5-mg-tabletki-50-sht-0c8ce551"
+    },
+    {
+      "id": "lekarstva-vinpotsetin-forte-10-mg-tabletki-30-sht-0c9ebb2d",
+      "name": "Винпоцетин Форте 10 мг таблетки 30 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/vinpotsetin-forte-10-mg-tabletki-30-sht-0c9ebb2d.webp",
+      "sourceUrl": "https://apteka.by/goods/vinpotsetin-forte-10-mg-tabletki-30-sht-0c9ebb2d"
+    },
+    {
+      "id": "lekarstva-septangin-3-mg-1-mg-tabletki-dlya-rassasyvaniya-20-sht-f31b2046",
+      "name": "Септангин 3 мг+1 мг таблетки для рассасывания 20 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/septangin-3-mg-1-mg-tabletki-dlya-rassasyvaniya-20-sht-f31b2046.webp",
+      "sourceUrl": "https://apteka.by/goods/septangin-3-mg-1-mg-tabletki-dlya-rassasyvaniya-20-sht-f31b2046"
+    },
+    {
+      "id": "lekarstva-antigrippin-tabletki-shipuchiye-10-sht-7b7a53e2",
+      "name": "Антигриппин таблетки шипучие 10 шт",
+      "manufacturer": "Натур Продукт Фарма Сп. з о.о., Польша",
+      "image": "img/lekarstva/antigrippin-tabletki-shipuchiye-10-sht-7b7a53e2.webp",
+      "sourceUrl": "https://apteka.by/goods/antigrippin-tabletki-shipuchiye-10-sht-7b7a53e2"
+    },
+    {
+      "id": "lekarstva-viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-25db67c5",
+      "name": "Виасил 50 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-25db67c5.webp",
+      "sourceUrl": "https://apteka.by/goods/viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-25db67c5"
+    },
+    {
+      "id": "lekarstva-viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-6832a7b2",
+      "name": "Виасил 50 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-6832a7b2.webp",
+      "sourceUrl": "https://apteka.by/goods/viasil-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-6832a7b2"
+    },
+    {
+      "id": "lekarstva-tadalis-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-5938b4d0",
+      "name": "Тадалис 20 мг таблетки покрытые пленочной оболочкой 4 шт",
+      "manufacturer": "Фармлэнд СП ООО, Беларусь",
+      "image": "img/lekarstva/tadalis-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-5938b4d0.webp",
+      "sourceUrl": "https://apteka.by/goods/tadalis-20-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-4-sht-5938b4d0"
+    },
+    {
+      "id": "lekarstva-ksariva-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e82c4b19",
+      "name": "Ксарива 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/ksariva-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e82c4b19.webp",
+      "sourceUrl": "https://apteka.by/goods/ksariva-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e82c4b19"
+    },
+    {
+      "id": "lekarstva-plaviks-75-mg-tabletki-pokrytyye-obolochkoi-90-sht-46515dcd",
+      "name": "Плавикс 75 мг таблетки покрытые оболочкой 90 шт",
+      "manufacturer": "Санофи Винтроп Индустрия, Франция",
+      "image": "img/lekarstva/plaviks-75-mg-tabletki-pokrytyye-obolochkoi-90-sht-46515dcd.webp",
+      "sourceUrl": "https://apteka.by/goods/plaviks-75-mg-tabletki-pokrytyye-obolochkoi-90-sht-46515dcd"
+    },
+    {
+      "id": "lekarstva-meldonii-lf-250-mg-kapsuly-40-sht-8db92642",
+      "name": "Мельдоний-ЛФ 250 мг капсулы 40 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/meldonii-lf-250-mg-kapsuly-40-sht-8db92642.webp",
+      "sourceUrl": "https://apteka.by/goods/meldonii-lf-250-mg-kapsuly-40-sht-8db92642"
+    },
+    {
+      "id": "lekarstva-konkor-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-18ad9899",
+      "name": "Конкор 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Мерк Хелскеа КГаА, Германия",
+      "image": "img/lekarstva/konkor-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-18ad9899.webp",
+      "sourceUrl": "https://apteka.by/goods/konkor-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-18ad9899"
+    },
+    {
+      "id": "lekarstva-lortenza-100-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-2e74c2cf",
+      "name": "Лортенза 100 мг+10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "КРКА-РУС ООО, Россия",
+      "image": "img/lekarstva/lortenza-100-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-2e74c2cf.webp",
+      "sourceUrl": "https://apteka.by/goods/lortenza-100-mg-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-2e74c2cf"
+    },
+    {
+      "id": "lekarstva-ramipril-5-mg-tabletki-30-sht-d8e1344e",
+      "name": "Рамиприл 5 мг таблетки 30 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/ramipril-5-mg-tabletki-30-sht-d8e1344e.webp",
+      "sourceUrl": "https://apteka.by/goods/ramipril-5-mg-tabletki-30-sht-d8e1344e"
+    },
+    {
+      "id": "lekarstva-tripliksam-5-mg-1-25-mg-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0fc170ec",
+      "name": "Трипликсам 5 мг+1,25 мг+5 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Сервье (Ирландия) Индастриз Лтд., Ирландия",
+      "image": "img/lekarstva/tripliksam-5-mg-1-25-mg-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0fc170ec.webp",
+      "sourceUrl": "https://apteka.by/goods/tripliksam-5-mg-1-25-mg-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0fc170ec"
+    },
+    {
+      "id": "lekarstva-prednizolon-belmed-5-mg-tabletki-50-sht-73b81709",
+      "name": "Преднизолон-Белмед 5 мг таблетки 50 шт",
+      "manufacturer": "Белмедпрепараты РУП, Беларусь",
+      "image": "img/lekarstva/prednizolon-belmed-5-mg-tabletki-50-sht-73b81709.webp",
+      "sourceUrl": "https://apteka.by/goods/prednizolon-belmed-5-mg-tabletki-50-sht-73b81709"
+    },
+    {
+      "id": "lekarstva-troinaya-omega-3-epk-i-dgk-950-mg-kapsuly-50-sht-solgar-aa6b7ad9",
+      "name": "Тройная Омега-3 ЭПК и ДГК 950 мг капсулы 50 шт Solgar",
+      "manufacturer": "Solgar Inc., США",
+      "image": "img/lekarstva/troinaya-omega-3-epk-i-dgk-950-mg-kapsuly-50-sht-solgar-aa6b7ad9.webp",
+      "sourceUrl": "https://apteka.by/goods/troinaya-omega-3-epk-i-dgk-950-mg-kapsuly-50-sht-solgar-aa6b7ad9"
+    },
+    {
+      "id": "lekarstva-tsi-klim-alanin-tabletki-0-55-g-40-sht-evalar-3cfbdf46",
+      "name": "Ци-Клим Аланин таблетки 0,55 г 40 шт Эвалар",
+      "manufacturer": "Эвалар ЗАО, Россия",
+      "image": "img/lekarstva/tsi-klim-alanin-tabletki-0-55-g-40-sht-evalar-3cfbdf46.webp",
+      "sourceUrl": "https://apteka.by/goods/tsi-klim-alanin-tabletki-0-55-g-40-sht-evalar-3cfbdf46"
+    },
+    {
+      "id": "lekarstva-angiseptin-tabletki-dlya-rassasyvaniya-18-sht-7ec3b3cf",
+      "name": "Ангисептин таблетки для рассасывания 18 шт",
+      "manufacturer": "Рубикон ООО, Беларусь",
+      "image": "img/lekarstva/angiseptin-tabletki-dlya-rassasyvaniya-18-sht-7ec3b3cf.webp",
+      "sourceUrl": "https://apteka.by/goods/angiseptin-tabletki-dlya-rassasyvaniya-18-sht-7ec3b3cf"
+    },
+    {
+      "id": "lekarstva-zitmak-500-mg-tabletki-pokrytyye-obolochkoi-3-sht-6f611188",
+      "name": "Зитмак 500 мг таблетки покрытые оболочкой 3 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/zitmak-500-mg-tabletki-pokrytyye-obolochkoi-3-sht-6f611188.webp",
+      "sourceUrl": "https://apteka.by/goods/zitmak-500-mg-tabletki-pokrytyye-obolochkoi-3-sht-6f611188"
+    },
+    {
+      "id": "lekarstva-valsamlodin-160-mg-10-mg-tabletki-pokrytyye-obolochkoi-28-sht-6516c287",
+      "name": "Валсамлодин 160 мг+10 мг таблетки покрытые оболочкой 28 шт",
+      "manufacturer": "Академфарм ГП, Беларусь",
+      "image": "img/lekarstva/valsamlodin-160-mg-10-mg-tabletki-pokrytyye-obolochkoi-28-sht-6516c287.webp",
+      "sourceUrl": "https://apteka.by/goods/valsamlodin-160-mg-10-mg-tabletki-pokrytyye-obolochkoi-28-sht-6516c287"
+    },
+    {
+      "id": "lekarstva-tolperizon-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-671d8d05",
+      "name": "Толперизон 50 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/tolperizon-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-671d8d05.webp",
+      "sourceUrl": "https://apteka.by/goods/tolperizon-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-671d8d05"
+    },
+    {
+      "id": "lekarstva-filingud-lite-zheleza-bisglitsinat-30-mg-folat-400-mkg-vit-c-b6-b12-i-prebiotik-tabletki-30-sht-fbfe5ba2",
+      "name": "ФилинГуд Lite Железа бисглицинат 30 мг + фолат 400 мкг, вит. C, B6, B12 и пребиотик таблетки 30 шт",
+      "manufacturer": "Биотерра ООО, Беларусь",
+      "image": "img/lekarstva/filingud-lite-zheleza-bisglitsinat-30-mg-folat-400-mkg-vit-c-b6-b12-i-prebiotik-tabletki-30-sht-fbfe5ba2.webp",
+      "sourceUrl": "https://apteka.by/goods/filingud-lite-zheleza-bisglitsinat-30-mg-folat-400-mkg-vit-c-b6-b12-i-prebiotik-tabletki-30-sht-fbfe5ba2"
+    },
+    {
+      "id": "lekarstva-spironolakton-mik-25-mg-kapsuly-30-sht-fcfe9c77",
+      "name": "Спиронолактон-МИК 25 мг капсулы 30 шт",
+      "manufacturer": "Минскинтеркапс УП, Беларусь",
+      "image": "img/lekarstva/spironolakton-mik-25-mg-kapsuly-30-sht-fcfe9c77.webp",
+      "sourceUrl": "https://apteka.by/goods/spironolakton-mik-25-mg-kapsuly-30-sht-fcfe9c77"
+    },
+    {
+      "id": "lekarstva-mikrazim-avva-25000-yed-kapsuly-20-sht-6a571fe9",
+      "name": "Микразим АВВА 25000 ЕД капсулы 20 шт",
+      "manufacturer": "АВВА РУС АО, Россия",
+      "image": "img/lekarstva/mikrazim-avva-25000-yed-kapsuly-20-sht-6a571fe9.webp",
+      "sourceUrl": "https://apteka.by/goods/mikrazim-avva-25000-yed-kapsuly-20-sht-6a571fe9"
+    },
+    {
+      "id": "lekarstva-sumatriptan-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-40cb2289",
+      "name": "Суматриптан 100 мг таблетки покрытые пленочной оболочкой 6 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/sumatriptan-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-40cb2289.webp",
+      "sourceUrl": "https://apteka.by/goods/sumatriptan-100-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-40cb2289"
+    },
+    {
+      "id": "lekarstva-proginova-2-mg-tabletki-pokrytyye-obolochkoi-21-sht-94bb077f",
+      "name": "Прогинова 2 мг таблетки покрытые оболочкой 21 шт",
+      "manufacturer": "Дельфарм Лилль С.а.С, Франция",
+      "image": "img/lekarstva/proginova-2-mg-tabletki-pokrytyye-obolochkoi-21-sht-94bb077f.webp",
+      "sourceUrl": "https://apteka.by/goods/proginova-2-mg-tabletki-pokrytyye-obolochkoi-21-sht-94bb077f"
+    },
+    {
+      "id": "lekarstva-etorikoksib-am-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-c4bfbf68",
+      "name": "Эторикоксиб-АМ 120 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "АмантисМед ООО, Беларусь",
+      "image": "img/lekarstva/etorikoksib-am-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-c4bfbf68.webp",
+      "sourceUrl": "https://apteka.by/goods/etorikoksib-am-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-c4bfbf68"
+    },
+    {
+      "id": "lekarstva-etorisan-90-mg-tabletki-pokrytyye-obolochkoi-28-sht-6495cf7c",
+      "name": "Эторисан 90 мг таблетки покрытые оболочкой 28 шт",
+      "manufacturer": "Сан Фармасьютикал Индастриз Лтд., Индия",
+      "image": "img/lekarstva/etorisan-90-mg-tabletki-pokrytyye-obolochkoi-28-sht-6495cf7c.webp",
+      "sourceUrl": "https://apteka.by/goods/etorisan-90-mg-tabletki-pokrytyye-obolochkoi-28-sht-6495cf7c"
+    },
+    {
+      "id": "lekarstva-indatenzin-2-mg-0-625-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0dbd5375",
+      "name": "Индатензин 2 мг+0,625 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/indatenzin-2-mg-0-625-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0dbd5375.webp",
+      "sourceUrl": "https://apteka.by/goods/indatenzin-2-mg-0-625-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-0dbd5375"
+    },
+    {
+      "id": "lekarstva-espiro-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-bb921944",
+      "name": "Эспиро 50 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/espiro-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-bb921944.webp",
+      "sourceUrl": "https://apteka.by/goods/espiro-50-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-bb921944"
+    },
+    {
+      "id": "lekarstva-9-mesyatsev-foliyevaya-kislota-400-mkg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e5a90182",
+      "name": "9 месяцев Фолиевая кислота 400 мкг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Валента Фарм АО, Россия",
+      "image": "img/lekarstva/9-mesyatsev-foliyevaya-kislota-400-mkg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e5a90182.webp",
+      "sourceUrl": "https://apteka.by/goods/9-mesyatsev-foliyevaya-kislota-400-mkg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-e5a90182"
+    },
+    {
+      "id": "lekarstva-empagliflozin-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-933596b8",
+      "name": "Эмпаглифлозин-ЛФ 10 мг таблетки покрытые пленочной оболочкой 30 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/empagliflozin-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-933596b8.webp",
+      "sourceUrl": "https://apteka.by/goods/empagliflozin-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-30-sht-933596b8"
+    },
+    {
+      "id": "lekarstva-de-nol-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-112-sht-b1c1c47f",
+      "name": "Де-Нол 120 мг таблетки покрытые пленочной оболочкой 112 шт",
+      "manufacturer": "ЗиО-Здоровье ЗАО, Россия",
+      "image": "img/lekarstva/de-nol-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-112-sht-b1c1c47f.webp",
+      "sourceUrl": "https://apteka.by/goods/de-nol-120-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-112-sht-b1c1c47f"
+    },
+    {
+      "id": "lekarstva-rikulatron-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-56d33021",
+      "name": "Рикулатрон 10 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "Гедеон Рихтер Польша ООО, Польша",
+      "image": "img/lekarstva/rikulatron-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-56d33021.webp",
+      "sourceUrl": "https://apteka.by/goods/rikulatron-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-56d33021"
+    },
+    {
+      "id": "lekarstva-etoriaks-90-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-51fd081f",
+      "name": "Эториакс 90 мг таблетки покрытые пленочной оболочкой 28 шт",
+      "manufacturer": "КРКА д.д., Словения",
+      "image": "img/lekarstva/etoriaks-90-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-51fd081f.webp",
+      "sourceUrl": "https://apteka.by/goods/etoriaks-90-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-28-sht-51fd081f"
+    },
+    {
+      "id": "lekarstva-magne-v6-48-mg-5-mg-tabletki-pokrytyye-obolochkoi-180-sht-2e505093",
+      "name": "Магне В6 48 мг+5 мг таблетки покрытые оболочкой 180 шт",
+      "manufacturer": "Опелла Хелскеа Венгрия Лтд., Венгрия",
+      "image": "img/lekarstva/magne-v6-48-mg-5-mg-tabletki-pokrytyye-obolochkoi-180-sht-2e505093.webp",
+      "sourceUrl": "https://apteka.by/goods/magne-v6-48-mg-5-mg-tabletki-pokrytyye-obolochkoi-180-sht-2e505093"
+    },
+    {
+      "id": "lekarstva-ginkgo-biloba-s-glitsinom-i-vitaminom-v6-tabletki-0-3-g-60-sht-naturalis-373f32fe",
+      "name": "Гинкго билоба с глицином и витамином В6 таблетки 0,3 г 60 шт Naturalis",
+      "manufacturer": "Лайф Фарм ООО, Россия",
+      "image": "img/lekarstva/ginkgo-biloba-s-glitsinom-i-vitaminom-v6-tabletki-0-3-g-60-sht-naturalis-373f32fe.webp",
+      "sourceUrl": "https://apteka.by/goods/ginkgo-biloba-s-glitsinom-i-vitaminom-v6-tabletki-0-3-g-60-sht-naturalis-373f32fe"
+    },
+    {
+      "id": "lekarstva-giposart-n-12-5-mg-8-mg-tabletki-30-sht-9c6947bd",
+      "name": "Гипосарт Н 12,5 мг+8 мг таблетки 30 шт",
+      "manufacturer": "Акрихин ХФК АО, Россия",
+      "image": "img/lekarstva/giposart-n-12-5-mg-8-mg-tabletki-30-sht-9c6947bd.webp",
+      "sourceUrl": "https://apteka.by/goods/giposart-n-12-5-mg-8-mg-tabletki-30-sht-9c6947bd"
+    },
+    {
+      "id": "lekarstva-bioratsef-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-0bb4aec1",
+      "name": "Биорацеф 500 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Польфарма АО, Польша",
+      "image": "img/lekarstva/bioratsef-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-0bb4aec1.webp",
+      "sourceUrl": "https://apteka.by/goods/bioratsef-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-0bb4aec1"
+    },
+    {
+      "id": "lekarstva-ospamoks-dt-500-mg-tabletki-dispergiruyemyye-12-sht-41f1f191",
+      "name": "Оспамокс ДТ 500 мг таблетки диспергируемые 12 шт",
+      "manufacturer": "Сандоз ГмбХ, Австрия",
+      "image": "img/lekarstva/ospamoks-dt-500-mg-tabletki-dispergiruyemyye-12-sht-41f1f191.webp",
+      "sourceUrl": "https://apteka.by/goods/ospamoks-dt-500-mg-tabletki-dispergiruyemyye-12-sht-41f1f191"
+    },
+    {
+      "id": "lekarstva-rinitsef-300-mg-kapsuly-10-sht-142949df",
+      "name": "Риницеф 300 мг капсулы 10 шт",
+      "manufacturer": "Реб-Фарма, Беларусь",
+      "image": "img/lekarstva/rinitsef-300-mg-kapsuly-10-sht-142949df.webp",
+      "sourceUrl": "https://apteka.by/goods/rinitsef-300-mg-kapsuly-10-sht-142949df"
+    },
+    {
+      "id": "lekarstva-azitromitsin-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-5a4b25aa",
+      "name": "Азитромицин 500 мг таблетки покрытые пленочной оболочкой 6 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/azitromitsin-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-5a4b25aa.webp",
+      "sourceUrl": "https://apteka.by/goods/azitromitsin-500-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-6-sht-5a4b25aa"
+    },
+    {
+      "id": "lekarstva-ofloksatsin-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-8d7d8ee0",
+      "name": "Офлоксацин 200 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Борисовский ЗМП ОАО, Беларусь",
+      "image": "img/lekarstva/ofloksatsin-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-8d7d8ee0.webp",
+      "sourceUrl": "https://apteka.by/goods/ofloksatsin-200-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-8d7d8ee0"
+    },
+    {
+      "id": "lekarstva-tabeks-1-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-100-sht-b5b41fac",
+      "name": "Табекс 1,5 мг таблетки покрытые пленочной оболочкой 100 шт",
+      "manufacturer": "Софарма АО, Болгария",
+      "image": "img/lekarstva/tabeks-1-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-100-sht-b5b41fac.webp",
+      "sourceUrl": "https://apteka.by/goods/tabeks-1-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-100-sht-b5b41fac"
+    },
+    {
+      "id": "lekarstva-lordes-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-69421f03",
+      "name": "Лордес 5 мг таблетки покрытые пленочной оболочкой 10 шт",
+      "manufacturer": "Нобел Илач Санайи ве Тиджарет А.Ш., Турция",
+      "image": "img/lekarstva/lordes-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-69421f03.webp",
+      "sourceUrl": "https://apteka.by/goods/lordes-5-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-10-sht-69421f03"
+    },
+    {
+      "id": "lekarstva-diane-35-2-mg-0-035-mg-tabletki-pokrytyye-obolochkoi-21-sht-6d0f8463",
+      "name": "Диане-35 2 мг+0,035 мг таблетки покрытые оболочкой 21 шт",
+      "manufacturer": "Байер Веймар ГмбХ и Ко.КГ, Германия",
+      "image": "img/lekarstva/diane-35-2-mg-0-035-mg-tabletki-pokrytyye-obolochkoi-21-sht-6d0f8463.webp",
+      "sourceUrl": "https://apteka.by/goods/diane-35-2-mg-0-035-mg-tabletki-pokrytyye-obolochkoi-21-sht-6d0f8463"
+    },
+    {
+      "id": "lekarstva-lindinet-20-tabletki-pokrytyye-obolochkoi-63-sht-cbb6a3b8",
+      "name": "Линдинет 20 таблетки покрытые оболочкой 63 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/lindinet-20-tabletki-pokrytyye-obolochkoi-63-sht-cbb6a3b8.webp",
+      "sourceUrl": "https://apteka.by/goods/lindinet-20-tabletki-pokrytyye-obolochkoi-63-sht-cbb6a3b8"
+    },
+    {
+      "id": "lekarstva-eskapel-1-5-mg-tabletki-1-sht-2f885d0f",
+      "name": "Эскапел 1,5 мг таблетки 1 шт",
+      "manufacturer": "Гедеон Рихтер ОАО, Венгрия",
+      "image": "img/lekarstva/eskapel-1-5-mg-tabletki-1-sht-2f885d0f.webp",
+      "sourceUrl": "https://apteka.by/goods/eskapel-1-5-mg-tabletki-1-sht-2f885d0f"
+    },
+    {
+      "id": "lekarstva-klostilbegit-50-mg-tabletki-10-sht-0b8aff04",
+      "name": "Клостилбегит 50 мг таблетки 10 шт",
+      "manufacturer": "Фармацевтический завод ЭГИС ЗАО, Венгрия",
+      "image": "img/lekarstva/klostilbegit-50-mg-tabletki-10-sht-0b8aff04.webp",
+      "sourceUrl": "https://apteka.by/goods/klostilbegit-50-mg-tabletki-10-sht-0b8aff04"
+    },
+    {
+      "id": "lekarstva-mastodinon-tabletki-60-sht-b706835d",
+      "name": "Мастодинон таблетки 60 шт",
+      "manufacturer": "Rottendorf Pharma GmbH, Германия",
+      "image": "img/lekarstva/mastodinon-tabletki-60-sht-b706835d.webp",
+      "sourceUrl": "https://apteka.by/goods/mastodinon-tabletki-60-sht-b706835d"
+    },
+    {
+      "id": "lekarstva-ketorolak-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-a9078e86",
+      "name": "Кеторолак-ЛФ 10 мг таблетки покрытые пленочной оболочкой 50 шт",
+      "manufacturer": "Лекфарм СООО, Беларусь",
+      "image": "img/lekarstva/ketorolak-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-a9078e86.webp",
+      "sourceUrl": "https://apteka.by/goods/ketorolak-lf-10-mg-tabletki-pokrytyye-plenochnoi-obolochkoi-50-sht-a9078e86"
+    },
+    {
+      "id": "lekarstva-valtreks-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-c70daf24",
+      "name": "Валтрекс 500 мг таблетки покрытые оболочкой 10 шт",
+      "manufacturer": "Глаксо Вэллком С.А., Испания",
+      "image": "img/lekarstva/valtreks-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-c70daf24.webp",
+      "sourceUrl": "https://apteka.by/goods/valtreks-500-mg-tabletki-pokrytyye-obolochkoi-10-sht-c70daf24"
+    },
+    {
+      "id": "lekarstva-anaferon-tabletki-dlya-rassasyvaniya-20-sht-bf201d54",
+      "name": "Анаферон таблетки для рассасывания 20 шт",
+      "manufacturer": "НПФ Материа Медика Холдинг ООО, Россия",
+      "image": "img/lekarstva/anaferon-tabletki-dlya-rassasyvaniya-20-sht-bf201d54.webp",
+      "sourceUrl": "https://apteka.by/goods/anaferon-tabletki-dlya-rassasyvaniya-20-sht-bf201d54"
+    },
+    {
+      "id": "lekarstva-lazolvan-30-mg-tabletki-20-sht-3683af9d",
+      "name": "Лазолван 30 мг таблетки 20 шт",
+      "manufacturer": "Дельфарм Реймс, Франция",
+      "image": "img/lekarstva/lazolvan-30-mg-tabletki-20-sht-3683af9d.webp",
+      "sourceUrl": "https://apteka.by/goods/lazolvan-30-mg-tabletki-20-sht-3683af9d"
+    }
+  ]
+}

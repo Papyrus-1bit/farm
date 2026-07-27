@@ -1,0 +1,160 @@
+{
+  "id": "test-poloski",
+  "title": "Тест-полоски",
+  "items": [
+    {
+      "id": "test-poloski-ekspress-test-na-vich-1-i-2-tipa-v-krovi-1-sht-labu-f0bbf5fb",
+      "name": "Экспресс-тест на ВИЧ 1 и 2 типа в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-vich-1-i-2-tipa-v-krovi-1-sht-labu-f0bbf5fb.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-vich-1-i-2-tipa-v-krovi-1-sht-labu-f0bbf5fb"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-skrytuyu-krov-v-kale-fob-1-sht-labu-ee88c0f8",
+      "name": "Экспресс-тест на скрытую кровь в кале (FOB) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-skrytuyu-krov-v-kale-fob-1-sht-labu-ee88c0f8.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-skrytuyu-krov-v-kale-fob-1-sht-labu-ee88c0f8"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-transferrin-i-skrytuyu-krov-v-kale-transferrin-fob-1-sht-labu-8b48a574",
+      "name": "Экспресс-тест на трансферрин и скрытую кровь в кале (Transferrin/FOB) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-transferrin-i-skrytuyu-krov-v-kale-transferrin-fob-1-sht-labu-8b48a574.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-transferrin-i-skrytuyu-krov-v-kale-transferrin-fob-1-sht-labu-8b48a574"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-lyamblii-v-kale-g-lamblia-1-sht-labu-a4267159",
+      "name": "Экспресс-тест на лямблии в кале (G.Lamblia) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-lyamblii-v-kale-g-lamblia-1-sht-labu-a4267159.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-lyamblii-v-kale-g-lamblia-1-sht-labu-a4267159"
+    },
+    {
+      "id": "test-poloski-ekspress-test-dlya-vyyavleniya-antigena-sars-cov-2-i-antigenov-grippa-a-v-1-sht-labu-e6b738ec",
+      "name": "Экспресс-тест для выявления антигена SARS-CoV-2 и антигенов гриппа А+В 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-dlya-vyyavleniya-antigena-sars-cov-2-i-antigenov-grippa-a-v-1-sht-labu-e6b738ec.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-dlya-vyyavleniya-antigena-sars-cov-2-i-antigenov-grippa-a-v-1-sht-labu-e6b738ec"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-psa-psa-polukolichestvennyi-v-krovi-prostaticheskii-spetsificheskii-antigen-1-sht-labu-dac4a67b",
+      "name": "Экспресс-тест на ПСА (PSA) полуколичественный в крови (простатический специфический антиген) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-psa-psa-polukolichestvennyi-v-krovi-prostaticheskii-spetsificheskii-antigen-1-sht-labu-dac4a67b.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-psa-psa-polukolichestvennyi-v-krovi-prostaticheskii-spetsificheskii-antigen-1-sht-labu-dac4a67b"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-gepatit-b-hbsag-v-krovi-1-sht-labu-69ddb501",
+      "name": "Экспресс-тест на гепатит B (HBsAg) в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-gepatit-b-hbsag-v-krovi-1-sht-labu-69ddb501.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-gepatit-b-hbsag-v-krovi-1-sht-labu-69ddb501"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-gepatit-a-v-krovi-1-sht-labu-e7364a5a",
+      "name": "Экспресс-тест на гепатит A в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-gepatit-a-v-krovi-1-sht-labu-e7364a5a.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-gepatit-a-v-krovi-1-sht-labu-e7364a5a"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-sifilis-v-krovi-1-sht-labu-31b5b7b6",
+      "name": "Экспресс-тест на сифилис в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-sifilis-v-krovi-1-sht-labu-31b5b7b6.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-sifilis-v-krovi-1-sht-labu-31b5b7b6"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-mikroalbumin-v-moche-malb-1-sht-labu-2578eb9c",
+      "name": "Экспресс-тест на микроальбумин в моче (MALB) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-mikroalbumin-v-moche-malb-1-sht-labu-2578eb9c.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-mikroalbumin-v-moche-malb-1-sht-labu-2578eb9c"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-prokaltsitonin-pct-v-krovi-1-sht-labu-aba49b63",
+      "name": "Экспресс-тест на прокальцитонин (PCT) в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-prokaltsitonin-pct-v-krovi-1-sht-labu-aba49b63.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-prokaltsitonin-pct-v-krovi-1-sht-labu-aba49b63"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-rotavirus-v-kale-1-sht-labu-c05c0c0a",
+      "name": "Экспресс-тест на ротавирус в кале 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-rotavirus-v-kale-1-sht-labu-c05c0c0a.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-rotavirus-v-kale-1-sht-labu-c05c0c0a"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-entamebu-v-kale-entamoeba-histolytica-1-sht-labu-7a43ed4e",
+      "name": "Экспресс-тест на энтамебу в кале (Entamoeba histolytica) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-entamebu-v-kale-entamoeba-histolytica-1-sht-labu-7a43ed4e.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-entamebu-v-kale-entamoeba-histolytica-1-sht-labu-7a43ed4e"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-antitela-k-mononukleozu-ebv-ab-v-krovi-1-sht-labu-a9330758",
+      "name": "Экспресс-тест на антитела к мононуклеозу (EBV-Ab) в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-antitela-k-mononukleozu-ebv-ab-v-krovi-1-sht-labu-a9330758.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-antitela-k-mononukleozu-ebv-ab-v-krovi-1-sht-labu-a9330758"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-streptokokk-gruppy-b-streptatest-1-sht-labu-482b4b31",
+      "name": "Экспресс-тест на стрептококк группы B (стрептатест) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-streptokokk-gruppy-b-streptatest-1-sht-labu-482b4b31.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-streptokokk-gruppy-b-streptatest-1-sht-labu-482b4b31"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-kriptosporidium-i-lyamblii-v-kale-cryptosporidium-g-lamblia-1-sht-labu-7ca5eb06",
+      "name": "Экспресс-тест на криптоспоридиум и лямблии в кале (Cryptosporidium/G.Lamblia) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-kriptosporidium-i-lyamblii-v-kale-cryptosporidium-g-lamblia-1-sht-labu-7ca5eb06.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-kriptosporidium-i-lyamblii-v-kale-cryptosporidium-g-lamblia-1-sht-labu-7ca5eb06"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-c-reaktivnyi-belok-srb-crp-v-krovi-1-sht-labu-9f9d8edf",
+      "name": "Экспресс-тест на C-реактивный белок (СРБ, CRP) в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-c-reaktivnyi-belok-srb-crp-v-krovi-1-sht-labu-9f9d8edf.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-c-reaktivnyi-belok-srb-crp-v-krovi-1-sht-labu-9f9d8edf"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-khelikobakter-v-krovi-antitela-k-h-pylori-1-sht-labu-7366b7a8",
+      "name": "Экспресс-тест на хеликобактер в крови (антитела к H.pylori) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-khelikobakter-v-krovi-antitela-k-h-pylori-1-sht-labu-7366b7a8.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-khelikobakter-v-krovi-antitela-k-h-pylori-1-sht-labu-7366b7a8"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-khelikobakter-v-kale-antigen-h-pylori-1-sht-labu-c940e50f",
+      "name": "Экспресс-тест на хеликобактер в кале (антиген H.pylori) 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-khelikobakter-v-kale-antigen-h-pylori-1-sht-labu-c940e50f.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-khelikobakter-v-kale-antigen-h-pylori-1-sht-labu-c940e50f"
+    },
+    {
+      "id": "test-poloski-ekspress-test-na-gepatit-c-hcv-v-krovi-1-sht-labu-ef51e95c",
+      "name": "Экспресс-тест на гепатит C (HCV) в крови 1 шт LabU",
+      "manufacturer": "ЛабЮ ООО, Беларусь",
+      "image": "img/test-poloski/ekspress-test-na-gepatit-c-hcv-v-krovi-1-sht-labu-ef51e95c.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-na-gepatit-c-hcv-v-krovi-1-sht-labu-ef51e95c"
+    },
+    {
+      "id": "test-poloski-ekspress-test-sars-cov-2-igm-igg-test-dlya-diagnostiki-koronavirusnoi-infektsii-1-sht-khopibokh-510f2318",
+      "name": "Экспресс-тест SARS-CoV-2-IgМ/IgG тест для диагностики коронавирусной инфекции 1 шт ХопИбох",
+      "manufacturer": "УП ХОП ИБОХ НАН Беларуси, Беларусь",
+      "image": "img/test-poloski/ekspress-test-sars-cov-2-igm-igg-test-dlya-diagnostiki-koronavirusnoi-infektsii-1-sht-khopibokh-510f2318.webp",
+      "sourceUrl": "https://apteka.by/goods/ekspress-test-sars-cov-2-igm-igg-test-dlya-diagnostiki-koronavirusnoi-infektsii-1-sht-khopibokh-510f2318"
+    },
+    {
+      "id": "test-poloski-multi-test-no149-nabor-dlya-ekspress-analiza-vich-v-slyune-1-sht-multi-lab-b97f1389",
+      "name": "Мульти Тест №149 набор для экспресс-анализа ВИЧ в слюне 1 шт Мульти Лаб",
+      "manufacturer": "Мульти Лаб ООО, Беларусь",
+      "image": "img/test-poloski/multi-test-no149-nabor-dlya-ekspress-analiza-vich-v-slyune-1-sht-multi-lab-b97f1389.webp",
+      "sourceUrl": "https://apteka.by/goods/multi-test-no149-nabor-dlya-ekspress-analiza-vich-v-slyune-1-sht-multi-lab-b97f1389"
+    }
+  ]
+}

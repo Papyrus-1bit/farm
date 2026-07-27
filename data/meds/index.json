@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source": "https://apteka.by/",
+  "license": "Данные каталога apteka.by — только для личного заучивания названий, без коммерческого использования",
+  "generatedAt": "2026-07-27T21:02:42.392Z",
+  "categories": [
+    {
+      "id": "lekarstva",
+      "title": "Лекарства от А до Я",
+      "count": 417
+    },
+    {
+      "id": "bad",
+      "title": "БАД от А до Я",
+      "count": 319
+    },
+    {
+      "id": "imn",
+      "title": "ИМН от А до Я",
+      "count": 117
+    },
+    {
+      "id": "tonometry",
+      "title": "Тонометры",
+      "count": 31
+    },
+    {
+      "id": "glyukometry",
+      "title": "Глюкометры",
+      "count": 18
+    },
+    {
+      "id": "test-poloski",
+      "title": "Тест-полоски",
+      "count": 22
+    },
+    {
+      "id": "testy-beremennost",
+      "title": "Тесты на беременность",
+      "count": 20
+    },
+    {
+      "id": "linzy",
+      "title": "Контактные линзы",
+      "count": 34
+    },
+    {
+      "id": "aptechki",
+      "title": "Аптечки",
+      "count": 20
+    },
+    {
+      "id": "lechebnoe-pitanie",
+      "title": "Лечебное питание",
+      "count": 2
+    }
+  ]
+}
